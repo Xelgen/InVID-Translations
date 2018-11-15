@@ -1,2 +1,2 @@
-# InVID-Translation
-Get InVID plugin translation
+# InVID-Translations
+Get InVID plugin translations
