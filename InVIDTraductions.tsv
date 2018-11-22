@@ -338,6 +338,7 @@ keyframes_wait_VIDEO_DOWNLOAD_STARTED	The video is being downloaded before its a
 keyframes_wait_STARTED	Video analysis running. Step 	Analyse de la vidéo en cours. Etape 
 youtube_title	Youtube thumbnails reverse search	Recherche inversée des imagettes Youtube
 youtube_input	Youtube video URL	Adresse de la vidéo Youtube
+twitter_title	Twitter advanced search	Recherche avancée Twitter
 twitter_termbox	Keyword or #	Mot clé ou #
 twitter_tw-account	From (Twitter account name)	De (Nom de compte Twitter)
 twitter_filter	Filter (e.g. safe, media, retweets, native_video, periscope, vine, images, twimg or links)	Filtre (ex. safe, media, retweets, native_video, periscope, vine, images, twimg or links)
