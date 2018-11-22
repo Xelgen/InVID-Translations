@@ -22,7 +22,7 @@ button_reverse_yandex	Yandex Image reverse search	Recherche inversée Yandex ima
 button_reverse_tineye	Tineye Image reverse search	Recherche inversée Tineye
 button_reverse_twitter	Twitter video search	Recherche sur Twitter
 api_title	Video contextual verification	Vérification du contexte de la vidéo
-api_reprocess	Reprocess	Retraiter
+api_repro	Reprocess	Retraiter
 api_comments	Verification comments	Commentaires vérifiés
 api_map	Map	Carte
 api_input	Copy and paste a Youtube, Facebook or Twitter url	Copier et coller une adresse Youtube, Facebook ou Twitter
