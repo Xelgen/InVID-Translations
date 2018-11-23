@@ -202,7 +202,7 @@ audio_desc_15	Number; giving the number of track samples (ie. frames)	Nombre; do
 audio_desc_16		
 audio_desc_17	Number; providing the bitrate of the track in bits per second	Nombre; taux de bits par second de la piste
 metadata_content_title	Metadata	Métadonnées
-metadata_content_input	Image URL in jpg/jpeg or video URL in mp4/m4v format	Adresse de l&apos;image au format jpg/jpeg ou video au format mp4/m4v
+metadata_content_input	Image URL in jpg/jpeg or video URL in mp4/m4v format	Adresse de l'image au format jpg/jpeg ou video au format mp4/m4v
 metadata_radio_image	Image	Image
 metadata_radio_video	Video	Vidéo
 metadata_table_error	Video failed loading. Check the URL and try again	Vidéo impossible à charger. Veuillez verifier l'URL et réessayer
@@ -348,11 +348,11 @@ twitter_geocode	Geocode (e.g. -22.912214,-43.230182,1km or -22.912214,-43.230182
 twitter_near	Near (city name)	Proche de : (nom de ville)
 twitter_within	Within (e.g. 15mi or 15km)	Dans (ex: 15mi ou 15km)
 twitter_from-date	Since	Depuis
-twitter_to-date	Until	Jusqu&apos;à
+twitter_to-date	Until	Jusqu'à
 twitter_local_time	Local time	Heure locale
 twitter_gmt	GMT	GMT
 magnifier_title	Image Magnifier	Inspecteur d'image
-magnifier_urlbox	Image URL	Adresse de l&apos;image
+magnifier_urlbox	Image URL	Adresse de l'image
 magnifier_accor	More filters	Plus de filtres
 magnifier_radio_1	None	Aucun
 magnifier_radio_2	Sharp	Contraste
@@ -367,10 +367,10 @@ magnifier_yandex	Yandex Image	Yandex Image
 magnifier_tineye	Tineye Image	Tineye Image
 magnifier_forensic	Forensic	Forensic
 copyright_title	Check Video Copyright Status	Vérifier le copyright de la vidéo
-copyright_input	Paste a Youtube, Twitter of Facebook video URL	Copier une l&apos;url de la video Youtube, Twitter ou Facebook
+copyright_input	Paste a Youtube, Twitter of Facebook video URL	Copier une l'url de la video Youtube, Twitter ou Facebook
 copyright_footer	Developed by the GRIHO Research Group © 2018 Universitat de Lleida<br>Contact: <a href="mailto:invid@udl.cat">invid@udl.cat</a>	Developpé par le GRIHO Research Group © 2018 Universitat de Lleida<br>Contact: <a href="mailto:invid@udl.cat">invid@udl.cat</a>
 forensic_title	Image forensic analysis	Analyse forensic d'image
-forensic_input	Insert the image URL	Insérez l&#39URL d&#39une image
+forensic_input	Insert the image URL	Insérez l'URL d'une image
 forensic_content_title	Forensic analysis	Analyse forensic
 forensic_error_unsupported_file	The submitted URL is an unsupported image file, e.g. gif image or video	L'URL soumise est un fichier image non pris en charge, par exemple une image gif ou une vidéo
 forensic_error_image_url_error	The submitted URL is an image file but it could not be downloaded, it may be due to network problem or download restrictions	L'URL soumise est un fichier image, mais il n'a pas pu être téléchargé. Cela peut être dû à un problème de réseau ou à des restrictions de téléchargement
