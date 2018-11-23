@@ -202,6 +202,7 @@ audio_desc_15	Number; giving the number of track samples (ie. frames)	Nombre; do
 audio_desc_16		
 audio_desc_17	Number; providing the bitrate of the track in bits per second	Nombre; taux de bits par second de la piste
 metadata_content_title	Metadata	Métadonnées
+metadata_content_input	Image URL in jpg/jpeg or video URL in mp4/m4v format	Adresse de l&apos;image au format jpg/jpeg ou video au format mp4/m4v
 metadata_radio_image	Image	Image
 metadata_radio_video	Video	Vidéo
 metadata_table_error	Video failed loading. Check the URL and try again	Vidéo impossible à charger. Veuillez verifier l'URL et réessayer
@@ -351,6 +352,7 @@ twitter_to-date	Until	Jusqu&apos;à
 twitter_local_time	Local time	Heure locale
 twitter_gmt	GMT	GMT
 magnifier_title	Image Magnifier	Inspecteur d'image
+magnifier_urlbox	Image URL	Adresse de l&apos;image
 magnifier_accor	More filters	Plus de filtres
 magnifier_radio_1	None	Aucun
 magnifier_radio_2	Sharp	Contraste
