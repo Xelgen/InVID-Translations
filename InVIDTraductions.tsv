@@ -456,7 +456,7 @@ classroom_title_4	How disinformation works (WIRED)	Vous avez dit fake news ? (De
 classroom_embed_4	<iframe width="560" height="315" src="https://www.youtube.com/embed/frjITitjisY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	<iframe width="560" height="315" src="https://www.youtube.com/embed/B9xXWkHMpkI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	<iframe width="560" height="315" src="https://www.youtube.com/embed/jDcI3akPjCE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 classroom_title_5	Figthing disinformation in the classroom (CBC News)	5 conseils pour débusquer les fakes news (Kombini)	El negocio de las noticias falsas
 classroom_embed_5	<iframe width="560" height="315" src="https://www.youtube.com/embed/MeMp_E5dl4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	<iframe width="560" height="315" src="https://www.youtube.com/embed/-5BoejLNc9A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	<iframe width="560" height="315" src="https://www.youtube.com/embed/b78JI7-pEVY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-api_help_video	<iframe width="560" height="315" src="https://www.youtube.com/embed/iXSn33eS2xg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>		
+api_help_video	https://www.youtube.com/embed/iXSn33eS2xg?rel=0		
 keyframes_help_video	 	 	 
 thumbnails_help_video	 	 	 
 twitter_help_video	 	 	 
@@ -464,7 +464,7 @@ magnifier_help_video
 metadata_help_video	 	 	 
 copyright_help_video	 	 	 
 forensic_help_video	 	 	 
-api_help_content		Contenu français du service analyse	Contenido en francés del servicio de análisis
+api_help_content	Analysis service	Contenu français du service analyse	Contenido en francés del servicio de análisis
 keyframes_help_content			
 thumbnails_help_content			
 twitter_help_content			
