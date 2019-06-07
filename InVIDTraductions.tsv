@@ -517,9 +517,9 @@ quiz_item_answer_6	This deep fake video is a mashup between actress Jennifer Law
 quiz_item_url_7	https://www.youtube.com/embed/Bp43FJ0O-Nk?rel=0	https://www.youtube.com/embed/Bp43FJ0O-Nk?rel=0	https://www.youtube.com/embed/Bp43FJ0O-Nk?rel=0
 quiz_item_title_7			
 quiz_item_answer_7	This video is supposed to show a 7D wildlife park in Japan. In fact, it comes from virtual reality clips. More information: <a target="_blank" href="https://factcheck.afp.com/no-not-video-7d-wildlife-park-japan">https://factcheck.afp.com/no-not-video-7d-wildlife-park-japan</a>	Cette vidéo est censée montrer un parc animalier 7D au Japon. En fait, il s'agit de clips de réalité virtuelle. Plus d'informations : <a target="_blank" href="https://factcheck.afp.com/no-not-video-7d-wildlife-park-japan">https://factcheck.afp.com/no-not-video-7d-wildlife-park-japan</a>	Este video se supone que muestra un parque de vida silvestre 7D en Japón. De hecho, proviene de clips de realidad virtual. Más información: <a target="_blank" href="https://factcheck.afp.com/no-not-video-7d-wildlife-park-japan">https://factcheck.afp.com/no-not-video-7d-wildlife-park-japan</a>
-quiz_item_url_8	https://www.youtube.com/embed/buxGwT94e10?rel=0	https://www.youtube.com/embed/buxGwT94e10?rel=0	https://www.youtube.com/embed/buxGwT94e10?rel=0
+quiz_item_url_8			
 quiz_item_title_8			
-quiz_item_answer_8	This video taken by a Czech tourist, viral in many countries during the summer 2018, is supposed to show a television crew staging migrants drowning on a beach in Crete, Greece. In fact, it was the filming of a documentary on the 1922 Greek exodus from Asia Minor.	Cette vidéo prise par un touriste tchèque, viral dans de nombreux pays durant l'été 2018, est censée montrer une équipe de télévision mettant en scène des migrants se noyant sur une plage en Crète (Grèce). En fait, il s'agissait du tournage d'un documentaire sur l'exode des Grecs d'Asie Mineure en 1922.	Este video tomado por un turista checo, viral en muchos países durante el verano de 2018, se supone que muestra a un equipo de televisión escenificando a los inmigrantes ahogándose en una playa de Creta, Grecia. De hecho, fue el rodaje de un documental sobre el éxodo griego de Asia Menor en 1922.
+quiz_item_answer_8			
 quiz_item_url_9			
 quiz_item_title_9			
 quiz_item_answer_9			
@@ -535,4 +535,4 @@ home_tutorial_image_2	ht_2_en.png	ht_2_fr.png	ht_2_es.png
 home_tutorial_image_3	ht_3_en.png	ht_3_fr.png	ht_3_es.png
 home_tutorial_image_4			
 home_tutorial_image_5			
-home_tutorial_display	2	2	2
+home_tutorial_display	1	1	1
