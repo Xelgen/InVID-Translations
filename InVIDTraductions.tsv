@@ -536,3 +536,5 @@ home_tutorial_image_3	ht_3_en.png	ht_3_fr.png	ht_3_es.png
 home_tutorial_image_4			
 home_tutorial_image_5			
 home_tutorial_display	1	1	1
+lang_code	en	fr	es
+lang_label	English	Français	Español
