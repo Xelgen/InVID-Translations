@@ -538,7 +538,7 @@ home_tutorial_image_4
 home_tutorial_image_5												
 home_tutorial_display	1	1	1	1	1	0	1	1	1	0		
 lang_code	EN	FR	ES	SV	IT	DE	RU	EL	RO			
-lang_label	English	Français	Español	Svenska	Italiano	Deutsche	русский	Eλληνικά	Română			
+lang_label	English	Français	Español	Svenska	Italiano	Deutsch	русский	Eλληνικά	Română			
 twitterStatsErrorMessage2	Keyword, Since or Until dates are empty	Mot clé, Depuis ou jusqu'à non précisé	Los campos Palabra clave, Desde o Hasta estén vacíos	Sökord Sedan eller tills datum är tomma	Parola chiave, sono vuoti o fino Poiché le date	Stichwort, Da oder Bis Daten sind leer	Ключевое слово, так или до даты, пустуют	Λέξη-κλειδί, Από ή έως ότου οι ημερομηνίες είναι άδειο	Cuvinte cheie, deoarece sau până datele sunt goale			
 twitter_sna_title	Twitter Social network analysis	Analyse du réseau social Twitter	Análisis de la red social Twitter	nätverksanalys Twitter Social	analisi della rete sociale Twitter	Twitter Social Netzwerkanalyse	Анализ социальной сети Twitter	Ανάλυση Twitter Κοινωνικό δίκτυο	Analiza de rețea socială Twitter			
 twitter_sna_local_time	Local time	Heure locale	Hora local	Lokal tid	Ora locale	Ortszeit	Местное время	Τοπική ώρα	Ora locala			
@@ -565,7 +565,7 @@ lang_fr	French	Français	Francés	franska	francese	Französisch	французк
 lang_en	English	Anglais	Inglés	engelsk	Inglese	Englisch	английский	Αγγλικά	Engleză			
 lang_es	Spanish	Espagnol	Español	spanska	spagnolo	Spanisch	испанский	Ισπανικά	Spaniolă			
 lang_ar	Arab	Arabe	Árabe	Arab	arabo	Araber	араб	Άραβας	arab			
-lang_de	German	Allemand	Alemán	tysk	Tedesco	Deutsche	Немецкий	Γερμανός	limba germana			
+lang_de	German	Allemand	Alemán	tysk	Tedesco	Deutsch	Немецкий	Γερμανός	limba germana			
 lang_it	Italian	Italien	Italiano	italiensk	italiano	Italienisch	итальянский	ιταλικός	Italiană			
 lang_id	Indonesian	Indonésien	Indonesio	indonesiska	indonesiano	Indonesier	индонезийский	Ινδονησίας	indoneziană			
 lang_pt	Portuguese	Portugais	Portugués	portugisiska	portoghese	Portugiesisch	португальский	Πορτογαλικά	portugheză			
