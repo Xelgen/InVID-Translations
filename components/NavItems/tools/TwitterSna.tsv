@@ -59,7 +59,7 @@ sna_result_tweet	Tweet	Tweet	Tweet
 sna_result_retweet_nb	Retweet number	Nombre de retweets	Candidad de retweet
 sna_result_like_nb	Like number	Nombre de likes	Candidad de ''me gusta''
 sna_result_hide	Hide	Ferme	Cerca
-sna_result_download Download Télécharger  Escarga
-sna_result_slected_tweets Selected Tweets Tweets selectionnés Tweets selectionados
-sna_result_url_in_tweets  Urls in tweets Urls dans les tweets Urls en tweets
-sna_result_go_to  Got to url  Ouvrir le lien  Ir a la pagina
+sna_result_download	Download	Télécharger 	Escarga
+sna_result_slected_tweets	Selected Tweets	Tweets selectionnés	Tweets selectionados
+sna_result_url_in_tweets	Urls in tweets	Urls dans les tweets	Urls en tweets
+sna_result_go_to	Got to url	Ouvrir le lien	Ir a la pagina
