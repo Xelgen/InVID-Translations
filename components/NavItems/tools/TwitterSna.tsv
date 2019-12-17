@@ -66,3 +66,6 @@ sna_result_go_to	Go to url	Ouvrir le lien	Ir a la pagina
 sna_result_go_to_tweet	Go to tweet	Ouvrir le tweet	Ir a tweet
 sna_result_download_png	Download as PNG	Télécharger en tant que PNG	Descargar como PNG
 sna_result_download_svg	Download as SVG	Télécharger en tant que SVG	Descargar como SVG
+sna_result_word	Word	Mot	Palabra
+sna_result_nb_occ	Number of occurrences	Nombre d'occurrences	Candidad de incidentes
+sna_result_entity	Named entity	Entité nommée	Entidad nombrada
