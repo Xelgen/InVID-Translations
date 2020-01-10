@@ -69,3 +69,6 @@ sna_result_download_svg	Download as SVG	Télécharger en tant que SVG	Descargar 
 sna_result_word	Word	Mot	Palabra
 sna_result_nb_occ	Number of occurrences	Nombre d'occurrences	Candidad de incidentes
 sna_result_entity	Named entity	Entité nommée	Entidad nombrada
+sna_no_data	No data available	Aucune donnée disponible	Datos no disponibles
+sna_result_heatMap	Distribution of tweets	Distribution des tweets	Distribución de tweets	
+
