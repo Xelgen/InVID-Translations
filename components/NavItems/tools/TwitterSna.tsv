@@ -42,7 +42,7 @@ lang_he	Hebrew	Hébreu	Hebreo
 lang_ur	Urdu	Ourdou	Urdu
 lang_th	Thai	Thaï	Tailandés
 button_submit	Submit	Envoyer	Enviar
-default_sna_error	Twitter analysis interrupted due to unknown cause. Please re-submit the video.	L'analyse de Twitter a été interrompue dû à une cause inconnue. Veuillez ré-envoyer la vidéo.	El análisis de Twitter se ha interrumpido por una causa inconocida. Inténtalo con otro video.
+default_sna_error	Twitter analysis interrupted due to unknown cause. Please re-send the form.	L'analyse de Twitter a été interrompue dû à une cause inconnue. Veuillez ré-envoyer le formulaire.	El análisis de Twitter se ha interrumpido por una causa inconocida. Enviar un nuevo formulario.
 twitterSnaErrorMessage	An error occurred while processing tweets	Une erreur s'est produite lors du traitement des tweets	Se produjo un error en el procesamiento de tweets
 top_users_pie_chart_title	Most active users	Utilisateurs les plus actifs	Usuarios más activos
 user_time_chart_title	Propagation timeline	Frise chronologique de propagation	Línea de tiempo de propagación
@@ -71,4 +71,7 @@ sna_result_nb_occ	Number of occurrences	Nombre d'occurrences	Candidad de inciden
 sna_result_entity	Named entity	Entité nommée	Entidad nombrada
 sna_no_data	No data available	Aucune donnée disponible	Datos no disponibles
 sna_result_heatMap	Distribution of tweets	Distribution des tweets	Distribución de tweets	
+user_placeholder	user	utilisateur	usuario
+elastic_url	Tweet URL	URL du tweet	Tweet url
+
 
