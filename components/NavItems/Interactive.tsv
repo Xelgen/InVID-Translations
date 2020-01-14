@@ -3,7 +3,7 @@ quiz_unlock_message	To display explanations, unlock them from About menu	Pour af
 quiz_title	Spot the fake !	Trouvez le faux !	¡Detectar la falsificación!
 quiz_similarity	Similarity search	Recherche de similarités	Búsqueda de similaridades
 quiz_forensic	Forensic search	Recherche Forensic	Búsqueda Forensic
-quiz_keyframes	Keyframes	Images clés	Imágenes claves
+quiz_keyframes	Keyframes	Images clés	Fotogramas claves
 quiz_explanations	Explanations	Explications	Explicaciones
 quiz_item_url_1	https://reveal-mklab.iti.gr/forensics_demo/Tsakalotos.jpg	https://reveal-mklab.iti.gr/forensics_demo/Tsakalotos.jpg	https://reveal-mklab.iti.gr/forensics_demo/Tsakalotos.jpg
 quiz_item_title_1
