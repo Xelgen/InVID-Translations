@@ -75,5 +75,7 @@ sna_result_heatMap	Distribution of tweets	Distribution des tweets	Distribución 
 user_placeholder	user	utilisateur	usuario
 elastic_url	URL	URL	URL
 elastic_count	Number	Nombre	Candidad
+sna_counting_words	Counting Words	Comptage des mots	Contando palabras	
+sna_fetching_tweets	Fetching tweets	Récupération des tweets	Recuperando tweets
 
 
