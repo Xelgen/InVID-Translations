@@ -77,6 +77,6 @@ elastic_url	URL	URL	URL
 elastic_count	Number	Nombre	Candidad
 sna_counting_words	Counting Words	Comptage des mots	Contando palabras	
 sna_fetching_tweets	Fetching tweets	Récupération des tweets	Recuperando tweets
-sna_builting_heatMap	Builting heatmap	Construction du graph de répartition des tweets	Construcción del gráfico de distribución de tweets.
+sna_builting_heatMap	Builting graphs	Construction des graphs	construcción gráfica
 
 
