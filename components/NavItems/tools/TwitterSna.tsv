@@ -17,7 +17,7 @@ twitterStats_media_both	both	les deux	tanto
 twitter_sna_verified	Only Verified Accounts	Seulement les comptes vérifiés	Solo cuentas verificadas
 twitterStats_verified_no	no	non	no
 twitterStats_verified_yes	yes	oui	si
-lang_choices	Filter on language :	Filtre de langue :	Filtro de lengua :
+lang_choices	Language :	Langue :	Lengua :
 lang_all	none	aucun	ninguno
 lang_fr	French	Français	Francés
 lang_en	English	Anglais	Inglés
