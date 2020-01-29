@@ -78,6 +78,6 @@ elastic_count	Number	Nombre	Candidad
 sna_counting_words	Counting Words	Comptage des mots	Contando palabras	
 sna_fetching_tweets	Fetching tweets	Récupération des tweets	Recuperando tweets
 sna_builting_heatMap	Builting graphs	Construction des graphs	construcción gráfica
-sna_too_long_for_heatMap	The periode you chose is too large to display heatmap, please make a request under 7 days	La période que vous avez choisie est trop grande pour afficher la distribution horaire des tweets, veuillez faire une demande sous 7 jours	El período que eligió es demasiado grande para mostrar el mapa de calor, haga una solicitud en menos de 7 días
+sna_too_long_for_heatMap	The periode you chose is too large to display heatmap, please make a request smaller than 7 days	La période que vous avez choisie est trop grande pour afficher la distribution horaire des tweets, veuillez faire une requête inférieure à 7 jours	El período que eligió es demasiado grande para mostrar el mapa de calor, haga una solicitud en menos de 7 días
 
 
