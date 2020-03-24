@@ -10,7 +10,7 @@ ERR_AUTH_INVALID_USER_STATE	User account's state is invalid	L'état du compte ut
 ERR_AUTH_USER_EXPIRED	User account is expired	Le compte utilisateur a expiré
 ERR_AUTH_SESSION_EXPIRED	Your session has expired	Votre session a expirée
 AUTHCARD_REQUIREAUTH_TEXT	Please login in order to access this service.	Veuillez vous identifier pour accéder au service.
-AUTHCARD_EXPLANATION_TEXT	To access the service, you need to create an account. During registration, your demand will be reviewed and validated by our service before account activation. Once your account activated, you'll be able to request an access code to login.	Vous devez créer un compte pour accédder au service. Après réception de votre demande d'enregistrement, celle-ci sera analysée et validée par nos services avant l'activation de votre compte. Une fois votre compte activé, vous serez averti par email et vous pourrez demander un code d'accès pour vous identifier.
+AUTHCARD_EXPLANATION_TEXT	To access this service, you need to register. Once your registration validated, you'll receive an email with an access code to login.	Vous devez vous enregistrer pour accéder à ce service. Une fois votre enregistrement validé, votre compte. Une fois votre compte activé, vous recevrez un courriel avec votre code d'accès.
 REGISTRATIONFORM_TITLE	Not already registered? Register for an access to the service:	Pas encore de compte ? Demandez un accès au service:
 REGISTRATIONFORM_EMAIL_LABEL	Email	Email
 REGISTRATIONFORM_EMAIL_PLACEHOLDER	Enter your email address	Saisissez votre adresse mail
