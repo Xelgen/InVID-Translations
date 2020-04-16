@@ -43,7 +43,7 @@ lang_he	Hebrew	Hébreu	Hebreo
 lang_ur	Urdu	Ourdou	Urdu
 lang_th	Thai	Thaï	Tailandés
 button_submit	Submit	Envoyer	Enviar
-default_sna_error	Twitter analysis interrupted due to unknown cause. Please re-submit the video.	L'analyse de Twitter a été interrompue dû à une cause inconnue. Veuillez ré-envoyer la vidéo.	El análisis de Twitter se ha interrumpido por una causa inconocida. Inténtalo con otro video.
+default_sna_error	Twitter analysis failed due to an unknown cause. 	L'analyse de Twitter a été interrompue pour une raison inconnue. 	El análisis de Twitter se ha interrumpido por una causa desconocida. 
 twitterSnaErrorMessage	An error occurred while processing tweets	Une erreur s'est produite lors du traitement des tweets	Se produjo un error en el procesamiento de tweets
 top_users_pie_chart_title	Most active users	Utilisateurs les plus actifs	Usuarios más activos
 user_time_chart_title	Propagation timeline	Frise chronologique de propagation	Línea de tiempo de propagación
