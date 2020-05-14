@@ -46,7 +46,7 @@ button_submit	Submit	Envoyer	Enviar
 default_sna_error	Twitter analysis failed due to an unknown cause.	L'analyse de Twitter a été interrompue pour une raison inconnue.	El análisis de Twitter se ha interrumpido por una causa desconocida.
 twitterSnaErrorMessage	An error occurred while processing tweets	Une erreur s'est produite lors du traitement des tweets	Se produjo un error en el procesamiento de tweets
 top_users_pie_chart_title	Most active users	Utilisateurs les plus actifs	Usuarios más activos
-twittersna_most_active_tip
+twittersna_most_active_tip	The pie-chart shows the 20 top active users with their number of tweets. Click on a pie segment to see the corresponding tweets.	Le graphique montre les 20 utilisateurs les plus actifs avec leur nombre de tweets. Cliquez sur un segment pour voir les tweets correspondants.	El gráfico muestra los 20 usuarios más activos con su número de tweets. Haz clic en un segmento para ver los tweets correspondientes.
 mention_cloud_chart_title	Most mentioned accounts	Compte les plus mentionnés	Usuarios más mencionados
 twittersna_most_mentions_tip
 user_time_chart_title	Propagation timeline	Frise chronologique de propagation	Línea de tiempo de propagación
