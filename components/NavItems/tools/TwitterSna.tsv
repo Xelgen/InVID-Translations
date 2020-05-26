@@ -78,7 +78,7 @@ sna_counting_words	Counting Words	Comptage des mots	Contando palabras
 sna_fetching_tweets	Fetching tweets	Récupération des tweets	Recuperando tweets
 sna_builting_heatMap	Building graphs	Construction des graphes	Construyendo el gráfico
 twittersna_user_graph_title	User accounts graph	Graphe de comptes utilisateurs	Grafo de cuentas de usuarios
-twittersna_export_graph_title	Export Gexf graph	Exporter un graphe au format Gexf	Exportar el grafo en formato Gexf
+twittersna_export_graph_title	Export Interaction graph (gexf format)	Exporter un graphe des interactions au format Gexf	Exportar el grafo de interacciones en formato Gexf
 sna_result_submit_twitter_sna	Submit to Twitter SNA	Envoyer à Twitter SNA	Enviar a Twitter SNA
 sna_result_view_graph	View graph	Voir le graphe	Ver el grafo
 sna_no_community	No community detected	Pas de communauté détectée	No se encontro comunidad
