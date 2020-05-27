@@ -1,54 +1,54 @@
-	en	fr
-ERR_AUTH_UNKNOWN_ERROR	Application has raised an unknown error	L'application a rencontré une erreur inconnue
-ERR_AUTH_ABORT_ERROR	Server is not responding	Le service ne répond pas
-ERR_AUTH_INVALID_PARAMS	Invalid parameters	Paramètres invalides
-ERR_AUTH_BAD_REQUEST	Invalid request sent to the service	Requête invalide envoyée au service
-ERR_AUTH_SERVER_ERROR	Service not available or in error state	Service indisponible ou en erreur
-ERR_AUTH_INVALID_TOKEN	Authentication token is invalid	Le token d'authentification est invalide
-ERR_AUTH_INVALID_CREDENTIALS	Invalid authentifcation information	Les informations d'authentification sont invalides
-ERR_AUTH_INVALID_USER_STATE	User account's state is invalid	L'état du compte utilisateur est invalide
-ERR_AUTH_USER_EXPIRED	User account is expired	Le compte utilisateur a expiré
-ERR_AUTH_SESSION_EXPIRED	Your session has expired	Votre session a expirée
-AUTHCARD_REQUIREAUTH_TEXT	Please login in order to access this service.	Veuillez vous identifier pour accéder au service.
-AUTHCARD_EXPLANATION_TEXT	To access this service, you need to register. You'll receive an email as soon as your registration has been validated. You will then be able to request an access code to login.	Vous devez vous enregistrer pour accéder à ce service. Une fois votre enregistrement validé, vous recevrez un courriel. Il vous suffira alors de demander un code d'accès.
-REGISTRATIONFORM_TITLE	Not already registered? Register for an access to the service:	Pas encore de compte ? Demandez un accès au service:
-REGISTRATIONFORM_EMAIL_LABEL	Email	Email
-REGISTRATIONFORM_EMAIL_PLACEHOLDER	Enter your email address	Saisissez votre adresse mail
-REGISTRATIONFORM_EMAIL_ERR_REQUIRED	Email address is required	Veuillez saisir une address mail
-REGISTRATIONFORM_EMAIL_ERR_EMAIL	Email address must be valid	L'adresse email est invalide
-REGISTRATIONFORM_FIRSTNAME_LABEL	First name	Prénom
-REGISTRATIONFORM_FIRSTNAME_PLACEHOLDER	Enter your first name	Saisissez votre prénom
-REGISTRATIONFORM_FIRSTNAME_ERR_REQUIRED	Firstname is required	Veuillez saisir votre prénom
-REGISTRATIONFORM_LASTNAME_LABEL	Last name	Nom
-REGISTRATIONFORM_LASTNAME_PLACEHOLDER	Enter your last name	Saisissez votre nom
-REGISTRATIONFORM_LASTNAME_ERR_REQUIRED	Lastname is required	Veuillez saisir votre nom
-REGISTRATIONFORM_ORGANIZATION_LABEL	Organization	Organisation
-REGISTRATIONFORM_ORGANIZATION_PLACEHOLDER	Enter your organization name	Saisissez le nom de votre organisation
-REGISTRATIONFORM_ORGANIZATION_ERR_REQUIRED	Organization is required	Veuillez saisir le nom de votre organisation
-REGISTRATIONFORM_ORGANIZATIONROLE_LABEL	Role	Role
-REGISTRATIONFORM_ORGANIZATIONROLE_REPORTER_LABEL	Reporter	Journaliste
-REGISTRATIONFORM_ORGANIZATIONROLE_FAKENEWSCHECKER_LABEL	Fake news checker	Controleur de Fake News
-REGISTRATIONFORM_ORGANIZATIONROLE_OTHER_LABEL	Other	Autre
-REGISTRATIONFORM_ORGANIZATIONROLE_PLACEHOLDER	Select your role within organization	Sélectionnez votre role au sein de l'organisation
-REGISTRATIONFORM_ORGANIZATIONROLE_ERR_REQUIRED	Role within organization is required	Veuillez sélectionner votre role au sein de l'organisation
-REGISTRATIONFORM_ORGANIZATIONROLEOTHER_LABEL	Role (Other)	Role (Autre)
-REGISTRATIONFORM_ORGANIZATIONROLEOTHER_PLACEHOLDER	Enter your role within organization	Saisissez votre role au sein de l'organisation
-REGISTRATIONFORM_ORGANIZATIONROLEOTHER_ERR_REQUIRED	Please fill in your role within organization	Veuillez saisir votre role au sein de l'organisation
-REGISTRATIONFORM_SUBMIT_LABEL	Register	S'enregistrer
-REGISTRATIONFORM_SUCCESS_TEXT	Your registration request has been sent successfully and will be reviewed shortly by our service. You will receive a notification by email once your account is activated.	Nous avons bien reçu votre demande de compte d'accès et allons la traiter dans les plus brefs délais. Vous serez notifié par email lorsque votre compte sera activé.
-REGISTRATIONFORM_SUCCESS_RESET_LABEL	New request	Nouvelle demande
-ACCESSCODEFORM_TITLE	Already registered? Get an access code:	Déjà inscrit ? Demandez un code d'accès :
-ACCESSCODEFORM_EMAIL_LABEL	Email	Email
-ACCESSCODEFORM_EMAIL_PLACEHOLDER	Enter your email address	Saisissez votre adresse mail
-ACCESSCODEFORM_EMAIL_ERR_REQUIRED	Email address is required	Veuillez saisir une addresse mail
-ACCESSCODEFORM_EMAIL_ERR_EMAIL	Email address must be valid	L'adresse mail est invalide
-ACCESSCODEFORM_SUBMIT_LABEL	Get an Access Code	Obtenir un code d'accès
-ACCESSCODEFORM_SUCCESS_TEXT	Your access code request has been sent successfully. If your account is valid, you should receive your access code by email in a few minutes.	Nous avons bien reçu votre demande de code d'accès. Si votre compte est actif, vous recevrez votre code par email dans quelques minutes.
-ACCESSCODEFORM_SUCCESS_RESET_LABEL	New request	Nouvelle demande
-LOGINFORM_TITLE	Login using your access code:	S'identifier avec un code d'accès :
-LOGINFORM_ACCESSCODE_LABEL	Access Code	Code d'accès
-LOGINFORM_ACCESSCODE_PLACEHOLDER	Enter your access code	Saisissez votre code d'accès
-LOGINFORM_ACCESSCODE_ERR_REQUIRED	Access code is required	Veuillez saisir un code d'accès
-LOGINFORM_SUBMIT_LABEL	Login	S'identifier
-LOGUSER_TEMPLATE	Welcome <%= user.firstName %> <%= user.lastName %> (<%= user.email %>)	Bonjour <%= user.firstName %> <%= user.lastName %> (<%= user.email %>)
-LOGUSER_LOGOUT_LABEL	Logout	Deconnexion
+	en	fr	es	 
+ERR_AUTH_UNKNOWN_ERROR	The application has raised an unknown error	L'application a rencontré une erreur inconnue	La aplicación ha generado un error desconocido	 
+ERR_AUTH_ABORT_ERROR	The server is not responding	Le service ne répond pas	El servidor no está respondiendo	 
+ERR_AUTH_INVALID_PARAMS	Invalid parameters	Paramètres invalides	Parámetros inválidos	 
+ERR_AUTH_BAD_REQUEST	Invalid request sent to the service	La requête envoyée au service est invalide 	La solicitud enviada al servicio no es válida 	 
+ERR_AUTH_SERVER_ERROR	Service not available or in error state	Service indisponible ou en erreur	El servicio no está disponible o disfunciona	 
+ERR_AUTH_INVALID_TOKEN	Authentication token is invalid	Le token d'authentification n'est pas valable	El token de autenticación no es válido	 
+ERR_AUTH_INVALID_CREDENTIALS	Invalid authentifcation information	Les informations d'authentification ne sont pas valables	La información de autenticación no es válida	 
+ERR_AUTH_INVALID_USER_STATE	User account's state is invalid	L'état du compte utilisateur est invalide	El estado de la cuenta de usuario no es válida	 
+ERR_AUTH_USER_EXPIRED	User account is expired	Le compte utilisateur a expiré	La cuenta de usuario ha caducado	 
+ERR_AUTH_SESSION_EXPIRED	Your session has expired	Votre session a expiré	Su sesión ha caducado	 
+AUTHCARD_REQUIREAUTH_TEXT	Please login in order to access this service.	Veuillez vous identifier pour accéder au service.	Por favor identifíquese para acceder a este servicio.	 
+AUTHCARD_EXPLANATION_TEXT	Due to the high computer load, the use of this feature is restricted to journalists, fact-checkers and researchers. You need to register first and once your registration has been approved, you will receive an email and you will be able to get an access token to use the tool.	En raison de la charge informatique élevée, l'utilisation de ce module est réservée aux journalistes, aux fact-checkers et aux chercheurs. Vous devez d'abord vous inscrire et une fois votre inscription approuvée, vous recevrez un courriel et vous pourrez obtenir un jeton d'accès pour utiliser l'outil.	Debido a la alta carga informática, el uso de este modulo está limitado a los periodistas, los verificadores e investigadores. Es necesario registrarse primero y una vez que su registro haya sido aprobado, recibirá un correo electrónico y podra solicitar un token de acceso para utilizar la herramienta.	 
+REGISTRATIONFORM_TITLE	Not already registered? Register for an access to the service:	Pas encore de compte ? Demandez un accès au service:	No se ha registrado? Registrese para acceder al servicio:	 
+REGISTRATIONFORM_EMAIL_LABEL	Email	Courriel	Correo electrónico	
+REGISTRATIONFORM_EMAIL_PLACEHOLDER	Enter your email address	Saisissez votre adresse de courrier électronique	Introduzca su dirección de correo electrónico	 
+REGISTRATIONFORM_EMAIL_ERR_REQUIRED	Email address is required	Veuillez saisir une adresse de courrier électronique	Se requiere una dirección de correo electrónico	 
+REGISTRATIONFORM_EMAIL_ERR_EMAIL	Email address must be valid	L'adresse email est invalide	La dirección de correo electrónico debe ser válido	 
+REGISTRATIONFORM_FIRSTNAME_LABEL	First name	Prénom	Nombre	
+REGISTRATIONFORM_FIRSTNAME_PLACEHOLDER	Enter your first name	Saisissez votre prénom	Ponga su nombre	
+REGISTRATIONFORM_FIRSTNAME_ERR_REQUIRED	Firstname is required	Veuillez saisir votre prénom	Se requiere el nombre	
+REGISTRATIONFORM_LASTNAME_LABEL	Last name	Nom	Apellido(s)	 
+REGISTRATIONFORM_LASTNAME_PLACEHOLDER	Enter your last name	Saisissez votre nom	Introduzca su apellido	
+REGISTRATIONFORM_LASTNAME_ERR_REQUIRED	Lastname is required	Veuillez saisir votre nom	Se requiere el apellido	
+REGISTRATIONFORM_ORGANIZATION_LABEL	Organization	Organisation	Organización	 
+REGISTRATIONFORM_ORGANIZATION_PLACEHOLDER	Enter your organization name	Saisissez le nom de votre organisation	Introduzca el nombre de la organización	
+REGISTRATIONFORM_ORGANIZATION_ERR_REQUIRED	Organization is required	Veuillez saisir le nom de votre organisation	Se requiere la organización	 
+REGISTRATIONFORM_ORGANIZATIONROLE_LABEL	Role	Role	Papel	 
+REGISTRATIONFORM_ORGANIZATIONROLE_REPORTER_LABEL	Reporter	Journaliste	Reportero	 
+REGISTRATIONFORM_ORGANIZATIONROLE_FAKENEWSCHECKER_LABEL	Fact-checker	Fact-checker	Fact-checker	
+REGISTRATIONFORM_ORGANIZATIONROLE_OTHER_LABEL	Researcher	Chercheur	Investigador	
+REGISTRATIONFORM_ORGANIZATIONROLE_PLACEHOLDER	Select your role within organization	Sélectionnez votre role au sein de l'organisation	Seleccione su papel dentro de la organización	
+REGISTRATIONFORM_ORGANIZATIONROLE_ERR_REQUIRED	Role within organization is required	Veuillez sélectionner votre role au sein de l'organisation	Precise su papel dentro de la organización	
+REGISTRATIONFORM_ORGANIZATIONROLEOTHER_LABEL	Role (Other)	Role (Autre)	Papel (Otro)	
+REGISTRATIONFORM_ORGANIZATIONROLEOTHER_PLACEHOLDER	Enter your role within organization	Saisissez votre role au sein de l'organisation	Introduzca su papel dentro de la organización	
+REGISTRATIONFORM_ORGANIZATIONROLEOTHER_ERR_REQUIRED	Please fill in your role within organization	Veuillez saisir votre role au sein de l'organisation	Por favor, introduzca su papel dentro de la organización	
+REGISTRATIONFORM_SUBMIT_LABEL	Register	S'enregistrer	Registrarse	
+REGISTRATIONFORM_SUCCESS_TEXT	Your registration request has been sent successfully and will be reviewed shortly by our service. You will receive a notification by email once your account is activated.	Nous avons bien reçu votre demande de compte d'accès et allons la traiter dans les plus brefs délais. Vous serez notifié par email lorsque votre compte sera activé.	Su solicitud de registro ha sido enviada con éxito y será revisada en breve. Usted recibirá una notificación por correo electrónico.	
+REGISTRATIONFORM_SUCCESS_RESET_LABEL	New request	Nouvelle demande	Nueva solicitud	
+ACCESSCODEFORM_TITLE	Already registered? Get an access code:	Déjà inscrit ? Demandez un code d'accès :	¿Ya registrado? Obtener un código de acceso:	
+ACCESSCODEFORM_EMAIL_LABEL	Email	Email	Correo electrónico	
+ACCESSCODEFORM_EMAIL_PLACEHOLDER	Enter your email address	Saisissez votre adresse mail	Introduzca su dirección de correo electrónico	
+ACCESSCODEFORM_EMAIL_ERR_REQUIRED	Email address is required	Veuillez saisir une addresse mail	Se precisa una dirección de correo electrónico	
+ACCESSCODEFORM_EMAIL_ERR_EMAIL	Email address must be valid	L'adresse mail est invalide	La dirección de correo electrónico debe ser válida	
+ACCESSCODEFORM_SUBMIT_LABEL	Get an Access Code	Obtenir un code d'accès	Obtener un código de acceso (token)	
+ACCESSCODEFORM_SUCCESS_TEXT	Your access code request has been sent successfully. If your account is valid, you should receive your access code by email in a few minutes.	Nous avons bien reçu votre demande de code d'accès. Si votre compte est actif, vous recevrez votre code par email dans quelques minutes.	Su petición de código de acceso ha sido enviada con éxito. Si su cuenta es válida, debe recibir el código de acceso por correo electrónico en unos pocos minutos.	
+ACCESSCODEFORM_SUCCESS_RESET_LABEL	New request	Nouvelle demande	Nueva solicitud	
+LOGINFORM_TITLE	Login using your access code:	S'identifier avec un code d'accès :	Sesión con su código de acceso:	
+LOGINFORM_ACCESSCODE_LABEL	Access Code	Code d'accès	Código de acceso	
+LOGINFORM_ACCESSCODE_PLACEHOLDER	Enter your access code	Saisissez votre code d'accès	Introduzca su código de acceso	
+LOGINFORM_ACCESSCODE_ERR_REQUIRED	Access code is required	Veuillez saisir un code d'accès	Se requiere el código de acceso	
+LOGINFORM_SUBMIT_LABEL	Login	S'identifier	Iniciar sesión	
+LOGUSER_TEMPLATE	Welcome <%= user.firstName %> <%= user.lastName %> (<%= user.email %>)	Bonjour <%= user.firstName %> <%= user.lastName %> (<%= user.email %>)	Bienvenido <% = user.firstName%> <% = user.lastName%> (<% = user.email%>)	
+LOGUSER_LOGOUT_LABEL	Logout	Deconnexion	Cerrar sesión	
