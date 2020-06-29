@@ -54,6 +54,7 @@ likes_cloud_chart_title	Most liked users	Utilisateurs les plus likés	Usuarios m
 top_words_cloud_chart_title	Most used words in tweets	Mots les plus utilisés dans les tweets	Palabras más utilizadas en tweets
 tweetCounter_title	Tweets number	Nombre de tweets	Número de Tweet
 sosem_graph_title	Social-semantic graph (hashtags and mentioned users)	Graphe socio-sémantique (hashtags et utilisateurs mentionnés)	Grafo socio-semantico (hashtags y usuarios mencionados)
+sosem_4mode_graph_title	Social-semantic graph (hashtags, mentions, RTs with comment, replies)	Graphe socio-sémantique (hashtags, mentions, RTs avec commentaire, réponses)	Grafo socio-semantico (hashtags, mencionados, RTs con comentarios, respuestas)
 account_creation_date_chart_title	Count of account creation date chart	Graphique des créations de compte	Gráfico de fechas de creación de cuentas
 bubble_chart_title	Bubble chart of top 100 most active accounts	Graphique des 100 comptes les plus actifs	Gráfico de las 100 cuentas más activas
 user_graph_title	User accounts graph	Graphe de comptes utilisateurs	Grafo de cuentas de usuarios
