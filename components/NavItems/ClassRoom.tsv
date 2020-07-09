@@ -1,4 +1,19 @@
 	en	fr	es
+classroom_introduction	Introduction	Introduction	Introducción
+introduction_title1	What it is ?	De quoi s'agit-il ?	¿De que se trata ?
+introduction_para1
+introduction_title2
+introduction_para2
+introduction_title3
+introduction_para3
+introduction_title4
+introduction_para4
+introduction_title5
+introduction_para5
+classroom_teaching	Teaching	Enseignement	Enseñanza
+classroom_gamification	Gamification	Jeu sérieux	Gamificación
+gamification_url	https://view.genial.ly/5ebd550432a04c0d96b6da63	https://view.genial.ly/5ecceb91f02ce30db69f0c5b	https://view.genial.ly/5ebd5bc232a04c0d96b6dbf3
+teaching_url	https://docs.google.com/presentation/d/18jbIQzSZbzNl5LCG7t5UVKgZx_jS5IVm8FNnXynz0X0/edit?usp=sharing	https://docs.google.com/presentation/d/18jbIQzSZbzNl5LCG7t5UVKgZx_jS5IVm8FNnXynz0X0/edit?usp=sharing	https://docs.google.com/presentation/d/18jbIQzSZbzNl5LCG7t5UVKgZx_jS5IVm8FNnXynz0X0/edit?usp=sharing
 classroom_title	Classroom	Salle de cours	Aula
 classroom_title_1	Five ways to spot fake news (Quartz)	C'est quoi une fake news ? (RTS)	¿Qué hacemos con tanta noticia falsa?
 classroom_url_1	https://www.youtube.com/embed/y7eCB2F89K8?rel=0	https://www.rts.ch/play/tv/popupvideoplayer?id=9965541	https://www.youtube.com/embed/-FI1Tv-R7ZA?rel=0
@@ -11,7 +26,7 @@ classroom_url_4	https://www.youtube.com/embed/frjITitjisY?rel=0	https://www.rtbf
 classroom_title_5	Figthing disinformation in the classroom (CBC News)	5 conseils pour débusquer les fakes news (Kombini)	El negocio de las noticias falsas
 classroom_url_5	https://www.youtube.com/embed/MeMp_E5dl4M?rel=0	https://www.youtube.com/embed/-5BoejLNc9A?rel=0	https://www.youtube.com/embed/b78JI7-pEVY?rel=0
 remote_resources_title	Educational Resources	Ressources pédagogiques	Recursos educativos
-user_resources_title	Your educational content	Votre contenu pédagogique	Tu contenido educativo
+user_resources_title	Your content	Votre contenu 	Tu contenido 
 display	Display	Afficher	Visualización
 user_resources_intro	This section allows you to broadcast your own lessons stored on Internet	Cette section vous permet de diffuser vos propres cours stockés sur Internet.	Esta sección le permite transmitir sus propios videos de Internet.
 user_resources_intro_remote	Enter the url of a YouTube, Twitter, Facebook public video or an website (see examples below):	Indiquez l'url d'une vidéo YouTube, Twitter, Facebook (public) ou un site web (voir les exemples ci-dessous):	Ponga la url de un video de YouTube, Twitter, Facebook (público) o un sitio web (ver ejemplos abajo):
