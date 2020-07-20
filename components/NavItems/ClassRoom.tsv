@@ -1,20 +1,20 @@
 	en	fr	es
 classroom_introduction	Introduction	Introduction	Introducción
-introduction_title1	What it is ?	De quoi s'agit-il ?	¿De que se trata ?
-introduction_para1
-introduction_title2
-introduction_para2
-introduction_title3
-introduction_para3
-introduction_title4
-introduction_para4
-introduction_title5
-introduction_para5
+introduction_title1	A classroom to teach visual literacy	Un espace pour l'éducation aux médias visuels	Un espacio para la educación a los medios visuales
+introduction_para1	Our goal is to help you to use this extension in your teaching. On this page you will find resources for media education: proposals of pedagogical practices, videos on disinformation, a serious game to learn how to use various tools to track down the manipulation of images and videos.	Notre objectif est de vous accompagner afin que vous puissiez utiliser cette extension dans vos pratiques pédagogiques. Vous trouverez sur cette pages des ressources pour l’éducation aux médias : propositions de pratiques pédagogiques, vidéos sur les infox, un jeu sérieux pour apprendre le fonctionnement de divers outils pour débusquer la manipulation des images et des vidéos.	Nuestro objetivo es acompañarle para que pueda utilizar esta extensión en sus prácticas de enseñanza. En esta página encontrarás recursos para la educación mediática: propuestas de prácticas pedagógicas, vídeos sobre bulos, un juego serio para aprender a utilizar diversas herramientas para detectar la manipulación de imágenes y vídeos.
+introduction_title2	Teaching information verification and critical thinking	Enseigner la vérification de l'information et la pensée critique	Enseñar la verificación de la información y el pensamiento crítico
+introduction_para2	Verification is twofold. You can verify the digital object itself through visual examination (the tool magnifier provides an effective way to examine an image or a video frame), through its metadata (through the metadata reader), or forensic analysis (analysis of the signal treatment to reveal an eventual tampering). You can also verify the relations of that digital object with the external world, by reviewing its context (who is talking about it, how is it indexed by leading search engines, through the Analysis or Keyframes feature i.e).	Le processus de vérification est double. Vous pouvez vérifier l'objet numérique lui-même par un examen visuel (la loupe fournit un moyen efficace d'examiner une image ou une image-clé vidéo), à travers ses métadonnées (par le lecteur de métadonnées), ou par l'analyse "forensic" (analyse du traitement du signal pour révéler une éventuelle altération). Vous pouvez également vérifier les relations de cet objet numérique avec le monde extérieur, en examinant son contexte (qui en parle, comment est-il indexé par les principaux moteurs de recherche, grâce à la fonction Analyse ou Images-clés, par exemple).	La verificación es doble. Se puede verificar el objeto digital en sí mismo mediante un examen visual (la herramienta de aumento proporciona una forma eficaz de examinar una imagen o un fotograma de vídeo), mediante sus metadatos (a través del lector de metadatos), o mediante análisis forensic (análisis del tratamiento de la señal para revelar una posible manipulación). También se pueden verificar las relaciones que tiene ese objeto digital con el mundo exterior, examinando su contexto (quién habla de él, cómo está indexado por los principales motores de búsqueda, a través de la función de análisis o de fotogramas clave, por ejemplo).
+introduction_title3	Where to start ? 	Par où commencer ?	¿ Donde empezar ? 
+introduction_para3			
+introduction_title4	Interactive as a sandbox	¿ Interactif comme bac à sable ? 	Interactivo como entorno de pruebas
+introduction_para4			
+introduction_title5	In case of troubleshooting ?	Que faire en cas de problème ? 	¿ Que hacer en caso de problema ?
+introduction_para5	You can consult the Tutorial page. There is a video explainer for each tool of the plug-in. If you are in trouble or if some of the tools is not working properly, use the feedback button on the right. Do not forget to give us your email address if you expect an answer and to provide a link if you have an issue with some particular media file.	Vous pouvez consulter la page de Tutoriel. Il y a une vidéo explicative pour chaque fonctionalité. Si vous rencontrez des difficultés ou si certains des outils ne fonctionnent pas correctement, utilisez le bouton "Feedback" à droite. N'oubliez pas de fournir votre adresse électronique si vous attendez une réponse et également un lien si vous avez un problème avec un fichier média en particulier.	Puede consultar la página de Tutorial. Hay un video explicativo para cada herramienta. Si sigue teniendo problemas o si alguna de las herramientas no funciona correctamente, utilice el botón de "feedback" a la derecha. No olvide de darnos una dirección de correo electrónico si espera una respuesta y de proporcionar un enlace si tiene algun problema con algún archivo multimedia en particular.
 classroom_teaching	Teaching	Enseignement	Enseñanza
 classroom_gamification	Gamification	Jeu sérieux	Gamificación
 gamification_url	https://view.genial.ly/5ebd550432a04c0d96b6da63	https://view.genial.ly/5ecceb91f02ce30db69f0c5b	https://view.genial.ly/5ebd5bc232a04c0d96b6dbf3
 teaching_url	https://docs.google.com/presentation/d/18jbIQzSZbzNl5LCG7t5UVKgZx_jS5IVm8FNnXynz0X0/preview?usp=sharing	https://docs.google.com/presentation/d/18jbIQzSZbzNl5LCG7t5UVKgZx_jS5IVm8FNnXynz0X0/preview?usp=sharing	https://docs.google.com/presentation/d/18jbIQzSZbzNl5LCG7t5UVKgZx_jS5IVm8FNnXynz0X0/preview?usp=sharing
-classroom_title	Classroom	Salle de cours	Aula
+classroom_title	Classroom	Salle de classe	Aula
 classroom_title_1	Five ways to spot fake news (Quartz)	C'est quoi une fake news ? (RTS)	¿Qué hacemos con tanta noticia falsa?
 classroom_url_1	https://www.youtube.com/embed/y7eCB2F89K8?rel=0	https://www.rts.ch/play/tv/popupvideoplayer?id=9965541	https://www.youtube.com/embed/-FI1Tv-R7ZA?rel=0
 classroom_title_2	Helping students fighting disinformation	Comment vérifier une vidéo sur Facebook (France 24)	Guía para identificar noticias falsas
@@ -26,23 +26,23 @@ classroom_url_4	https://www.youtube.com/embed/frjITitjisY?rel=0	https://www.rtbf
 classroom_title_5	Figthing disinformation in the classroom (CBC News)	5 conseils pour débusquer les fakes news (Kombini)	El negocio de las noticias falsas
 classroom_url_5	https://www.youtube.com/embed/MeMp_E5dl4M?rel=0	https://www.youtube.com/embed/-5BoejLNc9A?rel=0	https://www.youtube.com/embed/b78JI7-pEVY?rel=0
 remote_resources_title	Educational Resources	Ressources pédagogiques	Recursos educativos
-user_resources_title	Your content	Votre contenu 	Tu contenido 
+user_resources_title	Your content	Votre contenu	Tu contenido
 display	Display	Afficher	Visualización
-user_resources_intro	This section allows you to broadcast your own lessons stored on Internet	Cette section vous permet de diffuser vos propres cours stockés sur Internet.	Esta sección le permite transmitir sus propios videos de Internet.
+user_resources_intro	This section allows you to broadcast your own lessons stored on Internet	Un espacio para enseñar 	Esta sección le permite transmitir sus propios videos de Internet.
 user_resources_intro_remote	Enter the url of a YouTube, Twitter, Facebook public video or an website (see examples below):	Indiquez l'url d'une vidéo YouTube, Twitter, Facebook (public) ou un site web (voir les exemples ci-dessous):	Ponga la url de un video de YouTube, Twitter, Facebook (público) o un sitio web (ver ejemplos abajo):
 api_input	Copy and paste a Youtube, Facebook or Twitter url	Copier et coller une adresse YouTube, Facebook ou Twitter	Copiar y pegar un enlace de YouTube, Facebook o Twitter
 close	Close	Fermer	Cerrar
 game_resources_title	Gamification	Jeu sérieux	Gamificación
 game_resources_intro	Serious game about using the verification plugin	Jeu sérieux sur l'utilisation de l'extension de vérification	Juego serio sobre el uso del plugin de verificación
-game_resources_url	  	  	  
+game_resources_url			
 examples	Examples :	Exemples :	Ejemplos :
 youtube_example	Youtube: https://www.youtube.com/embed/5wRv8boqIEc	Youtube: https://www.youtube.com/embed/5wRv8boqIEc	Youtube: https://www.youtube.com/embed/5wRv8boqIEc
 twitter_example	Twitter: https://video.twimg.com/amplify_video/1055750649462308866/vid/640x360/yqQIZj-jHZRxl0i2.mp4	Twitter: https://video.twimg.com/amplify_video/1055750649462308866/vid/640x360/yqQIZj-jHZRxl0i2.mp4	Twitter: https://video.twimg.com/amplify_video/1055750649462308866/vid/640x360/yqQIZj-jHZRxl0i2.mp4
 website_example	Website: https://www.invid-project.eu/tools-and-services/invid-verification-plugin/	Site web: https://www.invid-project.eu/tools-and-services/invid-verification-plugin/	Sitio web: https://www.invid-project.eu/tools-and-services/invid-verification-plugin/
 glossary_title	Glossary	Glossaire	Glosario
 glossary_word_1	Word 1	Mot 1	Palabra 1
-glosary_definition_1	definition 1 	definition 1	definición 1
+glosary_definition_1	definition 1	definition 1	definición 1
 glossary_word_2	Word 2	Mot 2	Palabra 2
-glosary_definition_2	definition 2 	definition 2	definición 2
+glosary_definition_2	definition 2	definition 2	definición 2
 glossary_word_3	Word 3	Mot 3	Palabra 3
-glosary_definition_3	definition 3 	definition 3	definición 3
+glosary_definition_3	definition 3	definition 3	definición 3
