@@ -1,28 +1,27 @@
 	en	fr	es
-assistant_title	Assistant	temp	temp
-assistant_real_intro    Would you like to process a URL of upload your own file?	Temp	Temp
-process_url	Process URL	Temp	Temp
-submit_own_file	Upload File	Temp	Temp
-upload_video	Video	Temp	Temp
-upload_image	Image	Temp	Temp
+assistant_title	Assistant	Assistant	Asistente
+assistant_real_intro	Would you like to process a URL or upload your own file?	Voulez-vous traiter une adresse url ou télécharger votre fichier ?	Quiere procesar una dirección url o cargar su propio fichero ? 
+process_url	Process URL	Traiter l'url	Procesar la url
+submit_own_file	Upload File	Charger votre fichier	Cargar su fichero
+upload_video	Video	Video	Video
+upload_image	Image	Image	Imagen
 assistant_real_intro	Would you like to process a URL or upload your own file?	Temp	Temp
 assistant_intro	Enter the URL of the media you would like to process	Temp	Temp
 media_below	Select the media you would like to verify	Temp	Temp
 input_url_label	Input URL:	Temp	Temp
 images_label	Images	Temp	Temp
 videos_label	Videos	Temp	Temp
-upload_type_question	What type of file do you want to upload?	Temp  Temp
+upload_type_question	What type of file do you want to upload?	Temp	Temp
 assistant_urlbox	URL	Adresse	URL
 assistant_error	No media was found through the link entered.	Test	Test
 error_unknown	An unknown error has occurred. Please try again later.	Test	Test
 assistant_alternative	Try navigating to the input URL and using the "Open with Assistant" option on the toolbar popup	Temp	Temp
 assistant_handled_site	However, the media from this link can be extracted if the assistant is opened from the page itself.	Temp	Temp
-extracting_tweet_media  Extracting tweet media...   Temp... Temp...
+extracting_tweet_media  Extracting tweet media...	Temp...	Temp...
 please_give_a_correct_link	Please give a correct link	Donner un lien valide s'il vous plaît	Por favor, dé un enlace válido
 button_submit	Submit	Envoyer	Enviar
 quit	Quit	Quitter	Salir
 save	Save	Enregistrer	Gardar
-
 navbar_analysis	Analysis	Analyse	Análisis
 navbar_keyframes	Keyframes	Images clés	Imágenes claves
 navbar_thumbnails	Thumbnails	Imagettes	Miniaturas
@@ -34,7 +33,6 @@ navbar_forensic	Forensic	Forensic	Forensic
 navbar_twitter_sna	Fact Check	Factuel	Factual
 navbar_no_action	Assistant	Temp	Temp
 navbar_assistant	Assistant	Temp	Temp
-
 media_to_process	Media to Process	Temp	Temp
 things_you_can_do_header	Potential Tools	Temp	Temp
 things_you_can_do	Below are the tools you can use on this media type	Temp	Temp
