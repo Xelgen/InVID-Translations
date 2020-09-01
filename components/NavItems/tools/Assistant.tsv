@@ -1,23 +1,23 @@
 	en	fr	es	el
-assistant_title	Assistant	temp	temp	Βοηθός
-assistant_real_intro    	Would you like to process a URL of upload your own file?	Temp	Temp	Θέλετε να επεξεργαστείτε μια διεύθυνση URL ή να ανεβάσετε το δικό σας αρχείο;
-process_url	Process URL	Temp	Temp	Επεξεργασία URL
-submit_own_file	Upload File	Temp	Temp	Μεταφόρτωση αρχείου
-upload_video	Video	Temp	Temp	Βίντεο
-upload_image	Image	Temp	Temp	Εικόνα
+assistant_title	Assistant	Assistant	Assistente	Βοηθός
+assistant_real_intro    	Would you like to process a URL of upload your own file?  Voulez-vous traiter une adresse url ou télécharger votre fichier ?  Quiere procesar una dirección url o cargar su propio fichero ? 	Θέλετε να επεξεργαστείτε μια διεύθυνση URL ή να ανεβάσετε το δικό σας αρχείο;
+process_url	Process URL Traiter l'url Procesar la url Επεξεργασία URL
+submit_own_file	Upload File	Chargez votre fichier	Cargar su fichero	Μεταφόρτωση αρχείου
+upload_video	Video	Video	Video	Βίντεο
+upload_image	Image	Image	Imagen	Εικόνα
 assistant_real_intro	Would you like to process a URL or upload your own file?	Temp	Temp	Θέλετε να επεξεργαστείτε μια διεύθυνση URL ή να ανεβάσετε το δικό σας αρχείο;
 assistant_intro	Enter the URL of the media you would like to process	Temp	Temp	Εισαγάγετε τη διεύθυνση URL των μέσων που θέλετε να επεξεργαστείτε
 media_below	Select the media you would like to verify	Temp	Temp	Επιλέξτε τα μέσα που θέλετε να επαληθεύσετε
-input_url_label	Input URL:	Temp	Temp	Εισάγετε σύνδεσμο:
+input_url_label	Input URL:	Charger votre fichier Cargar su fichero	Εισάγετε σύνδεσμο:
 images_label	Images	Temp	Temp	Εικόνες
 videos_label	Videos	Temp	Temp	Βίντεο
-upload_type_question	What type of file do you want to upload?	Temp  	Temp	Τι είδους αρχείο θέλετε να ανεβάσετε;
+upload_type_question	What type of file do you want to upload?  Temp  Temp	Τι είδους αρχείο θέλετε να ανεβάσετε;
 assistant_urlbox	URL	Adresse	URL	Σύνδεσμος
 assistant_error	No media was found through the link entered.	Test	Test	Δεν βρέθηκε κανένα μέσο μέσω του συνδέσμου που καταχωρίστηκε.
 error_unknown	An unknown error has occurred. Please try again later.	Test	Test	Προέκυψε ένα άγνωστο σφάλμα. Παρακαλώ δοκιμάστε ξανά αργότερα.
 assistant_alternative	Try navigating to the input URL and using the "Open with Assistant" option on the toolbar popup	Temp	Temp	Δοκιμάστε να μεταβείτε στη διεύθυνση URL εισαγωγής και χρησιμοποιήστε την επιλογή "Άνοιγμα με Βοηθό" στο αναδυόμενο παράθυρο της γραμμής εργαλείων
 assistant_handled_site	However, the media from this link can be extracted if the assistant is opened from the page itself.	Temp	Temp	Ωστόσο, τα μέσα από αυτόν τον σύνδεσμο μπορούν να εξαχθούν εάν ανοίξει ο βοηθός από την ίδια τη σελίδα.
-extracting_tweet_media  	Extracting tweet media... 	Temp	Temp	Εξαγωγή μέσων από tweet ...
+extracting_tweet_media  	Extracting tweet media... Temp  Temp	Εξαγωγή μέσων από tweet ...
 please_give_a_correct_link	Please give a correct link	Donner un lien valide s'il vous plaît	Por favor, dé un enlace válido	Παρακαλώ δώστε έναν σωστό σύνδεσμο
 button_submit	Submit	Envoyer	Enviar	Υποβολή
 quit	Quit	Quitter	Salir	Κλείσιμο
@@ -47,4 +47,4 @@ metadata_text	The metadata tool can be used to retrieve image/video metadata	Tem
 rights_text	The video rights tool can be used can be used to retrieve information solely about video rights	Temp	Temp	Το εργαλείο δικαιωμάτων βίντεο μπορεί να χρησιμοποιηθεί για την ανάκτηση πληροφοριών αποκλειστικά για δικαιώματα βίντεο
 forensic_text	The forensic tool can be used to detect any image manipulation	Temp	Temp	Το εργαλείο ανάλυση αυθεντικότητας Εικόνων (image forensics) μπορεί να χρησιμοποιηθεί για τον εντοπισμό τυχόν παραμορφώσεων της εικόνας
 twitter_sna_text	The twitter sna tool can be used	Temp	Temp	Το εργαλείο Twitter SNA μπορεί να χρησιμοποιηθεί
-no_action_text	No actions have been found for this media. Please try another URL.	Temp	Temp	Δεν βρέθηκαν ενέργειες για αυτό το μέσο. Δοκιμάστε μια άλλη διεύθυνση URL.
+
