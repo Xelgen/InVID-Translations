@@ -1,4 +1,4 @@
-	en	fr	es
-fakedetectiontraining_title	Fake detection training	Entra�nement d�tection de faux	Entrenamiento de detecci�n falsa
-fakedetectiontraining_trainm	MesoNet training	Entra�nement MesoNet	Entrenamiento MesoNet
-fakedetectiontraining_trainc	CapsuleForensics training	Entra�nement CapsuleForensics	Entrenamiento CapsuleForensics
+	en	fr	es	el
+fakedetectiontraining_title	Fake detection training	Entraînement détection de faux	Entrenamiento de detección falsa	Εκπαίδευση ανίχνευσης απάτης
+fakedetectiontraining_trainm	MesoNet training	Entraînement MesoNet	Entrenamiento MesoNet	MesoNet εκπαίδευση
+fakedetectiontraining_trainc	CapsuleForensics training	Entraînement CapsuleForensics	Entrenamiento CapsuleForensics	CapsuleForensics εκπαίδευση
