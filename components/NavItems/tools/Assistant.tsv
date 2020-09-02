@@ -8,7 +8,7 @@ upload_image	Image	Image	Imagen	Εικόνα
 assistant_real_intro	Would you like to process a URL or upload your own file?	Temp	Temp	Θέλετε να επεξεργαστείτε μια διεύθυνση URL ή να ανεβάσετε το δικό σας αρχείο;
 assistant_intro	Enter the URL of the media you would like to process	Temp	Temp	Εισαγάγετε τη διεύθυνση URL των μέσων που θέλετε να επεξεργαστείτε
 media_below	Select the media you would like to verify	Temp	Temp	Επιλέξτε τα μέσα που θέλετε να επαληθεύσετε
-input_url_label	Input URL:	Charger votre fichier Cargar su fichero	Εισάγετε σύνδεσμο:
+input_url_label	Input URL:	Charger votre fichier	Cargar su fichero	Εισάγετε σύνδεσμο:
 images_label	Images	Temp	Temp	Εικόνες
 videos_label	Videos	Temp	Temp	Βίντεο
 upload_type_question	What type of file do you want to upload?  Temp  Temp	Τι είδους αρχείο θέλετε να ανεβάσετε;
