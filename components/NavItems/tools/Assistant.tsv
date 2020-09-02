@@ -1,7 +1,7 @@
 	en	fr	es	el
 assistant_title	Assistant	Assistant	Assistente	Βοηθός
 assistant_real_intro    	Would you like to process a URL of upload your own file?  Voulez-vous traiter une adresse url ou télécharger votre fichier ?  Quiere procesar una dirección url o cargar su propio fichero ? 	Θέλετε να επεξεργαστείτε μια διεύθυνση URL ή να ανεβάσετε το δικό σας αρχείο;
-process_url	Process URL Traiter l'url Procesar la url Επεξεργασία URL
+process_url	Process URL	Traiter l'url	Procesar la url	Επεξεργασία URL
 submit_own_file	Upload File	Chargez votre fichier	Cargar su fichero	Μεταφόρτωση αρχείου
 upload_video	Video	Video	Video	Βίντεο
 upload_image	Image	Image	Imagen	Εικόνα
