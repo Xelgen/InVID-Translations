@@ -11,7 +11,7 @@ media_below	Select the media you would like to verify	Temp	Temp	Επιλέξτε
 input_url_label	Input URL:	Charger votre fichier Cargar su fichero	Εισάγετε σύνδεσμο:
 images_label	Images	Temp	Temp	Εικόνες
 videos_label	Videos	Temp	Temp	Βίντεο
-upload_type_question	What type of file do you want to upload?  Temp  Temp	Τι είδους αρχείο θέλετε να ανεβάσετε;
+upload_type_question	What type of file do you want to upload ?	Quel type de fichier voulez-vous charger ?	¿ Que fichero quiere cargar ?	Τι είδους αρχείο θέλετε να ανεβάσετε;
 assistant_urlbox	URL	Adresse	URL	Σύνδεσμος
 assistant_error	No media was found through the link entered.	Test	Test	Δεν βρέθηκε κανένα μέσο μέσω του συνδέσμου που καταχωρίστηκε.
 error_unknown	An unknown error has occurred. Please try again later.	Test	Test	Προέκυψε ένα άγνωστο σφάλμα. Παρακαλώ δοκιμάστε ξανά αργότερα.
