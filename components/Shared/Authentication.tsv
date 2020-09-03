@@ -50,5 +50,5 @@ LOGINFORM_ACCESSCODE_LABEL	Access Code	Code d'accès	Código de acceso	Κωδι�
 LOGINFORM_ACCESSCODE_PLACEHOLDER	Enter your access code	Saisissez votre code d'accès	Introduzca su código de acceso	Πληκτρολογήστε τον κωδικό πρόσβασης σας
 LOGINFORM_ACCESSCODE_ERR_REQUIRED	Access code is required	Veuillez saisir un code d'accès	Se requiere el código de acceso	Κωδικός πρόσβασης απαιτείται
 LOGINFORM_SUBMIT_LABEL	Login	S'identifier	Iniciar sesión	Σύνδεση
-LOGUSER_TEMPLATE	Welcome <%= user.firstName %> <%= user.lastName %> (<%= user.email %>)	Bonjour <%= user.firstName %> <%= user.lastName %> (<%= user.email %>)	Bienvenido <% = user.firstName%> <% = user.lastName%> (<% = user.email%>)	Καλώς ήρθατε <% = user.firstName%> <% = user.lastName%> (<% = user.email%>)
+LOGUSER_TEMPLATE	Welcome <%= user.firstName %> <%= user.lastName %> (<%= user.email %>)	Bonjour <%= user.firstName %> <%= user.lastName %> (<%= user.email %>)	Bienvenido <%= user.firstName%> <%= user.lastName%> (<%= user.email%>)	Καλώς ήρθατε <%= user.firstName%> <%= user.lastName%> (<%= user.email%>)
 LOGUSER_LOGOUT_LABEL	Logout	Deconnexion	Cerrar sesión	Αποσύνδεση
