@@ -20,3 +20,5 @@ keyframes_content_title	Video keyframes	Images clés de la vidéo	Imágenes clav
 keyframe_title_get_detail	+ Show detailed view	+ Afficher la vue détaillée	+ Mostrar la vista detallada	+ Εμφάνιση λεπτομερούς προβολής
 keyframe_title_get_simple	- Show simple view	- Afficher la vue minimal	- Mostrar vista simple	+ Εμφάνιση απλής προβολής
 keyframes_download_subshots	Download keyframes	Télecharger les images clés	Descargar imágenes claves	Λήψη χαρακτηριστικών καρέ
+zoom_in	zoom in	augmenter	aumentar	μεγεθύνετε
+zoom_out	zoom out	réduire	reducir	Σμίκρυνση
