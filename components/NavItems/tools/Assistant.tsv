@@ -42,8 +42,9 @@ navbar_metadata	Metadata	Metadonnées	Metadatos	Μεταδεδομένα
 navbar_rights	Video rights	Droits vidéo	Derechos video	Δικαιώματα βίντεο
 navbar_forensic	Forensic	Forensic	Forensic	Ανάλυση Αυθεντικότητας Εικόνων (image forensics)
 navbar_ocr	OCR	Temp	Temp	Temp
-navbar_twitter_sna	Fact Check	Factuel	Factual	Έλεγχος γεγονότων
-navbar_assistant	Assistant	Temp	Temp	Βοηθός
+navbar_twitter_sna	Fact Check	Factuel	Factual	Temp
+navbar_assistant	Assistant	Temp	Temp	Temp
+
 assistant_help_title	Assistant Help	Temp	Temp	Temp
 assistant_help_1	The weverify toolkit (this plugin) has multiple tools which can help in the verification of content on social networks, designed to help journalists save time and be more efficient in their fact checking tasks.<br>A full list of these tools can be found in the tutorial section of this plugin.<br>Given the multiple tools and services available, the weverify assistant has been designed to guide users to the services available to them given the nature of the content they would like to check.<br><br>	Temp	Temp	Temp
 assistant_help_2	<b>How does the assistant work?</b><br>Users can choose to upload their own media to be checked (an image or a video), in which case verification tools on the plugin which support media upload will be listed.<br>An alternative option is to enter a URL which needs verification or fact checking.<br>Once a URL in entered, the assistant attempts to extract any text, images or videos it can find on the page.<br>Any extracted text or media are then used to suggest the potential actions which can be carried out. Currently, there are three major components to this:<ul><li>Text Checks: displaying any text found on the page, and running a selection of post processing/verification tools against it</li><li>Media Checks: displaying any media found on the page, and if selected, giving the list of tools available on the WeVerify plugin to process selected media</li><li>Verification Checks: checks against elements of the URL which do not fall under either text or media, such as the domain of the website </li></ul>More information on each of these can be found in the links below.<br><br>	Temp	Temp	Temp
