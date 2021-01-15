@@ -64,9 +64,9 @@ status_title	Status	Temp	Temp	Temp
 status_subtitle	Note: one or more of the automated checks have resulted in an error. Some results may be omitted from this page.	Temp	Temp	Temp
 named_entity_title	Text Topics	Temp	Temp	Temp
 
-dbkf_image_warning	The image from this URL has matched against the following from the database of known fakes with a similarity score of 	Temp	Temp	Temp	Temp
-dbkf_video_warning	The video from this URL has matched against the following from the database of known fakes with a similarity score of 	Temp	Temp	Temp	Temp
-dbkf_text_warning	The text from this URL has matched against the following from the database of known fakes	Temp	Temp	Temp	Temp
+dbkf_image_warning	The image from this URL has matched against the following from the database of known fakes with a similarity score of 	Temp	Temp	Temp
+dbkf_video_warning	The video from this URL has matched against the following from the database of known fakes with a similarity score of 	Temp	Temp	Temp
+dbkf_text_warning	The text from this URL has matched against the following from the database of known fakes	Temp	Temp	Temp
 source_credibility_warning	The domain has been found as part of a domain credibility check. It has been labelled as	Temp	Temp	Temp
 according_to	according to	Temp	Temp	Temp
 hp_warning	The text from this URL has returned an unusually high hyperpartisan score of	Temp	Temp	Temp
@@ -80,7 +80,7 @@ thumbnails_text	Reverse search on thumbnails from the video	Temp	Temp	Temp
 magnifier_text	Examine the image thoroughly	Temp	Temp	Temp
 metadata_text	Retrieve image/video metadata	Temp	Temp	Temp
 rights_text	Retrieve information solely about video rights	Temp	Temp	Temp
-forensic_text	Detect any image manipulation	Temp	Temp
+forensic_text	Detect any image manipulation	Temp	Temp	Temp
 ocr_text	Extract any text from the image	Temp	Temp	Temp
 
 
