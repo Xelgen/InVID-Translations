@@ -1,7 +1,9 @@
 	en	fr	es	el
-ocr_title	OCR	Temp	Temp	Temp
-ocr_urlbox	Image URL	Temp	Temp	Temp
-ocr_error	Could not extract text. Please try another input	Temp	Temp	Temp
-ocr_no_text	No text has been found in the image	Temp	Temp	Temp
-button_localfile	Local file	Fichier local	Fichero local	Temp
-button_submit	Submit	Envoyer	Enviar	Temp
+ocr_title	OCR	OCR	LOC	OCR
+ocr_urlbox	Image URL	URL de l'image	URL de la imagen	URL εικόνας
+ocr_error	Could not extract text. Please try another input	Le texte n'a pas pu être extrait. Essayer svp une autre image	No se pudo extraer el texto. Intente porfa con otro imagen	Δεν ήταν δυνατή η εξαγωγή κειμένου. Δοκιμάστε μια άλλη είσοδο
+ocr_no_text	No text has been found in the image	Pas de texte trouvé dans l'image	No se encontro texto en la imagen	Δεν βρέθηκε κείμενο στην εικόνα
+button_localfile	Local file	Fichier local	Fichero local	τοπικό αρχείο
+button_submit	Submit	Envoyer	Enviar	Υποβολή
+ocr_search_yandex	Yandex	Yandex	Yandex	Γιάντεξ
+ocr_search_bing	Bing	Bing	Bing	Bing
