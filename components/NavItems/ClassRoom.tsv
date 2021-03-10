@@ -16,7 +16,7 @@ gamification_url	https://view.genial.ly/5ebd550432a04c0d96b6da63	https://view.ge
 teaching_url	https://docs.google.com/presentation/d/e/2PACX-1vTYjPP42BGGB5qmy1bdE3Bn0_Syj7AIP9GxL7PrErSKT5jq-j8f_BxWCQpFInjMrjyu9fzdUwz012T7/embed?start=false&loop=false&delayms=3000	https://docs.google.com/presentation/d/e/2PACX-1vQf24xk06KJgFBabG4gWXBHuzEfYvBcIF4kTQ3p4YMMFCpq98UvmpA9HBu4n88ZSBgPfCwXyHhFDLwG/embed?start=false&loop=false&delayms=3000	https://docs.google.com/presentation/d/e/2PACX-1vTinqJ3XhF8N8obwJhbzf4yukf8Ug7wtfiM0nlcxyUqfXqWQS2--wpiI7u054Im66bIRwKbRAAlIvp_/embed?start=false&loop=false&delayms=3000	https://docs.google.com/presentation/d/e/2PACX-1vTYjPP42BGGB5qmy1bdE3Bn0_Syj7AIP9GxL7PrErSKT5jq-j8f_BxWCQpFInjMrjyu9fzdUwz012T7/embed?start=false&loop=false&delayms=3000	
 classroom_title	Classroom	Salle de classe	Aula	Αίθουσα	
 classroom_title_1	Five ways to spot fake news (Quartz)	5 conseils pour débusquer les fakes news (Kombini)	¿Qué hacemos con tanta noticia falsa?	Πέντε τρόποι για να εντοπίσετε φευδείς ειδήσεις (Quartz)	
-classroom_url_1	https://www.youtube.com/embed/y7eCB2F89K8?rel=0	https://www.youtube.com/watch?v=JS6uTyAMqPk?rel=0	https://www.youtube.com/embed/-FI1Tv-R7ZA?rel=0	https://www.youtube.com/embed/y7eCB2F89K8?rel=0	
+classroom_url_1	https://www.youtube.com/embed/y7eCB2F89K8?rel=0	https://www.youtube.com/embed/-5BoejLNc9A?rel=0	https://www.youtube.com/embed/-FI1Tv-R7ZA?rel=0	https://www.youtube.com/embed/y7eCB2F89K8?rel=0	
 classroom_title_2	Helping students fighting disinformation	Comment vérifier une vidéo sur Facebook (France 24)	Guía para identificar noticias falsas	Βοηθώντας τους φοιτητές να καταπολεμήσουν την παραπληροφόρηση	
 classroom_url_2	https://www.youtube.com/embed/xf8mjbVRqao?rel=0	https://video.twimg.com/amplify_video/1055750649462308866/vid/640x360/yqQIZj-jHZRxl0i2.mp4	https://www.youtube.com/embed/Y42V_qjptLA?rel=0	https://www.youtube.com/embed/xf8mjbVRqao?rel=0	
 classroom_title_3	How to spot fake news (Factcheck.org)	C'est quoi une fake news ? (1 jour, 1 question)	¿Cómo identificar noticias falsas en redes sociales para no confundir a la sociedad?	Πώς να εντοπίσετε ψευδείς ειδήσεις (Factcheck.org)	
@@ -40,9 +40,9 @@ youtube_example	Youtube: https://www.youtube.com/embed/5wRv8boqIEc	Youtube: http
 twitter_example	Twitter: https://video.twimg.com/amplify_video/1055750649462308866/vid/640x360/yqQIZj-jHZRxl0i2.mp4	Twitter: https://video.twimg.com/amplify_video/1055750649462308866/vid/640x360/yqQIZj-jHZRxl0i2.mp4	Twitter: https://video.twimg.com/amplify_video/1055750649462308866/vid/640x360/yqQIZj-jHZRxl0i2.mp4	Twitter: https://video.twimg.com/amplify_video/1055750649462308866/vid/640x360/yqQIZj-jHZRxl0i2.mp4	
 website_example	Website: https://weverify.eu/verification-plugin/ 	Site web: https://weverify.eu/verification-plugin/	Sitio web: https://weverify.eu/verification-plugin/ 	Website: https://weverify.eu/verification-plugin/ 	
 glossary_title	Glossary	Glossaire	Glosario	Γλωσσάριο	
-glossary_word_1	fake news 	infox	 bulo 	Λέξη 1	
+glossary_word_1	fake news : 	infox : 	bulo :	Λέξη 1	
 glosary_definition_1	false stories that appear to be news, spread on the internet or using other media, usually created to influence political views or as a joke (Cambridge dictionary)	Information mensongère ou délibérément biaisée, contribuant à la désinformation (Le Robert) ou information fallacieuse.	Noticia falsa propalada con algún fin. (RAE)	ορισμός 1	
-glossary_word_2	disinformation	 	désinformation 		desinformación 		Λέξη 2	
+glossary_word_2	disinformation :	désinformation :	desinformación :	Λέξη 2	
 glosary_definition_2	false information spread in order to deceive people	Action particulière ou continue qui consiste, en usant de tous moyens, à induire un adversaire en erreur ou à favoriser chez lui la subversion dans le dessein de l'affaiblir (CNRTL).	Acción de dar información intencionadamente manipulada al servicio de ciertos fines. (RAE)	ορισμός 2	
-glossary_word_3	misinformation  	mésinformation  	malinformación  	Λέξη 3	
+glossary_word_3	misinformation : 	mésinformation : 	malinformación : 	Λέξη 3	
 glosary_definition_3	wrong information (often unintentional), or the fact that people are misinformed. (from Cambridge Dict.)	une information fausse dont la diffusion n’est pas destinée à nuire (CoE).	información falsa difundida sin intención de engañar	ορισμός 3	
