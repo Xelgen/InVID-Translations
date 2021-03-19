@@ -37,3 +37,8 @@ forensic_title_none	None	Aucun	Ninguno	Κανένας
 clear_filter	Clear Filter	Enlever le filtre	Retirar el Filtro	Απαλοιφή φίλτρου
 forensic_ratio_b_landscape	Portrait	Portrait	Retrato	πορτρέτου
 forensic_ratio_b_portrait	Landscape	Paysage	Paisaje	τοπίου
+forensic_title_cmfd_report	CMFD			
+forensic_title_dct_report	DCT			
+forensic_title_fusion_report	FUSION			
+forensic_title_mantranet_report	Mantranet			
+forensic_title_splicebuster_report	Splicebuster			
