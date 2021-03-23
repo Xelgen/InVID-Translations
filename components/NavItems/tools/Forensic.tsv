@@ -42,6 +42,6 @@ forensic_title_dct_report	DCT	DCT	DCT	DCT
 forensic_title_fusion_report	FUSION	FUSION	FUSION	FUSION
 forensic_title_mantranet_report	Mantranet	Mantranet	Mantranet	Mantranet
 forensic_title_splicebuster_report	Splicebuster	Splicebuster	Splicebuster	Splicebuster
-forensic_title_zero_report	Zero			
-forensic_title_laplacian_report	Laplacian			
-forensic_title_rcmfd_report	RCMFD			
+forensic_title_zero_report	Zero	Zero	Zero	Zero
+forensic_title_laplacian_report	Laplacian	Laplacian	Laplacian	Laplacian
+forensic_title_rcmfd_report	RCMFD	RCMFD	RCMFD	RCMFD
