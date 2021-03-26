@@ -45,16 +45,20 @@ forensic_title_splicebuster_report	Splicebuster	Splicebuster	Splicebuster	Splice
 forensic_title_zero_report	Zero	Zero	Zero	Zero
 forensic_title_laplacian_report	Laplacian	Laplacian	Laplacian	Laplacian
 forensic_title_rcmfd_report	RCMFD	RCMFD	RCMFD	RCMFD
-family_compression_description	They detect anomalies in previous processes of creation and compression of the image. If a new element has been removed or added to the image, it can be detected if it has a different compression than the rest of the image.			
-family_compression_look	Combination of multiple filters that highlight in red a common area of the image.			
-family_compression_ignore	Complex textures of an object or saturated areas of the photo can generate false positives.			
-family_noise_description	They detect differences of noise (grain) in different sections of the image. If a new element has been added to the image, it can be detected if it has a different amount of noise than the rest of the image.			
-family_noise_look	Highlighted areas in red of a clear section of the image.			
-family_noise_ignore	Complex textures of an object or saturated areas of the photo (black or white sections) can generate false positives.			
-family_ai_description	They use Artificial intelligence methods to detect modifications of the images with a system that has been trained with a big number of examples of fake images.			
-family_ai_look	Sections of objects in the image highlighted in red.			
-family_ai_ignore	Blue sections should we ignored.			
-family_cloning_description	They detect elements in the image that has been copied and moved to create the fake image			
-family_cloning_look	"CMFD – Red areas are the elements that have been copied and moved and sometimes it can appear a white region that represents the source of the element that has been cloned
+forensic_family_compression_title	Compression			
+forensic_family_compression_description	They detect anomalies in previous processes of creation and compression of the image. If a new element has been removed or added to the image, it can be detected if it has a different compression than the rest of the image.			
+forensic_family_compression_look	Combination of multiple filters that highlight in red a common area of the image.			
+forensic_family_compression_ignore	Complex textures of an object or saturated areas of the photo can generate false positives.			
+forensic_family_noise_title	Noise			
+forensic_family_noise_description	They detect differences of noise (grain) in different sections of the image. If a new element has been added to the image, it can be detected if it has a different amount of noise than the rest of the image.			
+forensic_family_noise_look	Highlighted areas in red of a clear section of the image.			
+forensic_family_noise_ignore	Complex textures of an object or saturated areas of the photo (black or white sections) can generate false positives.			
+forensic_family_ai_title	AI			
+forensic_family_ai_description	They use Artificial intelligence methods to detect modifications of the images with a system that has been trained with a big number of examples of fake images.			
+forensic_family_ai_look	Sections of objects in the image highlighted in red.			
+forensic_family_ai_ignore	Blue sections should we ignored.			
+forensic_family_cloning_title	Cloning			
+forensic_family_cloning_description	They detect elements in the image that has been copied and moved to create the fake image			
+forensic_family_cloning_look	"CMFD – Red areas are the elements that have been copied and moved and sometimes it can appear a white region that represents the source of the element that has been cloned
 RCMFD – Red lines that represents similar objects in the image that have been cloned"			
-family_cloning_ignore	The rest of the sections that are not described in the “look for” section.			
+forensic_family_cloning_ignore	The rest of the sections that are not described in the “look for” section.			
