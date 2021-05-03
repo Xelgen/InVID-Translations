@@ -13,6 +13,19 @@ navbar_ocr	OCR	OCR	OCR	OCR
 navbar_covidsearch	Covid-19	Covid-19	Covid-19	Covid-19
 navbar_xnetwork	XNetwork	XNetwork	XNetwork	XNetwork
 navbar_gif	Gif	Gif	Gif	Gif
+navbar_twitter_sna_description	This tool analyse data in twitter based on different search parameters			
+navbar_analysis_description	This tool extracts the contextual information of a Youtube, Facebook or Instagram video			
+navbar_keyframes_description	This tool fragment a video in the most important frames			
+navbar_thumbnails_description	This tool extracts the different cover images (thumnails) of a Youtube video			
+navbar_twitter_description	This tool retrieve tweets of a specific topic based on different parameters			
+navbar_magnifier_description	This tool helps you to examine an image thoroughly			
+navbar_metadata_description	This tool retrieve the metadata info of an image 			
+navbar_rights_description	This tool inform you about the legal rights of a Youtube, Facebook or Instagram video			
+navbar_forensic_description	This tool help the process of detection of image manipulation			
+navbar_covidsearch_description	This tool uses different search engines to provide covid-19 information about a topic			
+navbar_xnetwork_description	This tool uses different search engines to provide information about a topic			
+navbar_ocr_description	This tool extract the text from an image			
+navbar_gif_description	This tool allows you to create a gif animation from an original and a tampered image			
 api_help_video	https://www.youtube.com/embed/eEVTYq1LMxM?rel=0	https://www.youtube.com/embed/6kkulKrgtLQ?rel=0	https://www.youtube.com/embed/FtAbxbrJMMY?rel=0	https://www.youtube.com/embed/eEVTYq1LMxM?rel=0
 keyframes_help_video	https://www.youtube.com/embed/iNs8y5DoxP8?rel=0	https://www.youtube.com/embed/kXtjUWTqgFQ?rel=0	https://www.youtube.com/embed/0seFvJXegyc?rel=0	https://www.youtube.com/embed/iNs8y5DoxP8?rel=0
 thumbnails_help_video	https://www.youtube.com/embed/Vn0XGlOkSRQ?rel=0	https://www.youtube.com/embed/Ioe5yDqPaL8?rel=0	https://www.youtube.com/embed/cmv_1KJlbhE?rel=0	https://www.youtube.com/embed/Vn0XGlOkSRQ?rel=0
