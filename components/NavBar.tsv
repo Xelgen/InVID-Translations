@@ -3,22 +3,35 @@ navbar_tools	Tools	Outils	Herramientas	Εργαλεία
 navbar_about	About	A propos	Sobre nosotros	Σχετικά με
 navbar_tuto	Tutorial	Tutoriel	Tutorial	Tutorial
 navbar_twitter_sna	Twitter SNA.	Twitter SNA.	Twitter SNA.	Twitter SNA.
+navbar_twitter_sna_description	This tool analyse data in twitter based on different search parameters			
 navbar_classroom	Classroom	Salle de cours	Aula	ΣΧΟΛΙΚΗ ΑΙΘΟΥΣΑ
 navbar_quiz	Interactive	Interactif	Interactivo	Διαδραστικός
 navbar_analysis	Video analysis	Analyse	Video análisis	Ανάλυση
+navbar_analysis_description	This tool extracts the contextual information of a Youtube, Facebook or Instagram video			
 navbar_keyframes	Keyframes	Images clés	Imágenes claves	Χαρακτηριστικά καρέ
+navbar_keyframes_description	This tool fragment a video in the most important frames			
 navbar_thumbnails	Thumbnails	Imagettes	Miniaturas	Μικρογραφίες
+navbar_thumbnails_description	This tool extracts the different cover images (thumnails) of a Youtube video			
 navbar_twitter	Tw. search	Recherche Tw.	Búsqueda Tw.	Αναζήτηση στο Twitter
+navbar_twitter_description	This tool retrieve tweets of a specific topic based on different parameters			
 navbar_magnifier	Magnifier	Loupe	Lupa	Μεγεθυντικός φακός
+navbar_magnifier_description	This tool helps you to examine an image thoroughly			
 navbar_metadata	Metadata	Metadonnées	Metadatos	Μεταδεδομένα
+navbar_metadata_description	This tool retrieve the metadata info of an image 			
 navbar_rights	Video rights	Droits vidéo	Derechos video	Δικαιώματα βίντεο
+navbar_rights_description	This tool inform you about the legal rights of a Youtube, Facebook or Instagram video			
 navbar_forensic	Forensic	Forensic	Forensic	Αυθεντικότητας Εικόνων
+navbar_forensic_description	This tool help the process of detection of image manipulation			
 navbar_factCheck	Fact Check	Factuel	Factual	Έλεγχος γεγονότων
 navbar_covidsearch	Covid-19 SE	Rech. Covid-19	Búsq. Covid-19	Covid-19
+navbar_covidsearch_description	This tool uses different search engines to provide covid-19 information about a topic			
 navbar_assistant	Assistant	Assistant	Asistente	Βοηθός
 navbar_xnetwork	Xnetwork	Xnetwork	Xnetwork	Xnetwork
+navbar_xnetwork_description	This tool uses different search engines to provide information about a topic			
 navbar_ocr	OCR	OCR	OCR	OCR
+navbar_ocr_description	This tool extract the text from an image			
 navbar_gif	CheckGif	CheckGif	CheckGif	CheckGif
+navbar_gif_description	This tool allows you to create a gif animation from an original and a tampered image			
 cookies_decline	Decline	Refuser	Rechazar	Aπόρριψη
 cookies_accept	Accept	Accepter	Aceptar	Αποδοχή
 cookies_message	The plugin needs your authorization to use cookies to enhance your user experience.	Cette extension a besoin de votre autorisation pour utiliser des cookies afin d'améliorer votre expérience utilisateur.	El plugin necesita su autorización para utilizar cookies para mejorar su experiencia de usuario.	Η προσθήκη χρειάζεται την εξουσιοδότησή σας για τη χρήση cookie για τη βελτίωση της εμπειρίας του χρήστη σας.
