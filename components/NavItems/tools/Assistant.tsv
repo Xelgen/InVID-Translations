@@ -2,11 +2,11 @@
 assistant_title	Assistant	Assistant	Asistente	Βοηθός
 assistant_intro	The assistant will help you to analyse a webpage, an image or a video file and suggest which WeVerify tools are useful for each case	Temp	Temp	Temp
 assistant_choose	Choose what you want to analyse	Temp	Temp	Temp
-assistant_webpage_header	Webpage link	Temp	Temp	Temp	Temp
+assistant_webpage_header	Webpage link	Temp	Temp	Temp
 assistant_webpage_text	Insert the link of a webpage, and the assistant will suggest the most useful tools for the contents of the given page.	Temp	Temp	Temp
 assistant_file_header	Local file	Temp	Temp	Temp
 assistant_file_text	 The assistant will suggest the most useful tools depending on if the file is a video or image	Temp	Temp	Temp
-assistant_choose_tool	Choose the tool you want to use	Temp	Temp	Temp	Temp
+assistant_choose_tool	Choose the tool you want to use	Temp	Temp	Temp
 upload_video	Video	Video	Video	Βίντεο
 upload_image	Image	Image	Imagen	Εικόνα
 assistant_urlbox	URL	Adresse URL	URL	Σύνδεσμος
