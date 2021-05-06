@@ -6,7 +6,7 @@ navbar_twitter_sna	Twitter SNA.	Twitter SNA.	Twitter SNA.	Twitter SNA.
 navbar_classroom	Classroom	Salle de cours	Aula	ΣΧΟΛΙΚΗ ΑΙΘΟΥΣΑ
 navbar_quiz	Interactive	Interactif	Interactivo	Διαδραστικός
 navbar_analysis	Video analysis	Analyse	Video análisis	Ανάλυση
-navbar_keyframes	Keyframes	Images clés	Imágenes claves	Χαρακτηριστικά καρέ
+navbar_keyframes	Keyframes	Images clés	Fotogramas clave	Χαρακτηριστικά καρέ
 navbar_thumbnails	Thumbnails	Imagettes	Miniaturas	Μικρογραφίες
 navbar_twitter	Tw. search	Recherche Tw.	Búsqueda Tw.	Αναζήτηση στο Twitter
 navbar_magnifier	Magnifier	Loupe	Lupa	Μεγεθυντικός φακός
@@ -21,4 +21,4 @@ navbar_ocr	OCR	OCR	OCR	OCR
 navbar_gif	CheckGif	CheckGif	CheckGif	CheckGif
 cookies_decline	Decline	Refuser	Rechazar	Aπόρριψη
 cookies_accept	Accept	Accepter	Aceptar	Αποδοχή
-cookies_message	The plugin needs your authorization to use cookies to enhance your user experience.	Cette extension a besoin de votre autorisation pour utiliser des cookies afin d'améliorer votre expérience utilisateur.	El plugin necesita su autorización para utilizar cookies para mejorar su experiencia de usuario.	Η προσθήκη χρειάζεται την εξουσιοδότησή σας για τη χρήση cookie για τη βελτίωση της εμπειρίας του χρήστη σας.
+cookies_message	The plugin needs your authorization to use cookies to enhance your user experience. No personal data is recorded.	Cette extension a besoin de votre autorisation pour utiliser des cookies afin d'améliorer votre expérience utilisateur. Aucune donnée personnelle n'est enregistrée.	El plugin necesita su autorización para utilizar cookies para mejorar su experiencia de usuario. No se guardan datos personales.	Η προσθήκη χρειάζεται την εξουσιοδότησή σας για τη χρήση cookie για τη βελτίωση της εμπειρίας του χρήστη σας.
