@@ -1,7 +1,9 @@
 	en	fr	es	el
 metadata_content_title	Metadata	Métadonnées	Metadatos	Μεταδεδομένα
-metadata_content_input	Image URL in jpg/jpeg or video URL in mp4/m4v format	Adresse de l'image au format jpg/jpeg ou video au format mp4/m4v	Enlace del imagen en formato jpg/jpeg o video en formato mp4/m4v	Σύνδεσμος εικόνας σε μορφή jpg / jpeg ή σύνδεσμος βίντεο σε μορφή mp4 / m4v
-button_localfile	Local file	Fichier local	Fichero local	Τοπικό αρχείο
+metadata_content_input	Media link	Adresse de l'image au format jpg/jpeg ou video au format mp4/m4v	Enlace del imagen en formato jpg/jpeg o video en formato mp4/m4v	Σύνδεσμος εικόνας σε μορφή jpg / jpeg ή σύνδεσμος βίντεο σε μορφή mp4 / m4v
+metadata_content_input_placeholder	Paste the link here			
+description_limitations	The image needs to be in JPG or JPEG format and the video in MP4 or M4V format			
+button_localfile	Load local file		Fichero local	
 metadata_radio_image	Image	Image	Imagen	Εικόνα
 metadata_radio_video	Video	Vidéo	Video	Βίντεο
 button_submit	Submit	Envoyer	Enviar	Υποβολή
@@ -83,7 +85,7 @@ metadata_img_general_desc_25
 metadata_img_gps_fields_1	GPS Latitude Ref.	Ref. Latitude GPS	Latitud GPS Ref.	Αναφορά GPS γεωγραφικό πλάτος
 metadata_img_gps_fields_2	GPS Latitude	Latitude GPS	Latitud GPS	GPS γεωγραφικό πλάτος
 metadata_img_gps_fields_3	GPS Longitude Ref.	Ref. Longitude GPS	Longitud GPS Ref.	Αναφορά γεωγραφικού μήκους GPS
-metadata_img_gps_fields_4	GPS Longitude	Longitude GPS	Longitud GPS	GPS Γεωγραφικό μήκος 
+metadata_img_gps_fields_4	GPS Longitude	Longitude GPS	Longitud GPS	"GPS Γεωγραφικό μήκος "
 metadata_img_gps_fields_5	GPS Time Stamp	Horodatage GPS	Marca de tiempo GPS	Χρονική σφραγίδα GPS
 metadata_img_gps_desc_1				
 metadata_img_gps_desc_2				
@@ -97,7 +99,7 @@ metadata_gps_button	View GPS location	Afficher localisation GPS	Ver ubicación G
 metadata_img_gps_fields_1	GPS Latitude Ref.	Ref. Latitude GPS	Latitud GPS Ref.	Αναφορά GPS γεωγραφικό πλάτος
 metadata_img_gps_fields_2	GPS Latitude	Latitude GPS	Latitud GPS	GPS γεωγραφικό πλάτος
 metadata_img_gps_fields_3	GPS Longitude Ref.	Ref. Longitude GPS	Longitud GPS Ref.	Αναφορά γεωγραφικού μήκους GPS
-metadata_img_gps_fields_4	GPS Longitude	Longitude GPS	Longitud GPS	GPS Γεωγραφικό μήκος 
+metadata_img_gps_fields_4	GPS Longitude	Longitude GPS	Longitud GPS	"GPS Γεωγραφικό μήκος "
 metadata_img_gps_fields_5	GPS Time Stamp	Horodatage GPS	Marca de tiempo GPS	Χρονική σφραγίδα GPS
 metadata_img_gps_desc_1				
 metadata_img_gps_desc_2				
@@ -153,7 +155,7 @@ track_desc_9	Number; width of the track as indicated in the track header	Nombre;
 track_desc_10	Number; height of the track as indicated in the track header	Nombre; hauteur de la piste comme indiqué dans l'entête de piste	Número; altura de la pista como indicado en el encabezamiento de la pista	Αριθμός; ύψος του κομματιού όπως υποδεικνύεται στην κεφαλίδα του κομματιού
 track_desc_11	Number; indicating the track timescale as given in the track header	Nombre; indiquant l'unité de temps de la piste comme donné dans l'entête de la piste	Número; indicando la unidad de tiempo de la pista como indicado en el encabezamiento de la pista	Αριθμός; υποδεικνύοντας την χρονική κλίμακα του κομματιού όπως αναφέρεται στην κεφαλίδα του κομματιού
 track_desc_12	Number; providing the duration of the (unfragmented part of) track in timescale units	Nombre; donnant la duréee de la (partie défragmentée de la) piste en unité de temps	Número; indicando la duración de la (parte desfragmentada de la) pista en unidad de tiempo	Αριθμός; παρέχοντας τη διάρκεια (μη τεμαχισμένου τμήματος) του κομματιού σε μονάδες της κλίμακας χρόνου
-track_desc_13	String; giving the MIME codecs parameter for this track (e.g. ''avc1.42c00d'' or ''mp4a.40.2'') to be used to create SourceBuffer objects with Media Source Extensions	Chaîne de charactère; donnant les paramètres codecs MIME pour cette piste (ex. ''avc1.42c00d'' ou ''mp4a.40.2'') pour être utilisé pour créer un objet SourceBuffer avec Media Source Extensions	Cadena de carácter; indicando los parametros codecs MIME para esta pista (ej. ''avc1.42c00d'' o ''mp4a.40.2'') para utilizarla para crear un objeto SourceBuffer con Media Source Extensions	Συμβολοσειρά; δίνοντας την παράμετρο κωδικοποιητών MIME για αυτό το κομμάτι (π.χ. "avc1.42c00d" ή "mp4a.40.2") για χρήση για τη δημιουργία αντικειμένων SourceBuffer με επεκτάσεις πηγής πολυμέσων
+track_desc_13	String; giving the MIME codecs parameter for this track (e.g. ''avc1.42c00d'' or ''mp4a.40.2'') to be used to create SourceBuffer objects with Media Source Extensions	Chaîne de charactère; donnant les paramètres codecs MIME pour cette piste (ex. ''avc1.42c00d'' ou ''mp4a.40.2'') pour être utilisé pour créer un objet SourceBuffer avec Media Source Extensions	Cadena de carácter; indicando los parametros codecs MIME para esta pista (ej. ''avc1.42c00d'' o ''mp4a.40.2'') para utilizarla para crear un objeto SourceBuffer con Media Source Extensions	"Συμβολοσειρά; δίνοντας την παράμετρο κωδικοποιητών MIME για αυτό το κομμάτι (π.χ. ""avc1.42c00d"" ή ""mp4a.40.2"") για χρήση για τη δημιουργία αντικειμένων SourceBuffer με επεκτάσεις πηγής πολυμέσων"
 track_desc_14	String; giving the 3-letter language code	Chaîne de charactère; donnant le code de langage à 3 lettres	Cadena de carácter; indicando el código de idioma con 3 letras	Συμβολοσειρά; δίνοντας τον κωδικό γλώσσας 3 γραμμάτων
 track_desc_15	Number; giving the number of track samples (ie. frames)	Nombre; donnant le nombre d'échantillons de piste (c-à-d images)	Número; indicando el número de muestras de pista (es decir imágenes)	Αριθμός; δίνοντας τον αριθμό των δειγμάτων κομματιού (π.χ. καρέ)
 track_desc_16				
@@ -187,7 +189,7 @@ audio_desc_9	Number; width of the track as indicated in the track header	Nombre;
 audio_desc_10	Number; height of the track as indicated in the track header	Nombre; hauteur de la piste comme indiqué dans l'entête de piste	Número; altura de la pista como indicado en el encabezamiento de la pista	Αριθμός; ύψος του κομματιού όπως υποδεικνύεται στην κεφαλίδα του κομματιού
 audio_desc_11	Number; indicating the track timescale as given in the track header	Nombre; indiquant l'unité de temps de la piste comme donné dans l'entête de la piste	Número; indicando la unidad de tiempo de la pista como indicado en el encabezamiento de la pista	Αριθμός; υποδεικνύοντας την χρονική κλίμακα του κομματιού όπως αναφέρεται στην κεφαλίδα του κομματιού
 audio_desc_12	Number; providing the duration of the (unfragmented part of) track in timescale units	Nombre; donnant la duréee de la (partie défragmentée de la) piste en unité de temps	Número; indicando la duración de la (parte desfragmentada de la) pista en unidad de tiempo	Αριθμός; παρέχοντας τη διάρκεια (μη τεμαχισμένου τμήματος) του κομματιού σε μονάδες της κλίμακας χρόνου
-audio_desc_13	String; giving the MIME codecs parameter for this track (e.g. ''avc1.42c00d'' or ''mp4a.40.2'') to be used to create SourceBuffer objects with Media Source Extensions	Chaîne de charactère; donnant les paramètres codecs MIME pour cette piste (ex. ''avc1.42c00d'' ou ''mp4a.40.2'') pour être utilisé pour créer un objet SourceBuffer avec Media Source Extensions	Cadena de carácter; indicando los parametros codecs MIME para esta pista (ej. ''avc1.42c00d'' o ''mp4a.40.2''') para utilizarla para crear un objeto SourceBuffer con Media Source Extensions	Συμβολοσειρά; δίνοντας την παράμετρο κωδικοποιητών MIME για αυτό το κομμάτι (π.χ. "avc1.42c00d" ή "mp4a.40.2") για χρήση για τη δημιουργία αντικειμένων SourceBuffer με επεκτάσεις πηγής πολυμέσων
+audio_desc_13	String; giving the MIME codecs parameter for this track (e.g. ''avc1.42c00d'' or ''mp4a.40.2'') to be used to create SourceBuffer objects with Media Source Extensions	Chaîne de charactère; donnant les paramètres codecs MIME pour cette piste (ex. ''avc1.42c00d'' ou ''mp4a.40.2'') pour être utilisé pour créer un objet SourceBuffer avec Media Source Extensions	Cadena de carácter; indicando los parametros codecs MIME para esta pista (ej. ''avc1.42c00d'' o ''mp4a.40.2''') para utilizarla para crear un objeto SourceBuffer con Media Source Extensions	"Συμβολοσειρά; δίνοντας την παράμετρο κωδικοποιητών MIME για αυτό το κομμάτι (π.χ. ""avc1.42c00d"" ή ""mp4a.40.2"") για χρήση για τη δημιουργία αντικειμένων SourceBuffer με επεκτάσεις πηγής πολυμέσων"
 audio_desc_14	String; giving the 3-letter language code	Chaîne de charactère; donnant le code de langage à 3 lettres	Cadena de carácter; indicando el código de idioma con 3 letras	Συμβολοσειρά; δίνοντας τον κωδικό γλώσσας 3 γραμμάτων
 audio_desc_15	Number; giving the number of track samples (ie. frames)	Nombre; donnant le nombre d'échantillons de piste (c-à-d images)	Número; indicando el número de muestras de pista (es decir imágenes)	Αριθμός; δίνοντας τον αριθμό των δειγμάτων κομματιού (π.χ. καρέ)
 audio_desc_16				
@@ -196,4 +198,6 @@ metadata_content_title	Metadata	Métadonnées	Metadatos	Μεταδεδομένα
 metadata_content_input	Image URL in jpg/jpeg or video URL in mp4/m4v format	Adresse de l'image au format jpg/jpeg ou video au format mp4/m4v	Enlace del imagen en formato jpg/jpeg o video en formato mp4/m4v	URL εικόνας σε μορφή jpg / jpeg ή URL βίντεο σε μορφή mp4 / m4v
 metadata_title	Video Metadata	Métadonnées de la video	Metadatos del video	Μεταδεδομένα βίντεο
 track_title	Video Track	Piste vidéo	Pista de video	Κομμάτι βίντεο
-audio_title	Audio track	Piste audio	Pista audio	Kομμάτι ήχου 
+audio_title	Audio track	Piste audio	Pista audio	"Kομμάτι ήχου "
+cardheader_source	Source of the media			
+cardheader_results	Results			
