@@ -1,6 +1,7 @@
 	en	fr	es	el
 api_title	Video contextual verification	Vérification du contexte de la vidéo	Verificación del contexto del video	Επαλήθευση βίντεο μέσω ανάλυσης δεικτών εγκυρότητας
-api_input	Copy and paste a Youtube, Facebook or Twitter url	Copier et coller une adresse YouTube, Facebook ou Twitter	Copiar y pegar un enlace de YouTube, Facebook o Twitter	Αντιγραφή και επικόλληση μιας διεύθυνσης από Youtube, Facebook ή Twitter
+api_input	Youtube, Facebook or Twitter link	Adresse YouTube, Facebook ou Twitter	Enlace de YouTube, Facebook o Twitter	Σύνδεσμος Youtube, Facebook ή Twitter
+api_input_placeholder	Paste here the link			
 api_repro	Reprocess	Retraiter	Volver a procesar	Επανεπεξεργασία
 api_comments	Verification comments	Commentaires de vérification	Comentarios de verificación	Σχόλια επαλήθευσης
 button_submit	Submit	Envoyer	Enviar	Υποβολή
@@ -67,8 +68,8 @@ youtube_channel_title	Channel:	Chaîne:	Cadena:	Κανάλι:
 youtube_comment_name_1	Video comment count	Nombre de commentaires	Número de comentarios	Αριθμός σχολίων βίντεο
 convert_to_local_time	Convert to local time	Convertir à l'heure locale	Pasar a la hora local	Μετατροπή σε τοπική ώρα
 table_error_unavailable	This url is not valid	Cette URL n'est pas valide	Esta url no es válida	Αυτή η διεύθυνση URL δεν είναι έγκυρη
-cardheader_link	Link of the video			
-cardheader_results	Results of the analysis	
+cardheader_link	Source of the video			
+cardheader_results	Results of the analysis			
 next_button	Next page of comments	Page suivante de commentaires	Siguiente página de comentarios	Επόμενη σελίδα σχολίων
 previous_button	Previous page of comments	Page précédente de commentaires	Página anterior de comentarios	Προηγούμενη σελίδα σχολίων
 page_number	Page Number:	Numéro de page:	Número de página:	Αριθμός σελίδας:

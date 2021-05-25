@@ -1,6 +1,7 @@
 	en	fr	es	el
 forensic_title	Image forensic analysis	Analyse forensic d'image	Análisis forensic de imagen	Ανάλυση Αυθεντικότητας Εικόνων (image forensics)
-forensic_input	URL link	URL link	URL link	Σύνδεσμος URL
+forensic_input	Image link			
+forensic_input_placeholder	Paste here the link			
 button_localfile	Local file	Fichier local	Fichero local	Τοπικό αρχείο
 button_submit	Analyze	Analyser	Analizar	Αναλύει
 cardheader_source	Source of the image			
