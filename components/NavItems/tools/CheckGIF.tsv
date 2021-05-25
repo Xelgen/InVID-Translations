@@ -17,3 +17,8 @@ description_URL	The two images are provided with two URL links
 title_local	Local files			
 description_local	The two images are provided with two local files			
 title_gifcreation	GIF Creation			
+text_preview	You need to select the two images on the left and click the button to see the preview			
+input_label1	Link of the first image			
+input_label2	Link of the second image			
+input_placeholder	Paste here the link			
+title_preview	Preview of the GIF			
