@@ -70,3 +70,5 @@ table_error_unavailable	This url is not valid	Cette URL n'est pas valide	Esta ur
 next_button	Next page of comments	Page suivante de commentaires	Siguiente página de comentarios	Επόμενη σελίδα σχολίων
 previous_button	Previous page of comments	Page précédente de commentaires	Página anterior de comentarios	Προηγούμενη σελίδα σχολίων
 page_number	Page Number:	Numéro de page:	Número de página:	Αριθμός σελίδας:
+api_title_image	Image contextual verification	Vérification du contexte de la image	Verificación del contexto del imagen	Επαλήθευση με βάση τα συμφραζόμενα της εικόνας
+
