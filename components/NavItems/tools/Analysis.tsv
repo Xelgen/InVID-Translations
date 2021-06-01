@@ -2,7 +2,7 @@
 api_title	Video contextual verification	Vérification du contexte de la vidéo	Verificación del contexto del video	Επαλήθευση βίντεο μέσω ανάλυσης δεικτών εγκυρότητας
 api_input	Copy and paste a Youtube, Facebook or Twitter url	Copier et coller une adresse YouTube, Facebook ou Twitter	Copiar y pegar un enlace de YouTube, Facebook o Twitter	Αντιγραφή και επικόλληση μιας διεύθυνσης από Youtube, Facebook ή Twitter
 api_repro	Reprocess	Retraiter	Volver a procesar	Επανεπεξεργασία
-api_comments	Verification comments	Commentaires de vérification	Comentarios de verificación	Σχόλια επαλήθευσης
+api_comments	Comments	Commentaires	Comentarios	Σχόλια
 button_submit	Submit	Envoyer	Enviar	Υποβολή
 facebook_video_name_1	Video id	Identifiant de la vidéo	Identificación del video	Βίντεο id
 facebook_video_name_2	Video title	Titre de la vidéo	Títular del video	Τίτλος Βίντεο
@@ -73,4 +73,5 @@ page_number	Page Number:	Numéro de page:	Número de página:	Αριθμός σ�
 api_title_image	Image contextual verification	Vérification du contexte de la image	Verificación del contexto del imagen	Επαλήθευση με βάση τα συμφραζόμενα της εικόνας
 link_comments	Comments that contain links	Commentaires contenant des liens	Comentarios que contienen enlaces	Σχόλια που περιέχουν συνδέσμους
 api_title_image	Image contextual verification	Vérification du contexte de la image	Verificación del contexto del imagen	Επαλήθευση με βάση τα συμφραζόμενα της εικόνας
+api_comments_verified	Verified comments	Commentaires vérifiés	Comentarios verificados	Επαληθευμένα σχόλια
 
