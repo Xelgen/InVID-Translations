@@ -1,6 +1,7 @@
 	en	fr	es	el
 navbar_tools	Tools	Outils	Herramientas	Εργαλεία
-navbar_analysis	Analysis	Analyse	Análisis	Ανάλυση
+navbar_analysis_video	Video Analysis	Analyse vidéo	Análisis de video	Ανάλυση βίντεο
+navbar_analysis_image	Image Analysis	L'analyse d'image	Análisis de imagen	Análisis de imagen
 navbar_keyframes	Keyframes	Images clés	Fotogramas clave	Χαρακτηριστικά καρέ
 navbar_thumbnails	Thumbnails	Imagettes	Miniaturas	Μικρογραφίες
 navbar_twitter	Tw. search	Recherche Tw.	Búsqueda Tw.	Tw. Αναζήτηση
