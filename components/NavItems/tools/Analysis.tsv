@@ -2,7 +2,7 @@
 api_title	Video contextual verification	Vérification du contexte de la vidéo	Verificación del contexto del video	Επαλήθευση βίντεο μέσω ανάλυσης δεικτών εγκυρότητας
 api_input	Copy and paste a Youtube, Facebook or Twitter url	Copier et coller une adresse YouTube, Facebook ou Twitter	Copiar y pegar un enlace de YouTube, Facebook o Twitter	Αντιγραφή και επικόλληση μιας διεύθυνσης από Youtube, Facebook ή Twitter
 api_repro	Reprocess	Retraiter	Volver a procesar	Επανεπεξεργασία
-api_comments	Comments	Commentaires	Comentarios	Σχόλια
+api_comments	All comments	Tous les commentaires	Todos los comentarios	Όλα τα σχόλια
 button_submit	Submit	Envoyer	Enviar	Υποβολή
 facebook_video_name_1	Video id	Identifiant de la vidéo	Identificación del video	Βίντεο id
 facebook_video_name_2	Video title	Titre de la vidéo	Títular del video	Τίτλος Βίντεο
