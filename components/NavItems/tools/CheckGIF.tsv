@@ -12,9 +12,9 @@ slider_label_slow	Slow	Lente	Lento	Αργός
 slider_label_fast	Fast	Rapide	Rápido	Γρήγορα
 button_download	Download GIF	Télécharger le GIF	Descargar GIF	Λήψη GIF
 cardTitle_source	Source of the images			
-title_URL	Link mode			
+title_URL	Links mode			
 description_URL	The two images are provided with two URL links			
-title_local	Local files			
+title_local	Local files mode			
 description_local	The two images are provided with two local files			
 title_gifcreation	GIF Creation			
 text_preview	You need to select the two images on the left and click the button to see the preview			
