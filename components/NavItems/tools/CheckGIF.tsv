@@ -11,16 +11,16 @@ slider_title	Speed of the animation	Vitesse de l'animation	Velocidad de la anima
 slider_label_slow	Slow	Lente	Lento	Αργός
 slider_label_fast	Fast	Rapide	Rápido	Γρήγορα
 button_download	Download GIF	Télécharger le GIF	Descargar GIF	Λήψη GIF
-cardTitle_source	Source of the images			
-title_URL	Links mode			
-description_URL	The two images are provided with two URL links			
-title_local	Local files mode			
-description_local	The two images are provided with two local files			
-title_gifcreation	GIF Creation			
-text_preview	You need to select the two images on the left and click the button to see the preview			
-input_label1	Link of the first image			
-input_label2	Link of the second image			
-input_placeholder	Paste here the link			
-title_preview	Preview of the GIF			
-error_homo	No match has been found between the two images.			
-button_new	New GIF			
+cardTitle_source	Source of the images	Source des images	Fuente de las imágenes	Πηγή των εικόνων
+title_URL	Links	Liens	Enlaces	Συνδέσεις
+description_URL	The two images are provided with two URL links	Les deux images sont fournies avec deux liens urls	Se proveen las dos imágenes con dos enlaces	Οι δύο εικόνες που παρέχονται με δύο συνδέσεις URL
+title_local	Local files	Fichiers locaux	Ficheros locales	τοπικά αρχεία
+description_local	The two images are provided with two local files	Les deux images sont fournies avec deux fichiers locaux	Se proveen las dos imágenes con ficheros locales	Οι δύο εικόνες που παρέχονται με δύο τοπικά αρχεία
+title_gifcreation	GIF Creation	Création du GIF	Creación de GIF	GIF Δημιουργία
+text_preview	You need to select the two images on the left and click the button to see the preview	Vous devez sélectionner deux images à gauche et cliquer sur le bouton pour voir l'aperçu	Tiene que seleccionar dos imágenes en la parte izquierda y cliquear sobre el botón para ver la vista previa	Θα πρέπει να επιλέξετε τις δύο εικόνες για το αριστερό και κάντε κλικ στο κουμπί για να δείτε την προεπισκόπηση
+input_label1	Link of the first image	Lien de la première image	Enlace de la primera imagen	Σύνδεση της πρώτης εικόνας
+input_label2	Link of the second image	Lien de la deuxième image	Enlace de la segunda imagen	Σύνδεση της δεύτερης εικόνας
+input_placeholder	Paste here the link	Copier ici le lien	Copiar aquí el enlace	Επικολλήστε εδώ το σύνδεσμο
+title_preview	Preview of the GIF	Aperçu du GIF	Vista previa del GIF	Preview του GIF
+error_homo	No match has been found between the two images.	Aucune similarité n'a été trouvée entre les deux images	No se encontro similaridad alguna entre las dos imágenes	Δεν έχει επιτευχθεί αντιστοιχία μεταξύ των δύο εικόνων.
+button_new	New GIF	Nouveau GIF	Nuevo GIF	νέα GIF
