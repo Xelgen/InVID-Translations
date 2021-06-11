@@ -1,6 +1,7 @@
 	en	fr	es	el
 api_title	Video contextual verification	Vérification du contexte de la vidéo	Verificación del contexto del video	Επαλήθευση βίντεο μέσω ανάλυσης δεικτών εγκυρότητας
-api_input	Copy and paste a Youtube, Facebook or Twitter url	Copier et coller une adresse YouTube, Facebook ou Twitter	Copiar y pegar un enlace de YouTube, Facebook o Twitter	Αντιγραφή και επικόλληση μιας διεύθυνσης από Youtube, Facebook ή Twitter
+api_input	Youtube, Facebook or Twitter link	Adresse YouTube, Facebook ou Twitter	Enlace de YouTube, Facebook o Twitter	Σύνδεσμος Youtube, Facebook ή Twitter
+api_input_placeholder	Paste here the link	Coller ici le lien	Pegar aquí el enlace	Επικολλήστε εδώ το σύνδεσμο
 api_repro	Reprocess	Retraiter	Volver a procesar	Επανεπεξεργασία
 api_comments	All comments	Tous les commentaires	Todos los comentarios	Όλα τα σχόλια
 button_submit	Submit	Envoyer	Enviar	Υποβολή
@@ -18,7 +19,6 @@ facebook_comment_title	Comments	Commentaires sur la vidéo	Comentarios	Σχόλ�
 facebook_comment_name_1	Video comment count	Nbre de commentaires	Comentarios sobre el video	Αριθμός σχολίων βίντεο
 image_comment_count	Image comment count	Nombre de commentaires d'image	Recuento de comentarios de imagen	Αριθμός σχολίων εικόνας
 facebook_comment_name_2	Number verification comments	Nbre de commentaires vérifiés	Número de comentarios verificados	Αριθμός σχολίων επαλήθευσης
-facebook_comment_name_3	Number of comments containing links	Nombre de commentaires contenant des liens	Número de comentarios que contienen enlaces	Αριθμός σχολίων που περιέχουν συνδέσμους
 twitter_user_name_13	Created	Date de création	Fecha de creación	Δημιουργήθηκε
 twitter_user_name_4	Profile	Profil	Perfil	Προφίλ
 button_reverse_google	Google Image reverse search	Recherche inversée Google image	Búsqueda inversa de imagen Google	Αντίστροφη αναζήτηση εικόνας Google
