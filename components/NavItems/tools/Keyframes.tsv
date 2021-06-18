@@ -1,8 +1,8 @@
 	en	fr	es	el
 keyframes_title	Video fragmentation and reverse image search	Fragmentation vidéo et recherche inversée d'image	Fragmentación del video y búsqueda inversa de imagen	Αντίστροφη αναζήτηση βίντεο μέσω χαρακτηριστικών καρε
 button_localfile	Local file	Fichier local	Fichero local	Τοπικό αρχείο
-keyframes_input	Video link	Adresse de la vidéo	Enlace del video	Εισάγετε τη διεύθυνση URL του βίντεο
-keyframes_input_placeholder	Paste the link here			
+keyframes_input	Insert the video URL	Adresse de la vidéo	Enlace del video	Εισάγετε τη διεύθυνση URL του βίντεο	
+keyframes_input_placeholder	Paste the link here	Coller le lien ici	Pegar el enlace aquí	Επικολλήστε τον σύνδεσμο εδώ
 button_submit	Submit	Envoyer	Enviar	Υποβολή
 forensic_card_back	Back	Retour	Volver	Πίσω
 keyframes_error_VIDEO_DOWNLOAD_FAILED	Video cache failed. Try with another video	La mise en cache de la vidéo à échoué. Veuillez essayer avec une autre vidéo	Falló el almacenamiento en caché del video. Inténtalo con otro vídeo	Η προσωρινή αποθήκευση του βίντεο απέτυχε. Δοκιμάστε με ένα άλλο βίντεο
