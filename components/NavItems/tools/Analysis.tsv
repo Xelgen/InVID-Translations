@@ -40,7 +40,7 @@ twitter_video_name_13	Locations mentioned	Lieux mentionnés	Lugares mencionados	
 twitter_video_name_14	Embedded YouTube	Incorporé de YouTube	Integrable desde YouTube	Ενσωματωμένo YouTube βίντεο
 twitter_video_name_15	Created	Date de création	Fecha de creación	Δημιουργήθηκε
 twitter_video_name_16	Video	Vidéo	Video	Βίντεο
-twitter_user_title	User	Utilisateur	Usuario	Χρήστης
+twitter_user_title	Public User	Utilisateur	public	Usuario	público	Δημόσιος χρήστης
 twitter_user_name_2	Screen name	Pseudonyme	Nombre de usuario	Ονομα οθόνης
 twitter_user_name_3	Location	Localisation	Lugar	Τοποθεσία
 twitter_user_name_4	Profile	Profil	Perfil	Προφίλ
@@ -78,4 +78,9 @@ link_comments	Comments that contain links	Commentaires contenant des liens	Comen
 api_comments_verified	Verified comments	Commentaires vérifiés	Comentarios verificados	Επαληθευμένα σχόλια
 intro_tip	Tip	Conseils	Consejo	συμβουλή
 platform	Platform	Plate-forme	Plataforma	Πλατφόρμα
-source	Source	La source	Fuente	Πηγή
+source	Source	Source	Fuente	Πηγή
+image_link	Image link	Lien de l'image	Enlace de imágen	Σύνδεσμος εικόνας
+twitter_search	Search on Twitter	Rechercher sur Twitter	Buscar en Twitter	Αναζήτηση στο Twitter
+comments_links	Number of comments that contain links	Nombre de commentaires contenant des liens	Número de comentarios que contienen enlaces	Αριθμός σχολίων που περιέχουν συνδέσμους
+facebook_tip	If the input link does not work, enter the video and copy the link manually instead of using the facebook's option: 'copy link'	Si le lien d'entrée ne fonctionne pas, entrez la vidéo et copiez le lien manuellement au lieu d'utiliser l'option de facebook : 'copier le lien'	Si el enlace de entrada no funciona, ingrese el video y copie el enlace manualmente en lugar de usar la opción de Facebook: 'copiar enlace'	Εάν ο σύνδεσμος εισαγωγής δεν λειτουργεί, εισαγάγετε το βίντεο και αντιγράψτε τον σύνδεσμο χειροκίνητα αντί να χρησιμοποιήσετε την επιλογή του facebook: «copy link»
+api_input_image	Facebook or Twitter link	Adresse Facebook ou Twitter	Enlace de Facebook o Twitter	Σύνδεσμος Facebook ή Twitter
