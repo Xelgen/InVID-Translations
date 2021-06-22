@@ -72,7 +72,7 @@ convert_to_local_time	Convert to local time	Convertir à l'heure locale	Pasar a 
 table_error_unavailable	This url is not valid	Cette URL n'est pas valide	Esta url no es válida	Αυτή η διεύθυνση URL δεν είναι έγκυρη
 next_button	Next page of comments	Page suivante de commentaires	Siguiente página de comentarios	Επόμενη σελίδα σχολίων
 previous_button	Previous page of comments	Page précédente de commentaires	Página anterior de comentarios	Προηγούμενη σελίδα σχολίων
-page_number	Out of	de	sobre	Εκτός
+page_number	out of	de	sobre	Εκτός
 api_title_image	Image contextual verification	Vérification du contexte de la image	Verificación del contexto del imagen	Επαλήθευση με βάση τα συμφραζόμενα της εικόνας
 link_comments	Comments that contain links	Commentaires contenant des liens	Comentarios que contienen enlaces	Σχόλια που περιέχουν συνδέσμους
 api_comments_verified	Verified comments	Commentaires vérifiés	Comentarios verificados	Επαληθευμένα σχόλια
