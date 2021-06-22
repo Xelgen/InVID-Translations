@@ -15,10 +15,10 @@ facebook_video_name_6	Video description	Description de la vidéo	Descripción de
 facebook_video_name_7	Like count	Nombre de ''j'aime''	Número de ''me gusta''	Αριθμός likes
 facebook_video_name_8	Updated time	Date de mise en ligne	Fecha de puesta en línea	Ώρα ενημέρωσης
 facebook_video_name_9	Created time	Date de création	Fecha de creación	Ώρα δημιουγίας
-facebook_comment_title	Comments	Commentaires sur la vidéo	Comentarios	Σχόλια
-facebook_comment_name_1	Video comment count	Nbre de commentaires	Comentarios sobre el video	Αριθμός σχολίων βίντεο
+facebook_comment_title	Comments	Commentaires	Comentarios	Σχόλια
+facebook_comment_name_1	Video comment count	Nombre de commentaires	Comentarios sobre el video	Αριθμός σχολίων βίντεο
 image_comment_count	Image comment count	Nombre de commentaires d'image	Recuento de comentarios de imagen	Αριθμός σχολίων εικόνας
-facebook_comment_name_2	Number verification comments	Nbre de commentaires vérifiés	Número de comentarios verificados	Αριθμός σχολίων επαλήθευσης
+facebook_comment_name_2	Number verification comments	Nombre de commentaires vérifiés	Número de comentarios verificados	Αριθμός σχολίων επαλήθευσης
 twitter_user_name_13	Created	Date de création	Fecha de creación	Δημιουργήθηκε
 twitter_user_name_4	Profile	Profil	Perfil	Προφίλ
 button_reverse_google	Google Image reverse search	Recherche inversée Google image	Búsqueda inversa de imagen Google	Αντίστροφη αναζήτηση εικόνας Google
@@ -72,7 +72,7 @@ convert_to_local_time	Convert to local time	Convertir à l'heure locale	Pasar a 
 table_error_unavailable	This url is not valid	Cette URL n'est pas valide	Esta url no es válida	Αυτή η διεύθυνση URL δεν είναι έγκυρη
 next_button	Next page of comments	Page suivante de commentaires	Siguiente página de comentarios	Επόμενη σελίδα σχολίων
 previous_button	Previous page of comments	Page précédente de commentaires	Página anterior de comentarios	Προηγούμενη σελίδα σχολίων
-page_number	Out of	Hors de	Fuera de	Εκτός
+page_number	Out of	de	sobre	Εκτός
 api_title_image	Image contextual verification	Vérification du contexte de la image	Verificación del contexto del imagen	Επαλήθευση με βάση τα συμφραζόμενα της εικόνας
 link_comments	Comments that contain links	Commentaires contenant des liens	Comentarios que contienen enlaces	Σχόλια που περιέχουν συνδέσμους
 api_comments_verified	Verified comments	Commentaires vérifiés	Comentarios verificados	Επαληθευμένα σχόλια
