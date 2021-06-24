@@ -20,3 +20,4 @@ text_unlocked	The advanced tools are unlocked
 text_locked	The advanced tools are locked			
 button_unlock2	UNLOCK			
 button_exit	EXIT			
+alert_text	This tool is restricted, you need to unlock the advanced tools to use it			
