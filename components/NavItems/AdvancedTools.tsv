@@ -16,3 +16,7 @@ title_registration	Registration
 text_description_resgitration	Provide the requiered information to ask for the registration.			
 title_approval	Wait for the approval.			
 text_review	We will review your information and we will approve your registration if you fulfill the requirements. You will recive an email when the registration is approved.			
+text_unlocked	The advanced tools are unlocked			
+text_locked	The advanced tools are locked			
+button_unlock2	UNLOCK			
+button_exit	EXIT			
