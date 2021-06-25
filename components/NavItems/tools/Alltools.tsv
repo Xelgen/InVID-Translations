@@ -14,7 +14,7 @@ navbar_ocr	OCR	OCR	OCR	OCR
 navbar_covidsearch	Covid-19	Covid-19	Covid-19	Covid-19
 navbar_xnetwork	XNetwork	XNetwork	XNetwork	XNetwork
 navbar_gif	CheckGif	CheckGif	CheckGif	CheckGif
-navbar_twitter_sna_description	Social network analysis on Twitter (available on registration)	Analyse de réseau sociaux sur Twitter (sur enregistrement) 	Análisis de redes sociales en Twitter (disponible con registro)	Η ανάλυση των κοινωνικών δικτύων στο Twitter (διαθέσιμο κατά την εγγραφή)
+navbar_twitter_sna_description	Social network analysis on Twitter (available on registration)	"Analyse de réseau sociaux sur Twitter (sur enregistrement) "	Análisis de redes sociales en Twitter (disponible con registro)	Η ανάλυση των κοινωνικών δικτύων στο Twitter (διαθέσιμο κατά την εγγραφή)
 navbar_analysis_description	Video analysis brings you the contextual information of a Youtube, Facebook or Twitter video	Analyse Vidéo vous apporte les informations contextuelles d'une vidéo de Youtube, Facebook ou Twitter	Análisis le ofrece la información del contexto de un vídeo de Youtube, Facebook o Twitter	Ανάλυση σας φέρνει την συναφείς πληροφορίες από το YouTube, το Facebook ή το Twitter βίντεο
 navbar_analysis_image_description	Image analysis brings you the contextual information of an image on Facebook or Twitter	Analyse d'image vous apportte les informations contextuelles de photos postées sur Facebook ou Twitter	El análisis de imagen le ofrece la información del contexto de una imagen en Facebook o Twitter	Η ανάλυση εικόνας σας φέρνει την συναφείς πληροφορίες μιας εικόνας
 navbar_keyframes_description	Keyframes fragments a YouTube, Facebook or Twitter video or a mp4 file into frames to help you perform reverse image search	Pour fragmenter une vidéo de YouTube, Facebook ou Twitter ou encore un fichier mp4 en images clés pour vous aider à effectuer une recherche d'image inversée	Para fragmentar un vídeo de YouTube, Facebook o Twitter o un archivo MP4 en fotogramas para ayudarle a realizar la búsqueda de imágenes inversa	Keyframes θραύσματα Α YouTube, το Facebook ή το Twitter βίντεο ή ένα αρχείο mp4 σε πλαίσια για να σας βοηθήσει να εκτελέσετε αντίστροφη αναζήτηση εικόνων
@@ -37,3 +37,7 @@ metadata_help_video	https://www.youtube.com/embed/Mg6Z-Jc54yo?rel=0	https://www.
 copyright_help_video	https://www.youtube.com/embed/NjTXsbF5Wu8?rel=0	https://www.youtube.com/embed/dDQWlR8u-mk?rel=0	https://www.youtube.com/embed/36hvLnIugjI?rel=0	https://www.youtube.com/embed/NjTXsbF5Wu8?rel=0
 forensic_help_video	https://www.youtube.com/embed/de862rAPne4?rel=0	https://www.youtube.com/embed/jiqcixMzmpo?rel=0	https://www.youtube.com/embed/B2D0kPOAWxM?rel=0	https://www.youtube.com/embed/de862rAPne4?rel=0
 close	Close	Fermer	Cerrar	Κλείσιμο
+category_video	Video	Vidéo	Video	βίντεο
+category_image	Image	Image	Imagen	Εικόνα
+category_search	Search	Recherche	Busqueda	Αναζήτηση
+category_data	Data analysis	L'analyse des données	Análisis de los datos	Ανάλυση δεδομένων
