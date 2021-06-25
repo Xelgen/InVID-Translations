@@ -85,3 +85,6 @@ comments_links	Number of comments that contain links	Nombre de commentaires cont
 facebook_tip	For Facebook only: If the input link does not work, enter the video and copy the link manually instead of using the facebook's option: 'copy link'	Pour Facebook uniquement: Si le lien d'entrée ne fonctionne pas, entrez la vidéo et copiez le lien manuellement au lieu d'utiliser l'option de facebook: 'copier le lien'	Solo para Facebook: Si el enlace de entrada no funciona, ingrese el video y copie el enlace manualmente en lugar de usar la opción de Facebook: 'copiar enlace'	Μόνο για Facebook: Εάν ο σύνδεσμος εισαγωγής δεν λειτουργεί, εισαγάγετε το βίντεο και αντιγράψτε τον σύνδεσμο χειροκίνητα αντί να χρησιμοποιήσετε την επιλογή του facebook: «copy link»
 api_input_image	Facebook or Twitter link	Adresse Facebook ou Twitter	Enlace de Facebook o Twitter	Σύνδεσμος Facebook ή Twitter
 image_description	Image description	Description de l'image	Descripción de la imagen	περιγραφή εικόνας
+twitter_reply	All replies	Toutes les réponses	Todas las respuestas	Όλες οι απαντήσεις
+twitter_reply_verified	Verified replies	Réponses vérifiées	Respuestas verificadas	Επαληθευμένες απαντήσεις
+twitter_reply_link	Replies that contain links	Réponses contenant des liens	Respuestas que contienen enlaces	Απαντήσεις που περιέχουν συνδέσμους
