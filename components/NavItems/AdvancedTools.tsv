@@ -21,3 +21,5 @@ text_locked	The advanced tools are locked
 button_unlock2	UNLOCK			
 button_exit	EXIT			
 alert_text	This tool is restricted, you need to unlock the advanced tools to use it			
+placeholder_email	Introduce your email here			
+placeholder_code	Introudce the code here			
