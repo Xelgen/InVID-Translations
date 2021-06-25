@@ -194,7 +194,6 @@ audio_desc_15	Number; giving the number of track samples (ie. frames)	Nombre; do
 audio_desc_16				
 audio_desc_17	Number; providing the bitrate of the track in bits per second	Nombre; taux de bits par second de la piste	Número; tasa de bits por segundo de la pista	Αριθμός; παρέχοντας το ρυθμό bit του κομματιού σε bits ανά δευτερόλεπτο
 metadata_content_title	Metadata	Métadonnées	Metadatos	Μεταδεδομένα
-metadata_content_input	Image URL in jpg/jpeg or video URL in mp4/m4v format	Adresse de l'image au format jpg/jpeg ou video au format mp4/m4v	Enlace del imagen en formato jpg/jpeg o video en formato mp4/m4v	URL εικόνας σε μορφή jpg / jpeg ή URL βίντεο σε μορφή mp4 / m4v
 metadata_title	Video Metadata	Métadonnées de la video	Metadatos del video	Μεταδεδομένα βίντεο
 track_title	Video Track	Piste vidéo	Pista de video	Κομμάτι βίντεο
 audio_title	Audio track	Piste audio	Pista audio	"Kομμάτι ήχου "
