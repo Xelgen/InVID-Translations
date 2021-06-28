@@ -74,3 +74,10 @@ forensic_title_what	What is this?	Qu'est-ce que c'est?	¿Qué es ésto?	Τι ε�
 forensic_title_filters	Filters	Filtres	Filtros	φίλτρα
 forensic_title_lenses	Enhancers	Amplificateurs	Amplificadores	Φακοί
 forensic_input_placeholder	Paste here the link			
+forensic_button_download	Download			
+forensic_text_speed	Speed of the animation			
+forensic_title_export	Export the result as a GIF			
+forensic_text_fast	Fast			
+forensic_text_slow	Slow			
+forensic_text_detection	Detection			
+forensic_text_nodetection	No detection			
