@@ -24,3 +24,4 @@ input_placeholder	Paste here the link	Copier ici le lien	Copiar aquí el enlace	
 title_preview	Preview of the GIF	Aperçu du GIF	Vista previa del GIF	Preview του GIF
 error_homo	No match has been found between the two images.	Aucune similarité n'a été trouvée entre les deux images	No se encontro similaridad alguna entre las dos imágenes	Δεν έχει επιτευχθεί αντιστοιχία μεταξύ των δύο εικόνων.
 button_new	New GIF	Nouveau GIF	Nuevo GIF	νέα GIF
+error_server	There was an error in the server, please try again later			
