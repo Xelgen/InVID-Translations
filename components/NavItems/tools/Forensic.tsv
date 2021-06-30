@@ -81,4 +81,4 @@ forensic_text_fast	Fast
 forensic_text_slow	Slow			
 forensic_text_detection	Detection			
 forensic_text_nodetection	No detection			
-forensic_tosast_clipboard	"The link of the image "			
+forensic_tosast_clipboard	The URL of the images has been copied to the clipboard			
