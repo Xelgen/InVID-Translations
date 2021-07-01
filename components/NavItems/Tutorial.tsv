@@ -23,3 +23,13 @@ copyright_title	Check Video Copyright Status	Vérifier le copyright de la vidéo
 forensic_title	Image forensic analysis	Analyse forensic d'image	Análisis forensic de imagen	Ανάλυση Αυθεντικότητας Εικόνων (image forensics)
 contextual_menu_title	Contextual menu	Menu contextuel	Menú contextual	Αναδυόμενο μενού
 twitter_sna_title	Twitter Social network analysis	Analyse des réseaux sociaux sur Twitter	Twitter Análisis de redes sociales	Ανάλυση κοινωνικού δικτύου στο Twitter
+analysis_image_title	Image contextual verification	Vérification du contexte de l'image	Verificación del contexto del imagen	Επαλήθευση με βάση τα συμφραζόμενα της εικόνας
+tuto_analysis_img
+ocr_title	OCR	OCR	OCR OCR
+tuto_ocr
+checkgif_title	CheckGif	CheckGif	CheckGif	CheckGif
+tuto_checkgif
+factcheck_title	Factcheck	Factcheck	Factcheck	FactCheck
+tuto_factcheck
+xnetwork_title	Xnetwork	Xnetwork	Xnetwork	Xnetwork
+tuto_xnetwork
