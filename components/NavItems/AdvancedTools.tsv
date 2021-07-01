@@ -1,12 +1,12 @@
 	en	fr	es	el
-title	Advanced tools			
-text_general	There are some advanced tools that are restricted for general users. You need to register to use this tools.			
-text_account	Do you already have an account?			
-button_code	GET CODE			
-text_notaccount	You don't have an account?			
-button_register	REGISTER			
+title	Advanced tools	Outils Avancés	Herramientas Avanzadas	Προηγμένα εργαλεία
+text_general	Access to advanced tools is reserved for journalists, fact-checkers and researchers. You need to apply and register to use them.	L'accès aux outils avancés est réservé aux journalistes, fact-checkers et chercheurs. Vous devez postuler et vous inscrire pour les utiliser.	El acceso a herramientas avanzadas está reservado a periodistas, verificadores de datos e investigadores. Necesita solicitar y registrarse para usarlos.	Η πρόσβαση σε προηγμένα εργαλεία προορίζεται για δημοσιογράφους, ελεγκτές γεγονότων και ερευνητές. Πρέπει να κάνετε αίτηση και να εγγραφείτε για να τα χρησιμοποιήσετε.
+text_account	Already registered? Get an access code:	Déjà inscrit ? Demandez un code d'accès :	¿Ya registrado? Obtener un código de acceso:	Έχετε ήδη εγγραφεί; Πάρτε έναν κωδικό πρόσβασης:
+button_code	Get an Access Code	Obtenir un code d'accès	Obtener un código de acceso (token)	Πάρτε έναν κωδικό πρόσβασης
+text_notaccount	Not already registered? Register for an access to the service:	Pas encore de compte ? Demandez un accès au service:	No se ha registrado? Registrese para acceder al servicio:	Δεν έχετε εγγραφεί; Εγγραφείτε για πρόσβαση στην υπηρεσία:			
+button_register	Register	S'enregistrer	Registrarse	Εγγραφή			
 title_email	Check your email			
-text_code_email	We have sent you a code to your email, insert it to unlock the advanced tools.			
+text_code_email	Your access code request has been sent successfully. If your account is valid, you should receive your access code by email in a few minutes.	Nous avons bien reçu votre demande de code d'accès. Si votre compte est actif, vous recevrez votre code par email dans quelques minutes.	Su petición de código de acceso ha sido enviada con éxito. Si su cuenta es válida, debe recibir el código de acceso por correo electrónico en unos pocos minutos.	Το αίτημα σας για κωδικό πρόσβασης έχει σταλεί με επιτυχία. Εάν ο λογαριασμός σας είναι έγκυρος, θα πρέπει να λάβετε τον κωδικό πρόσβασης σας μέσω e-mail μέσα σε λίγα λεπτά.
 text_problem	If you have not recieved the code check the spam folder or go back and review that you introduced the email correctly.			
 button_unlock	UNLOCK TOOLS			
 title_tools_unlocked	Tools unlocked			
@@ -18,8 +18,8 @@ title_approval	Wait for the approval.
 text_review	We will review your information and we will approve your registration if you fulfill the requirements. You will recive an email when the registration is approved.			
 text_unlocked	The advanced tools are unlocked			
 text_locked	The advanced tools are locked			
-button_unlock2	UNLOCK			
-button_exit	EXIT			
+button_unlock2	Login	S'identifier	Iniciar sesión	Σύνδεση
+button_exit	Logout	Deconnexion	Cerrar sesión	Αποσύνδεση			
 alert_text	This tool is restricted, you need to unlock the advanced tools to use it			
-placeholder_email	Introduce your email here			
-placeholder_code	Introudce the code here			
+placeholder_email	Enter your email address	Saisissez votre adresse mail	Introduzca su dirección de correo electrónico	Πληκτρολογήστε τη διευθύνση του ηλεκτρονικού ταχυδρομείου σας
+placeholder_code	Enter your access code	Saisissez votre code d'accès	Introduzca su código de acceso	Πληκτρολογήστε τον κωδικό πρόσβασης σας		
