@@ -73,7 +73,7 @@ table_error_unavailable	This url is not valid	Cette URL n'est pas valide	Esta ur
 page_number	out of	de	sobre	Εκτός
 api_title_image	Image contextual verification	Vérification du contexte de la image	Verificación del contexto del imagen	Επαλήθευση με βάση τα συμφραζόμενα της εικόνας
 link_comments	Comments that contain links	Commentaires contenant des liens	Comentarios que contienen enlaces	Σχόλια που περιέχουν συνδέσμους
-api_comments_verified	Verified comments	Commentaires vérifiés	Comentarios verificados	Επαληθευμένα σχόλια
+api_comments_verified	Verification comments	Commentaires de vérification	Comentarios de verificación	Σχόλια επαλήθευσης
 intro_tip	Tip	Conseils	Consejo	συμβουλή
 platform	Platform	Plate-forme	Plataforma	Πλατφόρμα
 source	Source	Source	Fuente	Πηγή
