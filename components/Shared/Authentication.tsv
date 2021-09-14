@@ -28,7 +28,7 @@ REGISTRATIONFORM_ORGANIZATION_ERR_REQUIRED	Organization is required	Veuillez sai
 REGISTRATIONFORM_ORGANIZATIONROLE_LABEL	Role	Role	Papel	Ρόλος	
 REGISTRATIONFORM_ORGANIZATIONROLE_REPORTER_LABEL	Reporter	Journaliste	Reportero	Δημοσιογράφος	
 REGISTRATIONFORM_ORGANIZATIONROLE_FAKENEWSCHECKER_LABEL	Fact-checker	Fact-checker	Fact-checker	Ελεγκτής ψευδών ειδήσεων	
-REGISTRATIONFORM_ORGANIZATIONROLE_OTHER_LABEL	Researcher	Chercheur	Investigador	Άλλο	
+REGISTRATIONFORM_ORGANIZATIONROLE_OTHER_LABEL	Other	Autre	Otro	Άλλο	
 REGISTRATIONFORM_ORGANIZATIONROLE_PLACEHOLDER	Select your role within organization	Sélectionnez votre role au sein de l'organisation	Seleccione su papel dentro de la organización	Επιλέξτε το ρόλο σας στον οργανισμό	
 REGISTRATIONFORM_ORGANIZATIONROLE_ERR_REQUIRED	Role within organization is required	Veuillez sélectionner votre role au sein de l'organisation	Precise su papel dentro de la organización	Ο ρόλος εντός του οργανισμού είναι απαραίτητος	
 REGISTRATIONFORM_ORGANIZATIONROLEOTHER_LABEL	Role (Other)	Role (Autre)	Papel (Otro)	Ρόλος (Άλλο)	
@@ -57,3 +57,4 @@ LOGUSER_TEMPLATE	Welcome <%= user.firstName %> <%= user.lastName %> (<%= user.em
 LOGUSER_LOGOUT_LABEL	Logout	Deconnexion	Cerrar sesión	Αποσύνδεση	
 AUTHENTICATION_FORM_CLOSE	Close	Quitter	Cerrar	Κλείσε	
 REGISTRATIONFORM_TITLE_WINDOW	Registration	Inscription	Registro	Εγγραφή	
+REGISTRATIONFORM_ORGANIZATIONROLE_RESEARCHER_LABEL	Researcher	Chercheur	Investigador	Άλλο	
