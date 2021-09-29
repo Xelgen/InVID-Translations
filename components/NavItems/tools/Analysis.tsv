@@ -1,10 +1,12 @@
 	en	fr	es	el
 api_title	Video contextual verification	Vérification du contexte de la vidéo	Verificación del contexto del video	Επαλήθευση βίντεο μέσω ανάλυσης δεικτών εγκυρότητας
-api_input	Copy and paste a Youtube, Facebook or Twitter url	Copier et coller une adresse YouTube, Facebook ou Twitter	Copiar y pegar un enlace de YouTube, Facebook o Twitter	Αντιγραφή και επικόλληση μιας διεύθυνσης από Youtube, Facebook ή Twitter
+api_input	Youtube, Facebook or Twitter link	Adresse YouTube, Facebook ou Twitter	Enlace de YouTube, Facebook o Twitter	Σύνδεσμος Youtube, Facebook ή Twitter
+api_input_placeholder	Paste here the link	Coller ici le lien	Pegar aquí el enlace	Επικολλήστε εδώ το σύνδεσμο
 api_repro	Reprocess	Retraiter	Volver a procesar	Επανεπεξεργασία
-api_comments	Verification comments	Commentaires de vérification	Comentarios de verificación	Σχόλια επαλήθευσης
+api_comments	All comments	Tous les commentaires	Todos los comentarios	Όλα τα σχόλια
 button_submit	Submit	Envoyer	Enviar	Υποβολή
 facebook_video_name_1	Video id	Identifiant de la vidéo	Identificación del video	Βίντεο id
+image_id	Image id	Identifiant de l'image	Identificación de imagen	Αναγνωριστικό εικόνας
 facebook_video_name_2	Video title	Titre de la vidéo	Títular del video	Τίτλος Βίντεο
 facebook_video_name_3	Duration	Durée	Duración	Διάρκεια
 facebook_video_name_4	Content category	Catégorie du contenu	Categoría del contenido	Κατηγορία περιεχομένου
@@ -13,9 +15,10 @@ facebook_video_name_6	Video description	Description de la vidéo	Descripción de
 facebook_video_name_7	Like count	Nombre de ''j'aime''	Número de ''me gusta''	Αριθμός likes
 facebook_video_name_8	Updated time	Date de mise en ligne	Fecha de puesta en línea	Ώρα ενημέρωσης
 facebook_video_name_9	Created time	Date de création	Fecha de creación	Ώρα δημιουγίας
-facebook_comment_title	Comments	Commentaires sur la vidéo	Comentarios	Σχόλια
-facebook_comment_name_1	Video comment count	Nbre de commentaires	Comentarios sobre el video	Αριθμός σχολίων βίντεο
-facebook_comment_name_2	Number verification comments	Nbre de commentaires vérifiés	Número de comentarios verificados	Αριθμός σχολίων επαλήθευσης
+facebook_comment_title	Comments	Commentaires	Comentarios	Σχόλια
+facebook_comment_name_1	Video comment count	Nombre de commentaires	Comentarios sobre el video	Αριθμός σχολίων βίντεο
+image_comment_count	Image comment count	Nombre de commentaires d'image	Recuento de comentarios de imagen	Αριθμός σχολίων εικόνας
+facebook_comment_name_2	Number verification comments	Nombre de commentaires vérifiés	Número de comentarios verificados	Αριθμός σχολίων επαλήθευσης
 twitter_user_name_13	Created	Date de création	Fecha de creación	Δημιουργήθηκε
 twitter_user_name_4	Profile	Profil	Perfil	Προφίλ
 button_reverse_google	Google Image reverse search	Recherche inversée Google image	Búsqueda inversa de imagen Google	Αντίστροφη αναζήτηση εικόνας Google
@@ -37,7 +40,7 @@ twitter_video_name_13	Locations mentioned	Lieux mentionnés	Lugares mencionados	
 twitter_video_name_14	Embedded YouTube	Incorporé de YouTube	Integrable desde YouTube	Ενσωματωμένo YouTube βίντεο
 twitter_video_name_15	Created	Date de création	Fecha de creación	Δημιουργήθηκε
 twitter_video_name_16	Video	Vidéo	Video	Βίντεο
-twitter_user_title	User	Utilisateur	Usuario	Χρήστης
+twitter_user_title	Public User	Utilisateur public	Usuario público	Δημόσιος χρήστης
 twitter_user_name_2	Screen name	Pseudonyme	Nombre de usuario	Ονομα οθόνης
 twitter_user_name_3	Location	Localisation	Lugar	Τοποθεσία
 twitter_user_name_4	Profile	Profil	Perfil	Προφίλ
@@ -62,8 +65,31 @@ youtube_video_name2_6	Upload time	Date de mise en ligne	Fecha de puesta en líne
 youtube_channel_name_2	Channel created time	Date de la création de la chaîne	Fecha de la creación de la cadena	Ώρα δημιουργίας καναλιού
 youtube_channel_name_3	Channel view count	Nombre de vues de la chaine	Número de vistas de la cadena	Αριθμός προβολών καναλιού
 youtube_channel_name_4	Channel page	Page de la chaîne	Página de la cadena	Σελίδα καναλιού
-youtube_channel_name_5	Comments number	Nbre de commentaires	Número de comentarios	Αριθμός σχολίων
+youtube_channel_name_5	Number of subscribers	Nombre d'abonnés	Numero de suscriptores	Αριθμός συνδρομητών
 youtube_channel_title	Channel:	Chaîne:	Cadena:	Κανάλι:
 youtube_comment_name_1	Video comment count	Nombre de commentaires	Número de comentarios	Αριθμός σχολίων βίντεο
 convert_to_local_time	Convert to local time	Convertir à l'heure locale	Pasar a la hora local	Μετατροπή σε τοπική ώρα
 table_error_unavailable	This url is not valid	Cette URL n'est pas valide	Esta url no es válida	Αυτή η διεύθυνση URL δεν είναι έγκυρη
+page_number	out of	de	sobre	Εκτός
+api_title_image	Image contextual verification	Vérification du contexte de la image	Verificación del contexto del imagen	Επαλήθευση με βάση τα συμφραζόμενα της εικόνας
+link_comments	Comments that contain links	Commentaires contenant des liens	Comentarios que contienen enlaces	Σχόλια που περιέχουν συνδέσμους
+api_comments_verified	Verification comments	Commentaires de vérification	Comentarios de verificación	Σχόλια επαλήθευσης
+intro_tip	Tip	Conseils	Consejo	συμβουλή
+platform	Platform	Plate-forme	Plataforma	Πλατφόρμα
+source	Source	Source	Fuente	Πηγή
+image_link	Image link	Lien de l'image	Enlace de imágen	Σύνδεσμος εικόνας
+twitter_search	Search on Twitter	Rechercher sur Twitter	Buscar en Twitter	Αναζήτηση στο Twitter
+comments_links	Number of comments that contain links	Nombre de commentaires contenant des liens	Número de comentarios que contienen enlaces	Αριθμός σχολίων που περιέχουν συνδέσμους
+facebook_tip	This kind of Facebook link or shortener is not working properly. Try to click on the video and to get the url address instead. 	Ce genre de lien ou raccourci de Facebook ne fonctionne pas correctement. Cliquez sur la vidéo et récupérer le lien de la barre d'adresse URL.	Este tipo de enlace o de acortador de Facebook no funciona correctamente. Intenté cliquear sobre el video y de recuperar el enlace en la barra de URL. 	ΜΑυτό το είδος του συνδέσμου Facebook ή του shortener δεν λειτουργεί σωστά. Προσπαθήστε να κάνετε κλικ στο βίντεο και να λάβετε τη διεύθυνση url.
+api_input_image	Facebook or Twitter link	Adresse Facebook ou Twitter	Enlace de Facebook o Twitter	Σύνδεσμος Facebook ή Twitter
+image_description	Image description	Description de l'image	Descripción de la imagen	περιγραφή εικόνας
+twitter_reply	All replies	Toutes les réponses	Todas las respuestas	Όλες οι απαντήσεις
+twitter_reply_verified	Verification replies	Réponses de vérification	Respuestas de verificación	Απαντήσεις επαλήθευσης
+twitter_reply_link	Replies that contain links	Réponses contenant des liens	Respuestas que contienen enlaces	Απαντήσεις που περιέχουν συνδέσμους
+twitter_replies	Replies	Réponses	Respuestas	Απαντήσεις
+twitter_video_replies	Video replies	Réponses vidéo	Respuestas en video	Απαντήσεις βίντεο
+video_card_header	Source of the video	Source de la vidéo	Fuente del video	Πηγή του βίντεο
+image_card_header	Source of the image	Origine de l'image	Fuente de la imagen	Πηγή της εικόνας
+user	User	Utilisateur	Usuario	Χρήστης
+profile_creator	Profile	Profil	Perfil	Προφίλ
+cardheader_results	Results	Résultats	Resultados	Αποτελέσματα
