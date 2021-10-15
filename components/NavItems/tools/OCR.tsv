@@ -13,8 +13,7 @@ ocr_search_yandex	Yandex	Yandex	Yandex	Γιάντεξ
 ocr_search_bing	Bing	Bing	Bing	Bing
 cardheader_source	Source of the image	Source de l'image	Fuente de la imagen	Πηγή της εικόνας
 cardheader_results	Results	Résultats	Resultados 	Αποτελέσματα
-ocr_script_label	Script*	Temp	Temp	Temp
-ocr_script_use	* This field can be left as auto detect, or used to specify which script the OCR model should look for should it fail to detect it automatically	Temp	Temp	Temp
+ocr_script_label	Specify script	Temp	Temp	Temp
 image_analysed	Image Analysed	Temp	Temp	Temp
 extracted_text	Extracted Text	Temp	Temp	Temp
 complete_text	Complete Text	Temp	Temp	Temp
@@ -22,3 +21,5 @@ copy_to_clipboard	Copy to Clipboard	Temp	Temp	Temp
 translate	Translate	Temp	Temp	Temp
 blocks	Blocks	Temp	Temp	Temp
 tooltip_copy	Copied!	Temp	Temp	Temp
+reprocess_text	If you think the predicted language is wrong, you can reprocess this block by selecting the script you think this text is in from the box below.	Temp	Temp	Temp
+reprocess_button	Reprocess Block	Temp	Temp	Temp
