@@ -93,6 +93,7 @@ disable_cache	Disable cache	Désactiver le cache	Desactivar el caché	απενε
 twittersna_invalid_credentials	Invalid authentication information	Les informations d'authentification ne sont pas valables	La información de autenticación no es válida	Μη έγκυρη πληροφόρηση αυθεντικοποίησης
 twittersna_start	Loading	Chargement	Cargando	Φόρτωση
 cardheader_parameters	Parameters	Paramètres	Parámetros	Παράμετροι
+
 explanation_keyword	Element to search, it can be a keyword, a URL or a Hastag			
 explanation_dates	Dates between the tweets were analyzed for the search term indicated			
 explanation_timezone	Specify the time zone of the dates introduced before			
@@ -112,3 +113,6 @@ twittersna_title_advanced	Advanced tools
 twitter_sna_searchelement	Search element			
 twitter_sna_selectdate	Select a date			
 twitter_sna_placholder_tweetedby	Twitter account name			
+
+tweet_similarity_title	Tweet Similarity	testing	testing	testing
+
