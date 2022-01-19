@@ -46,6 +46,6 @@ navbar_conversation_description	It provides a straightforward way of exploring a
 navbar_twitter_crowdtangle	CSV Analysis			
 navbar_twitter_crowdtangle_description	It performs social network analysis from Crowdtangle export			
 navbar_deepfake	Deepfake detection			
-navbar_deepfake_decription	It uses a detection algorithm to return the probabilty that a media contains deepfake manipulated media			
+navbar_deepfake_description	It uses a detection algorithm to return the probabilty that a media contains deepfake manipulated media			
 navbar_geolocation	Image geolocalizer			
 navbar_geolocation_description	Is uses an algorithm to try to geolocalize an image			
