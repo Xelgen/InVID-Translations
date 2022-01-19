@@ -115,4 +115,9 @@ twitter_sna_selectdate	Select a date
 twitter_sna_placholder_tweetedby	Twitter account name			
 
 tweet_similarity_title	Tweet Similarity	testing	testing	testing
-
+twittersna_title_time	Time			
+twittersna_title_elements	Search elements			
+explanation_allelements	All the elements in this field must appear in the search results			
+explanation_anyelements	At least one of the elements of this field must appear in the search results			
+twittersna_field_all	All the elements			
+twittersna_field_any	Any of the elements			
