@@ -100,3 +100,4 @@ url_domain_analysis	URL Domain Analysis	Analyse de domaine URL	Análisis de domi
 fact_checker	Fact checker	Fact checker	Chequeador 	Ελέγχου
 warning	Warning	Avertissement	Advertencia	Προειδοποίηση
 mentions	Mentions	Mention	Menciones	Αναφέρει
+assistant_error_instagram	The assistant has failed to retrieve this instagram post. Please open this URL in a new tab (you may need to log in to instagram), then use the ASSISTANT FOR CURRENT PAGE button to retry.	Temp	Temp	Temp
