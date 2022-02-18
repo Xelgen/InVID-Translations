@@ -18,8 +18,8 @@ keyframes_wait_VIDEO_WAITING_IN_QUEUE	Video in queue for analysis. The analysis 
 keyframes_wait_VIDEO_DOWNLOAD_STARTED	The video is being cached before its analysis	La vidéo est mise en cache pour analyse.	El video se almacena en caché antes del análisis.	το βίντεο αποθηκεύεται στην κρυφή μνήμη πριν από την ανάλυση.
 keyframes_wait_STARTED	Video analysis running. Step	Analyse de la vidéo en cours. Etape	Análisis de vídeo en marcha. Paso	Εκτελείται η ανάλυση του βίντεο. Βήμα
 keyframes_content_title	Video keyframes	Images clés de la vidéo	Imágenes claves del video	Χαρακτηριστικά καρε
-keyframe_title_get_detail	+ Show detailed view	+ Afficher la vue détaillée	+ Mostrar la vista detallada	+ Εμφάνιση λεπτομερούς προβολής
-keyframe_title_get_simple	- Show simple view	- Afficher la vue minimal	- Mostrar vista simple	+ Εμφάνιση απλής προβολής
+keyframe_title_get_detail	Show detailed view	Afficher la vue détaillée	Mostrar la vista detallada	Εμφάνιση λεπτομερούς προβολής
+keyframe_title_get_simple	Show simple view	Afficher la vue minimal	Mostrar vista simple	Εμφάνιση απλής προβολής
 keyframes_download_subshots	Download keyframes	Télecharger les images clés	Descargar imágenes claves	Λήψη χαρακτηριστικών καρέ
 zoom_in	zoom in	augmenter	aumentar	μεγεθύνετε
 zoom_out	zoom out	réduire	reducir	Σμίκρυνση
