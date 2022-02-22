@@ -1,0 +1,9 @@
+	en	fr	es	el
+deepfake_label	Media link	Media lien	Media link	σύνδεσμος πολυμέσων
+deepfake_name	Deepfake	Deepfake	Deepfake	Deepfake
+deepfake_placeholder	Paste the URL here	Collez le lien ici	Pega aquí el link	Επικολλήστε τη διεύθυνση σύνδεσμος εδώ
+deepfake_support	Your browser does not support the video tag.	Votre navigateur ne prend pas en charge la balise vidéo.	Su navegador no soporta la etiqueta de vídeo.	Το πρόγραμμα περιήγησής σας δεν υποστηρίζει την ετικέτα βίντεο.
+deepfake_clips	Clips of the video	Clips de la vidéo	Clips del vídeo	Αποσπάσματα του βίντεο
+deepfake_select	Select a shot to see the analysis results of that shot	Sélectionnez un plan pour voir les résultats de l'analyse de ce plan.	Seleccione un clip para ver los resultados del análisis de ese clip	Επιλέξτε μια λήψη για να δείτε τα αποτελέσματα της ανάλυσης της συγκεκριμένης λήψης
+deepfake_clip	Clip selected	Clip sélectionné	Clip seleccionado	Επιλεγμένο κλιπ
+deepfake_faces	Faces recognized	Visages reconnus	Caras reconocidas	Αναγνωρισμένα πρόσωπα
