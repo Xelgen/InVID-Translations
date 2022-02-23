@@ -9,3 +9,5 @@ deepfake_clip	Clip selected	Clip sélectionné	Clip seleccionado	Επιλεγμ�
 deepfake_faces	Faces recognized	Visages reconnus	Caras reconocidas	Αναγνωρισμένα πρόσωπα
 deepfake_video	Video analyzed	Vidéo analysée	Vídeo analizado	Αναλυμένο βίντεο
 deepfake_results	Results of the clip selected	Résultats du clip sélectionné	Resultados del clip seleccionado	Αποτελέσματα του επιλεγμένου κλιπ
+deepfake_image_link	Image link	Lien image	Link de la imagen	Σύνδεσμος εικόνας
+deepfake_video_link	Video link	Lien vidéo	Link del video	Σύνδεσμος βίντεο
