@@ -11,6 +11,7 @@ button_submit	Submit	Envoyer	Enviar	Υποβολή
 button_remove	Remove	Supprimer	Eliminar	Αφαιρώ
 ocr_search_yandex	Yandex	Yandex	Yandex	Γιάντεξ
 ocr_search_bing	Bing	Bing	Bing	Bing
+ocr_search_google_lens	Google Lens	Google Lens	Google Lens	Google Lens
 cardheader_source	Source of the image	Source de l'image	Fuente de la imagen	Πηγή της εικόνας
 cardheader_results	Results	Résultats	Resultados	Αποτελέσματα
 ocr_script_label	Specify script	Spécifier le script	Especificar script	Καθορίστε το σενάριο
