@@ -89,6 +89,7 @@ comments_links	Number of comments that contain links	Nombre de commentaires cont
 facebook_tip	This kind of Facebook link or shortener is not working properly. Try to click on the video and to get the url address instead. 	Ce genre de lien ou raccourci de Facebook ne fonctionne pas correctement. Cliquez sur la vidéo et récupérer le lien de la barre d'adresse URL.	Este tipo de enlace o de acortador de Facebook no funciona correctamente. Intenté cliquear sobre el video y de recuperar el enlace en la barra de URL. 	ΜΑυτό το είδος του συνδέσμου Facebook ή του shortener δεν λειτουργεί σωστά. Προσπαθήστε να κάνετε κλικ στο βίντεο και να λάβετε τη διεύθυνση url.
 api_input_image	Facebook or Twitter link	Adresse Facebook ou Twitter	Enlace de Facebook o Twitter	Σύνδεσμος Facebook ή Twitter
 image_description	Image description	Description de l'image	Descripción de la imagen	περιγραφή εικόνας
+video_description	Video description	Description de la vidéo	Descripción del video	Περιγραφή βίντεο
 twitter_reply	All replies	Toutes les réponses	Todas las respuestas	Όλες οι απαντήσεις
 twitter_reply_verified	Verification replies	Réponses de vérification	Respuestas de verificación	Απαντήσεις επαλήθευσης
 twitter_reply_link	Replies that contain links	Réponses contenant des liens	Respuestas que contienen enlaces	Απαντήσεις που περιέχουν συνδέσμους
