@@ -1,10 +1,10 @@
 	en	fr	es	el	ar
 api_title	Video contextual verification	Vérification du contexte de la vidéo	Verificación del contexto del video	Επαλήθευση βίντεο μέσω ανάλυσης δεικτών εγκυρότητας	التحقق من سياق الفيديو
-api_input	Youtube, Facebook or Twitter link	Adresse YouTube, Facebook ou Twitter	Enlace de YouTube, Facebook o Twitter	Σύνδεσμος Youtube, Facebook ή Twitter	رابط YouTube أو Facebook أو Twitter
+api_input	Youtube, Facebook or Twitter link	Adresse YouTube, Facebook ou Twitter	Enlace de YouTube, Facebook o Twitter	Σύνδεσμος Youtube, Facebook ή Twitter	رابط يوتيوب أو فيسبوك أو تويتر
 api_input_placeholder	Paste here the link	Coller ici le lien	Pegar aquí el enlace	Επικολλήστε εδώ το σύνδεσμο	الصق الرابط هنا
 api_repro	Reprocess	Retraiter	Volver a procesar	Επανεπεξεργασία	إعادة المعالجة
 api_comments	All comments	Tous les commentaires	Todos los comentarios	Όλα τα σχόλια	كل التعليقات
-button_submit	Submit	Envoyer	Enviar	Υποβολή	قدم
+button_submit	Submit	Envoyer	Enviar	Υποβολή	إرسال
 facebook_video_name_1	Video id	Identifiant de la vidéo	Identificación del video	Βίντεο id	معرف الفيديو
 image_id	Image id	Identifiant de l'image	Identificación de imagen	Αναγνωριστικό εικόνας	معرف الصورة
 facebook_video_name_2	Video title	Titre de la vidéo	Títular del video	Τίτλος Βίντεο	عنوان مقطع الفيديو
@@ -12,16 +12,16 @@ facebook_video_name_3	Duration	Durée	Duración	Διάρκεια	المدة
 facebook_video_name_4	Content category	Catégorie du contenu	Categoría del contenido	Κατηγορία περιεχομένου	فئة المحتوى
 facebook_video_name_5	Content tags	Tag du contenu	Tag del contenido	Ετικέτες περιεχομένου	علامات المحتوى
 facebook_video_name_6	Video description	Description de la vidéo	Descripción del video	Περιγραφή Βίντεο	وصف الفيديو
-facebook_video_name_7	Like count	Nombre de ''j'aime''	Número de ''me gusta''	Αριθμός likes	عداد الإعجاب
+facebook_video_name_7	Like count	Nombre de ''j'aime''	Número de ''me gusta''	Αριθμός likes	عدد الإعجاب
 facebook_video_name_8	Updated time	Date de mise en ligne	Fecha de puesta en línea	Ώρα ενημέρωσης	الوقت المحدث
 facebook_video_name_9	Created time	Date de création	Fecha de creación	Ώρα δημιουγίας	وقت الإنتاج
 facebook_image_caption	Caption	Légende	Subtítulo	Λεζάντα	الشرح
 facebook_comment_title	Comments	Commentaires	Comentarios	Σχόλια	التعليقات
-facebook_comment_name_1	Video comment count	Nombre de commentaires	Comentarios sobre el video	Αριθμός σχολίων βίντεο	عداد تعليقات الفيديو
+facebook_comment_name_1	Video comment count	Nombre de commentaires	Comentarios sobre el video	Αριθμός σχολίων βίντεο	عدد تعليقات الفيديو
 facebook_delete_result	Remove result	Effacer le résultat	Borrar el resultado	Διαγραφή του αποτελέσματος της διαδικασίας	إزالة النتيجة
-image_comment_count	Image comment count	Nombre de commentaires d'image	Recuento de comentarios de imagen	Αριθμός σχολίων εικόνας	عداد تعليقات الصورة
+image_comment_count	Image comment count	Nombre de commentaires d'image	Recuento de comentarios de imagen	Αριθμός σχολίων εικόνας	عدد تعليقات الصورة
 facebook_comment_name_2	Number verification comments	Nombre de commentaires vérifiés	Número de comentarios verificados	Αριθμός σχολίων επαλήθευσης	عدد التعليقات الموثوقة
-twitter_user_name_13	Created	Date de création	Fecha de creación	Δημιουργήθηκε	مُنتَج  (مُعَد)
+twitter_user_name_13	Created	Date de création	Fecha de creación	Δημιουργήθηκε	تاريخ الإنشاء
 twitter_user_name_4	Profile	Profil	Perfil	Προφίλ	الملف الشخصي
 button_reverse_google	Google Image reverse search	Recherche inversée Google image	Búsqueda inversa de imagen Google	Αντίστροφη αναζήτηση εικόνας Google	محرك جوجل للبحث العكسي عن الصور
 button_reverse_yandex	Yandex Image reverse search	Recherche inversée Yandex image	Búsqueda inversa de imagen Yandex	Αντίστροφη αναζήτηση εικόνας Yandex	محرك Yandex للبحث العكسي عن الصور
@@ -29,7 +29,7 @@ button_reverse_tineye	Tineye Image reverse search	Recherche inversée Tineye	Bú
 button_reverse_twitter	Twitter video search	Recherche sur Twitter	Búsqueda en Twitter	Αναζήτηση βίντεο Twitter	بحث تويتر بالفيديو
 youtube_video_name1_2	Video description	Description de la vidéo	Descripción del video	Περιγραφή Βίντεο	وصف الفيديو
 twitter_video_name_3	Origin	Origine	Origen	Προέλευση	الأصل
-twitter_video_name_4	Likes count	Nombre de ''j'aime''	Número de ''me gusta''	Αριθμός likes	عداد الإعجابات 
+twitter_video_name_4	Likes count	Nombre de ''j'aime''	Número de ''me gusta''	Αριθμός likes	عدد الإعجابات 
 twitter_video_name_5	Retweets count	Nombre de retweets	Número de retweets	Αριθμός retweets	إعادة تغريد
 twitter_video_name_6	Hashtags	Hashtags	Hashtags	Hashtags	الوسم
 twitter_video_name_7	Urls included	Urls incluses	Urls incluidas	URLs που περιλαμβάνονται	شملت عناوين URL
@@ -40,7 +40,7 @@ twitter_video_name_11	Size	Taille	Talla	Μέγεθος	الحجم
 twitter_video_name_12	Duration	Durée	Duración	Διάρκεια	المدة
 twitter_video_name_13	Locations mentioned	Lieux mentionnés	Lugares mencionados	Τοποθεσίες που αναφέρονται	المواقع المُشار إليها
 twitter_video_name_14	Embedded YouTube	Incorporé de YouTube	Integrable desde YouTube	Ενσωματωμένo YouTube βίντεο	youtube تضمين
-twitter_video_name_15	Created	Date de création	Fecha de creación	Δημιουργήθηκε	مُنتَج (مكون)
+twitter_video_name_15	Created	Date de création	Fecha de creación	Δημιουργήθηκε	تاريخ الإنشاء
 twitter_video_name_16	Video	Vidéo	Video	Βίντεο	فيديو
 twitter_user_title	Public User	Utilisateur public	Usuario público	Δημόσιος χρήστης	المستخدم العام
 twitter_user_name_2	Screen name	Pseudonyme	Nombre de usuario	Ονομα οθόνης	الاسم المستعار
@@ -53,23 +53,23 @@ twitter_user_name_8	Followers	Nombre d'abonnés	Seguidores	Ακόλουθοι	ا
 twitter_user_name_9	Following	Nombre d'abonnements	Seguidos	Σε ακολούθηση	المتابَعون
 twitter_user_name_10	Lists	Listes	Listas	Λίστες	القوائم
 twitter_user_name_11	Tweets liked	Tweets ''aimés''	Tweets ''likeados''	Αριθμός Tweets που άρεσαν	تغريدات تم الإعجاب بها
-twitter_user_name_12	Tweets count	Nombre de tweets	Número de tweets	Αριθμός Tweets	عداد التغريدات
-twitter_user_name_13	Created	Date de création	Fecha de creación	Δημιουργήθηκε	مُنتَج 
+twitter_user_name_12	Tweets count	Nombre de tweets	Número de tweets	Αριθμός Tweets	عدد التغريدات
+twitter_user_name_13	Created	Date de création	Fecha de creación	Δημιουργήθηκε	تاريخ الإنشاء
 youtube_comment_title	Video comments:	Commentaires sur la vidéo:	Comentarios sobre el video:	Σχόλια βίντεο:	تعليقات الفيديو:
 youtube_comment_name_2	Verification comments number	Nbre de com. pour vérification	Número de comentarios para verificación	Αριθμός σχολίων επαλήθευσης	عدد التعليقات الموثوق بها
 navbar_thumbnails	Thumbnails	Imagettes	Miniaturas	Μικρογραφίες	الصورة المصغرة (صورة الغلاف)
-youtube_video_name2_1	Video view count	Nombre de vues	Número de vistas	Αριθμός προβολών βίντεο	عداد مشاهدات الفيديو
-youtube_video_name2_2	Like count	Nombre de ''j'aime''	Número de ''me gusta''	Αριθμός likes	عداد الإعجابات
-youtube_video_name2_3	Dislike count	Nombre de ''je n'aime pas''	Número de ''no me gusta''	Αριθμός dislikes	عداد عدم الإعجابات 
+youtube_video_name2_1	Video view count	Nombre de vues	Número de vistas	Αριθμός προβολών βίντεο	عدد مشاهدات الفيديو
+youtube_video_name2_2	Like count	Nombre de ''j'aime''	Número de ''me gusta''	Αριθμός likes	عدد الإعجابات
+youtube_video_name2_3	Dislike count	Nombre de ''je n'aime pas''	Número de ''no me gusta''	Αριθμός dislikes	عدد عدم الإعجابات 
 youtube_video_name2_4	Duration	Durée	Duración	Διάρκεια	المدة
 youtube_video_name2_5	Licensed content	Contenu sous license	Contenido bajo licencia	Περιεχόμενο υπό άδεια χρήσης	المحتوى المرخص
 youtube_video_name2_6	Upload time	Date de mise en ligne	Fecha de puesta en línea	Ώρα μεταφόρτωσης	وقت التحميل
 youtube_channel_name_2	Channel created time	Date de la création de la chaîne	Fecha de la creación de la cadena	Ώρα δημιουργίας καναλιού	وقت إنشاء القناة
-youtube_channel_name_3	Channel view count	Nombre de vues de la chaine	Número de vistas de la cadena	Αριθμός προβολών καναλιού	عداد مشاهدات القناة
+youtube_channel_name_3	Channel view count	Nombre de vues de la chaine	Número de vistas de la cadena	Αριθμός προβολών καναλιού	عدد مشاهدات القناة
 youtube_channel_name_4	Channel page	Page de la chaîne	Página de la cadena	Σελίδα καναλιού	صفحة القناة
 youtube_channel_name_5	Number of subscribers	Nombre d'abonnés	Numero de suscriptores	Αριθμός συνδρομητών	عدد المشتركين
 youtube_channel_title	Channel:	Chaîne:	Cadena:	Κανάλι:	قناة:
-youtube_comment_name_1	Video comment count	Nombre de commentaires	Número de comentarios	Αριθμός σχολίων βίντεο	عداد تعليقات الفيديو
+youtube_comment_name_1	Video comment count	Nombre de commentaires	Número de comentarios	Αριθμός σχολίων βίντεο	عدد تعليقات الفيديو
 convert_to_local_time	Convert to local time	Convertir à l'heure locale	Pasar a la hora local	Μετατροπή σε τοπική ώρα	تحويل إلى التوقيت المحلي
 table_error_unavailable	This url is not valid	Cette URL n'est pas valide	Esta url no es válida	Αυτή η διεύθυνση URL δεν είναι έγκυρη	عنوان رابط  منتهي الصلاحية
 table_error_no_image_id	We cannot extract an image ID from the submitted URL. Please note also that Facebook does not allow us to process photos from Users or Groups.	Nous ne pouvons pas extraire un ID d'image à partir de l'URL soumise. Veuillez également noter que Facebook ne nous permet pas de traiter les photos des utilisateurs ou des groupes.	No podemos extraer una identificación de imagen de la URL enviada. Tenga en cuenta también que Facebook no nos permite procesar fotos de Usuarios o Grupos.	Δεν μπορούμε να εξαγάγουμε ένα αναγνωριστικό εικόνας από την υποβληθείσα διεύθυνση URL. Λάβετε επίσης υπόψη ότι το Facebook δεν μας επιτρέπει να επεξεργαζόμαστε φωτογραφίες από Χρήστες ή Ομάδες.	لا يمكننا استخراج معرف الصورة من الرابط المطروح. يرجى أيضًا ملاحظة أن فيسبوك لا يسمح لنا بمعالجة الصور من المستخدمين أو المجموعات.
