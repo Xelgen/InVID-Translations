@@ -2,24 +2,24 @@
 twitterStatsErrorMessage	Please fill the required fields (＊)	Veuillez remplir les champs requis (＊)	Rellene los campos requeridos (＊)	Παρακαλώ συμπληρώστε τα απαιτούμενα πεδία (＊)	يرجى تعبئة جميع الحقول المطلوبة (*)
 twitter_sna_title	Twitter Social network analysis (beta)	Analyse des réseaux sociaux sur Twitter (beta)	Twitter Análisis de redes sociales (beta)	Ανάλυση κοινωνικού δικτύου Twitter (beta)	تحليل الشبكة الاجتماعية على تويتر (بيتا)
 twitter_sna_search	Keyword, URL or #	Mot clé, URL ou #	Palabra clave, URL o #	Λέξη-κλειδί, διεύθυνση URL ή #	الكلمة الرئيسية ، URL أو #
-twitter_sna_not	Words to exclude in the query	Mots à exclure de la requête	Palabras a excluir en la consulta	Λέξεις για εξαίρεση στο ερώτημα	كلمات لاستبعادها في الاستعلام
+twitter_sna_not	Words to exclude in the query	Mots à exclure de la requête	Palabras a excluir en la consulta	Λέξεις για εξαίρεση στο ερώτημα	كلمات لاستبعادها في البحث
 twitter_sna_user	Tweeted by (Twitter account name)	Tweeté par (Nom de compte Twitter)	Twiteado por (Nombre de una cuenta de Twitter)	Tweet από (Όνομα λογαριασμού Twitter)	تغريد منشورة بواسطة (اسم حساب Twitter)
 twitter_sna_from_date	Since	Depuis	Desde	Από	منذ
 twitter_sna_until_date	Until	Jusqu'à	Hasta	Εως	حتى
 twitter_local_time	Local time	Heure locale	Hora local	Τοπική ώρα	الوقت المحلي
 twitter_sna_gmt	GMT	GMT	GMT	GMT	توقيت غرينيتش
-twitter_sna_media	Filters :	Filtres :	Filtros :	Φιλτρα:	المرشحات:
-twitterStats_media_none	none	aucune	ninguna	κανένα	لا أحد
+twitter_sna_media	Filters :	Filtres :	Filtros :	Φιλτρα:	الفلاتر:
+twitterStats_media_none	none	aucune	ninguna	κανένα	لا شيء
 twitterStats_media_images	pictures	images	fotos	εικόνες	صور
 twitterStats_media_videos	videos	vidéos	vídeo	βίντεο	مقاطع فيديو
-twitterStats_media_medias	media	média	medios de comunicación	μεσο ΜΑΖΙΚΗΣ ΕΝΗΜΕΡΩΣΗΣ	وسائل الاتصال
+twitterStats_media_medias	media	média	medios de comunicación	μεσο ΜΑΖΙΚΗΣ ΕΝΗΜΕΡΩΣΗΣ	الوسائط 
 twitterStats_media_both	both	les deux	ambos	και ταδύο	على حد سواء
 twitterStats_media_both	both	les deux	ambos	και τα δύο	على حد سواء
 twitter_sna_verified	Verified users Only :	Utilisateurs verifiés uniquement :	Usuarios verificados únicamente :	Μόνο επαληθευμένοι χρήστες:	الحسابات الموثوقة فقط:
-twitterStats_verified_no	no	non	no	ναι	رقم
+twitterStats_verified_no	no	non	no	ναι	لا
 twitterStats_verified_yes	yes	oui	si	οχι	نعم
-lang_choices	Language :	Langue :	Lengua :	Γλώσσα:	لغة:
-lang_all	none	aucun	ninguno	κανένα	لا أحد
+lang_choices	Language :	Langue :	Lengua :	Γλώσσα:	اللغة:
+lang_all	none	aucun	ninguno	κανένα	لا شيء
 lang_fr	French	Français	Francés	Γαλλικά	الفرنسية
 lang_en	English	Anglais	Inglés	Αγγλικά	الإنجليزية
 lang_es	Spanish	Espagnol	Español	Ισπανικά	الأسبانية
@@ -43,8 +43,8 @@ lang_fa	Farsi	Persan	Farsi	Φαρσί	الفارسية
 lang_he	Hebrew	Hébreu	Hebreo	Εβραϊκά	العبرية
 lang_ur	Urdu	Ourdou	Urdu	Ουρντού	الأردية
 lang_th	Thai	Thaï	Tailandés	Ταϊλανδέζικα	التايلاندية
-button_submit	Submit	Envoyer	Enviar	Υποβολή	يُقدِّم
-default_sna_error	Twitter analysis failed due to an unknown cause.	L'analyse de Twitter a été interrompue pour une raison inconnue.	El análisis de Twitter se ha interrumpido por una causa desconocida.	Η ανάλυση του Twitter απέτυχε λόγω άγνωστης αιτίας.	فشل تحليل Twitter بسبب سبب غير معروف.
+button_submit	Submit	Envoyer	Enviar	Υποβολή	إرسال
+default_sna_error	Twitter analysis failed due to an unknown cause.	L'analyse de Twitter a été interrompue pour une raison inconnue.	El análisis de Twitter se ha interrumpido por una causa desconocida.	Η ανάλυση του Twitter απέτυχε λόγω άγνωστης αιτίας.	فشل تحليل Twitter لسببس غير معروف.
 twitterSnaErrorMessage	An error occurred while processing tweets	Une erreur s'est produite lors du traitement des tweets	Se produjo un error en el procesamiento de tweets	Παρουσιάστηκε σφάλμα κατά την επεξεργασία των tweets	حدث خطأ أثناء معالجة التغريدات
 top_users_pie_chart_title	Most active users	Utilisateurs les plus actifs	Usuarios más activos	Πιο ενεργοί χρήστες	المستخدمون الأكثر نشاطا
 mention_cloud_chart_title	Most mentioned accounts	Compte les plus mentionnés	Usuarios más mencionados	Λογαριασμοί που έχουν αναφερθεί πιο πολύ	الحسابات الأكثر ذكراً
@@ -55,17 +55,17 @@ likes_cloud_chart_title	Most liked users	Utilisateurs les plus likés	Usuarios c
 top_words_cloud_chart_title	Most used words in tweets	Mots les plus utilisés dans les tweets	Palabras más utilizadas en tweets	Λέξεις που χρησιμοποιήθηκαν πιο πολύ στα tweets	الكلمات الأكثر استخداما في التغريدات
 tweetCounter_title	Tweets number	Nombre de tweets	Número de Tweet	Αριθμος tweets	عدد التغريدات
 sosem_graph_title	Socio-semantic graph (hashtags and mentioned users)	Graphe socio-sémantique (hashtags et utilisateurs mentionnés)	Grafo socio-semantico (hashtags y usuarios mencionados)	Κοινωνικο-σημασιολογικό γράφημα (hashtag και αναφερόμενοι χρήστες)	الرسم البياني الاجتماعي الدلالي (الوسوم والمستخدمون المشار إليهم)
-sosem_4mode_graph_title	Socio-semantic graph (hashtags, URLs, mentions, quoted RTs, unedited RTs, replies)	Graphe socio-sémantique (hashtags, URLs, mentions, RTs, RTs avec commentaire, réponses)	Grafo socio-semantico (hashtags, URLs, mencionados, RTs, RTs con comentarios, respuestas)	Κοινωνικο σημασιολογικό γράφημα (hashtag, URLs, αναφορές, RT, RT με σχόλιο, απαντήσεις)	الرسم البياني الاجتماعي-الدلالي (الوسوم، وعناوين URL، والإشارات، RTs المقتبسة، RTs غير المحررة، الردود)
+sosem_4mode_graph_title	Socio-semantic graph (hashtags, URLs, mentions, quoted RTs, unedited RTs, replies)	Graphe socio-sémantique (hashtags, URLs, mentions, RTs, RTs avec commentaire, réponses)	Grafo socio-semantico (hashtags, URLs, mencionados, RTs, RTs con comentarios, respuestas)	Κοινωνικο σημασιολογικό γράφημα (hashtag, URLs, αναφορές, RT, RT με σχόλιο, απαντήσεις)	 الرسم البياني الاجتماعي-الدلالي (الوسوم، وعناوين URL، والإشارات،  RTs التغريدات المقتبسة، RTs التغريدات غير المعدلة، الردود)
 account_creation_date_chart_title	Count of account creation date chart	Graphique des créations de compte	Gráfico de fechas de creación de cuentas	Διάγραμμα των ημερομηνιών δημιουργίας λογαριασμών	مخطط تاريخ إنشاء الحساب
 bubble_chart_title	Bubble chart of top 100 most active accounts	Graphique des créations de compte	Gráfico de las 100 cuentas más activas	Διάγραμμα φυσαλίδων με τους 100 πιο ενεργούς λογαριασμούς	مخطط بياني لأفضل 100 حساب الأكثر نشاطًا
 user_graph_title	User accounts graph	Graphe de comptes utilisateurs	Grafo de cuentas de usuarios	ράφημα λογαριασμών χρηστών	رسم بياني لحسابات المستخدمين
 export_graph_title	Export Interaction graph (gexf format)	Exporter un graphe des interactions au format Gexf	Exportar el grafo de interacciones en formato Gexf	Εξαγωγή γραφήματος αλληλεπίδρασης (μορφή gexf)	تصدير رسم بياني للتفاعل بصيغة Gexf
 heatmap_chart_title	Heatmap of tweets distribution	Cartographie d'activité	Mapa de actividad	Heatmap της διανομής των tweets	خريطة حرارية لتوزيع التغريدات
 elastic_url	Url	Url	Url	Σύνδεσμος	عنوان URL
-elastic_count	Number	Nombre	Candidad	Αριθμός	رقم
+elastic_count	Number	Nombre	Candidad	Αριθμός	العدد
 twittersna_result_username	Username	Nom d'utilisateur	Nombre de usuario	Όνομα χρήστη	اسم المستخدم
-twittersna_result_date	Date	Date	Fecha	Ημερομηνία	تاريخ
-twittersna_result_tweet	Tweet	Tweet	Tweet	Tweet	تغريد
+twittersna_result_date	Date	Date	Fecha	Ημερομηνία	التاريخ
+twittersna_result_tweet	Tweet	Tweet	Tweet	Tweet	التغريدة
 twittersna_result_retweet_nb	Retweet number	Nombre de retweets	Candidad de retweets	Αριθμός Retweets	عدد مرات إعادة التغريد
 twittersna_result_like_nb	Like number	Nombre de likes	Candidad de ''me gusta''	Αριθμός likes	عدد الإعجابات
 twittersna_result_hide	Hide	Fermer	Ocultar	Απόκρυψη	إخفاء
@@ -74,7 +74,7 @@ twittersna_result_slected_tweets	Selected Tweets	Tweets selectionnés	Tweets sel
 twittersna_result_url_in_tweets	Urls in tweets	Urls dans les tweets	Urls en tweets	Urls στα tweets	عناوين URL في التغريدات
 twittersna_result_go_to	Go to url	Ouvrir le lien	Ir a la pagina	Μετάβαση στη διεύθυνση url	اذهب إلى عنوان URL
 twittersna_result_go_to_tweet	Go to tweet	Ouvrir le tweet	Ir a tweet	Μετάβαση στο tweet	اذهب إلى تغريدة
-twittersna_result_download_png	Download as PNG	Télécharger en tant que PNG	Descargar como PNG	Λήψη ως PNG	تنزيل كما PNG
+twittersna_result_download_png	Download as PNG	Télécharger en tant que PNG	Descargar como PNG	Λήψη ως PNG	تنزيل بصيغة PNG
 twittersna_result_download_svg	Download as SVG	Télécharger en tant que SVG	Descargar como SVG	Λήψη ως SVG	تنزيل بصيغة SVG
 twittersna_result_word	Word	Mot	Palabra	Λέξη	كلمة
 twittersna_result_nb_occ	Number of occurrences	Nombre d'occurrences	Cantidad de ocurrencias	Αριθμός εμφανίσεων	عدد مرات الحدوث
@@ -107,7 +107,7 @@ twittersna_title_timezone	Time zone of the dates	Fuseau horaire des dates	Zona h
 twittersna_title_optional	Optional parameters	Paramètres facultatifs	Parámetros opcionales	Προαιρετικές παράμετροι	الإعدادات الاختيارية
 twittersna_title_words	Words	Mots	Palabras	Λόγια	كلمات
 twittersna_title_accounts	Accounts	Comptes	Cuentas	Λογαριασμοί	حسابات
-twittersna_title_media	Media	Médias	Medios de comunicación	Μεσο ΜΑΖΙΚΗΣ ΕΝΗΜΕΡΩΣΗΣ	وسائل الإعلام
+twittersna_title_media	Media	Médias	Medios de comunicación	Μεσο ΜΑΖΙΚΗΣ ΕΝΗΜΕΡΩΣΗΣ	وسائط 
 twittersna_title_advanced	Advanced tools	Outils avancés	Herramientas avanzadas	Προχωρημένα Εργαλεία	ادوات متطورة
 twitter_sna_searchelement	Search element	Élément de recherche	Elemento de búsqueda	Στοιχείο αναζήτησης	عنصر البحث
 twitter_sna_selectdate	Select a date	Sélectionnez une date	Seleccione una fecha	Επιλέξτε μια ημερομηνία	حدد تاريخ

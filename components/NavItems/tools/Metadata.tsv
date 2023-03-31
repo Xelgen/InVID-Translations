@@ -5,7 +5,7 @@ metadata_content_input_placeholder	Paste the video or image link here	Collez le 
 button_localfile	Local file	Fichier local	Fichero local	Τοπικό αρχείο	ملف محلي
 metadata_radio_image	Image	Image	Imagen	Εικόνα	صورة
 metadata_radio_video	Video	Vidéo	Video	Βίντεο	فيديو
-button_submit	Submit	Envoyer	Enviar	Υποβολή	يُقدِّم
+button_submit	Submit	Envoyer	Enviar	Υποβολή	إرسال
 please_give_a_correct_link	Please give a correct link	Donner un lien valide s'il vous plaît	Por favor, dé un enlace válido	Παρακαλώ δώστε έναν σωστό σύνδεσμο	يرجى إعطاء رابط صحيح
 metadata_img_error_exif	No EXIF Metadata was found. Note: The EXIF standard applies only to .jpg and .tiff images	Aucune métadonnée EXIF n'a été trouvée. Note: Le Format EXIF s'applique uniquement aux images .jpg et .tiff	No se encontraron metadatos EXIF. Note: El estándar EXIF se aplica sólo a imágenes.jpg y.tiff	Δεν βρέθηκαν EXIF μεταδεδομένα. Σημείωση: Το πρότυπο EXIF ​​ισχύει μόνο για εικόνες .jpg και .tiff	لم يتم العثور على بيانات تعريف EXIF. ملاحظة: ينطبق معيار EXIF ​​فقط على صور .jpg وtiff
 metadata_table_error	Video failed loading. Check the URL and try again	Vidéo impossible à charger. Veuillez verifier l'URL et réessayer	Fue imposible descargar el video. Verifica el URL y vuelve a intentarlo	Η φόρτωση του βίντεο απέτυχε. Ελέγξτε τη διεύθυνση URL και δοκιμάστε ξανά	فشل التحميل بالفيديو. تحقق من عنوان URL وحاول مرة أخرى
@@ -43,13 +43,13 @@ metadata_img_general_fields_9	Date Time Digitized	Horodatage numérisée	Cronoma
 metadata_img_general_fields_10	Components Configuration	Configuration des composants	Configuración de los componentes	Διαμόρφωση στοιχείων	تكوين المكونات
 metadata_img_general_fields_11	Compressed Bits Per Pixel	Bits compressés par pixel	Bits comprimidos por pixel	Συμπιεσμένα bit ανά εικονοστοιχείο	بتات مضغوطة لكل بكسل
 metadata_img_general_fields_12	Exposure Bias	Biais d'exposition	Sesgo de exposición	Μεροληψία έκθεσης	التحيز التعرض
-metadata_img_general_fields_13	Max Aperture Value	Valeur d'ouverture maximale	Valor de apertura maxima	Μέγιστη τιμή διαφράγματος	أقصى قيمة فتحة الفتحة
+metadata_img_general_fields_13	Max Aperture Value	Valeur d'ouverture maximale	Valor de apertura maxima	Μέγιστη τιμή διαφράγματος	أقصى قيمة لفتحة العدسة
 metadata_img_general_fields_14	Metering Mode	Mode de mesure	Modo de medida	Λειτουργία μέτρησης	وضع القياس
 metadata_img_general_fields_15	Flash	Flash	Flash	Φλάς	فلاش
 metadata_img_general_fields_16	Focal Length	Longueur focale	Distancia focal	Εστιακό μήκος	البعد البؤري
 metadata_img_general_fields_17	User Comment	Commentaire utilisateur	Comentario usuario	Σχόλιο χρήστη	تعليق المستخدم
 metadata_img_general_fields_18	Image Description	Description de l'image	Descripción de la imagen	Περιγραφή εικόνας	وصف الصورة
-metadata_img_general_fields_19	Maker Note	Note du fabricant	Nota del fabricante	Σημείωση κατασκευαστή	ملاحظة صانع
+metadata_img_general_fields_19	Maker Note	Note du fabricant	Nota del fabricante	Σημείωση κατασκευαστή	ملاحظة الصانع
 metadata_img_general_fields_20	Subject Distance	Distance du sujet	Distancia del sujeto	Απόσταση θέματος	مسافة الموضوع
 metadata_img_general_fields_21	Flashpix Version	Version Flashpix	Versión Flashpix	Έκδοση Flashpix	إصدار Flashpix
 metadata_img_general_fields_22	Color Space	Espace colorimétrique	Espacio ...	Πρότυπο Χρώματος	مساحة اللون
@@ -61,7 +61,7 @@ metadata_img_general_desc_2
 metadata_img_general_desc_3					
 metadata_img_general_desc_4	The length of time when the film or digital sensor inside the camera is exposed to light	La durée pendant laquelle le film ou le capteur numérique à l'intérieur de l'appareil photo est exposé à la lumière	La duración durante la cual se expone al sol la película o el captor numérico al interior de la cámara	Το χρονικό διάστημα κατά το οποίο η ταινία ή ο ψηφιακός αισθητήρας μέσα στην κάμερα είναι εκτεθειμένο σε φως	طول الوقت الذي يتعرض فيه الفيلم أو المستشعر الرقمي داخل الكاميرا للضوء
 metadata_img_general_desc_5	The ratio of the system's focal length to the diameter of the entrance pupil	Le rapport entre la distance focale du système et le diamètre de la pupille d'entrée	La diferencia entre la distancia focal del sistema y el diámetro de la pupila de entrada	Η αναλογία εστιακού μήκους του συστήματος προς τη διάμετρο του μαθητή εισόδου	نسبة الطول البؤري للنظام إلى قطر تلميذ المدخل
-metadata_img_general_desc_6	The program used by the camera to set exposure when the picture is taken	Le programme utilisé par l'appareil photo pour définir l'exposition lorsque la photo est prise	El programa utilizado por la cámara para definir la exposición cuando se toma la foto	Το πρόγραμμα που χρησιμοποιεί η κάμερα για να ρυθμίσει την έκθεση κατά τη λήψη της φωτογραφίας	البرنامج المستخدمة من قبل الكاميرا لتعيين التعرض عند التقاط الصورة
+metadata_img_general_desc_6	The program used by the camera to set exposure when the picture is taken	Le programme utilisé par l'appareil photo pour définir l'exposition lorsque la photo est prise	El programa utilizado por la cámara para definir la exposición cuando se toma la foto	Το πρόγραμμα που χρησιμοποιεί η κάμερα για να ρυθμίσει την έκθεση κατά τη λήψη της φωτογραφίας	البرنامج المستخدم من قبل الكاميرا لتعيين التعرض عند التقاط الصورة
 metadata_img_general_desc_7					
 metadata_img_general_desc_8	The date and time when the original image data was generated	La date et l'heure auxquelles les données de l'image d'origine ont été générées	La fecha y la hora en las cuales los datos de la imagen de origen han sido generadas	Η ημερομηνία και η ώρα δημιουργίας των αρχικών δεδομένων εικόνας	التاريخ والوقت الذي تم فيه إنشاء بيانات الصورة الأصلية
 metadata_img_general_desc_9	The date and time when the image was stored as digital data	La date et l'heure à laquelle l'image a été stockée sous forme de données numériques	La fecha y la hora en la cual la imagen ha sido archivada bajo datos numéricos	Η ημερομηνία και η ώρα αποθήκευσης της εικόνας ως ψηφιακά δεδομένα	التاريخ والوقت الذي تم فيه تخزين الصورة كبيانات رقمية
@@ -82,7 +82,7 @@ metadata_img_general_desc_23
 metadata_img_general_desc_24					
 metadata_img_general_desc_25					
 metadata_img_gps_fields_1	GPS Latitude Ref.	Ref. Latitude GPS	Latitud GPS Ref.	Αναφορά GPS γεωγραφικό πλάτος	GPS Latitude Ref.
-metadata_img_gps_fields_2	GPS Latitude	Latitude GPS	Latitud GPS	GPS γεωγραφικό πλάτος	GPS Latitude
+metadata_img_gps_fields_2	GPS Latitude	Latitude GPS	Latitud GPS	GPS γεωγραφικό πλάτος	GPS خط العرض
 metadata_img_gps_fields_3	GPS Longitude Ref.	Ref. Longitude GPS	Longitud GPS Ref.	Αναφορά γεωγραφικού μήκους GPS	GPS LANCHITITER Ref.
 metadata_img_gps_fields_4	GPS Longitude	Longitude GPS	Longitud GPS	GPS Γεωγραφικό μήκος 	خط الطول GPS
 metadata_img_gps_fields_5	GPS Time Stamp	Horodatage GPS	Marca de tiempo GPS	Χρονική σφραγίδα GPS	طوابع الوقت GPS
@@ -96,7 +96,7 @@ metadata_img_general_title	General EXIF infos	Informations EXIF	Informaciones EX
 metadata_img_gps_title	GPS Informations	Informations GPS	Información GPS	Πληροφορίες GPS	معلومات GPS
 metadata_gps_button	View GPS location	Afficher localisation GPS	Ver ubicación GPS	Προβολή τοποθεσίας GPS	عرض موقع GPS
 metadata_img_gps_fields_1	GPS Latitude Ref.	Ref. Latitude GPS	Latitud GPS Ref.	Αναφορά GPS γεωγραφικό πλάτος	GPS Latitude Ref.
-metadata_img_gps_fields_2	GPS Latitude	Latitude GPS	Latitud GPS	GPS γεωγραφικό πλάτος	GPS Latitude
+metadata_img_gps_fields_2	GPS Latitude	Latitude GPS	Latitud GPS	GPS γεωγραφικό πλάτος	GPS خط العرض
 metadata_img_gps_fields_3	GPS Longitude Ref.	Ref. Longitude GPS	Longitud GPS Ref.	Αναφορά γεωγραφικού μήκους GPS	GPS LANCHITITER Ref.
 metadata_img_gps_fields_4	GPS Longitude	Longitude GPS	Longitud GPS	GPS Γεωγραφικό μήκος 	خط الطول GPS
 metadata_img_gps_fields_5	GPS Time Stamp	Horodatage GPS	Marca de tiempo GPS	Χρονική σφραγίδα GPS	طوابع الوقت GPS
@@ -108,44 +108,44 @@ metadata_img_gps_desc_5
 metadata_name_1	Movie atom	Movie atom	Movie atom	Άτομο ταινίας	فيلم ذرة
 metadata_name_2	Duration	Durée	Duración	Διάρκεια	مدة
 metadata_name_3	Timescale	Unité de temps	Escala temporal	Χρονοδιάγραμμα	النطاق الزمني
-metadata_name_4	Duration of fragment	Durée d'un fragment	Duración del fragmento	Διάρκεια του τμήματος	مدة الشظية
+metadata_name_4	Duration of fragment	Durée d'un fragment	Duración del fragmento	Διάρκεια του τμήματος	مدة المقطع
 metadata_name_5	Fragmented	Fragmenté	Fragmentado	Κατακερματισμένο	مجزأة
 metadata_name_6	Progressive	Progressive	Progresiva	Προοδευτικός	تدريجي
 metadata_name_7	IOD	IOD	IOD	IOD	IOD
 metadata_name_8	Brands	Type	Marcas	Μάρκες	العلامات التجارية
-metadata_name_9	Created time	Date de création	Fecha de creación	Ημερομηνία δημιουργίας	خلق الوقت
-metadata_name_10	Modified time	Date de modification	Fecha de modificación	Ημερομηνία τροποποίσης	الوقت المعدل
+metadata_name_9	Created time	Date de création	Fecha de creación	Ημερομηνία δημιουργίας	وقت الإنشاء
+metadata_name_10	Modified time	Date de modification	Fecha de modificación	Ημερομηνία τροποποίσης	وقت التعديل
 metadata_desc_1					
-metadata_desc_2	Number providing the duration of the movie (unfragmented part) in timescale units	Nombre donnant la durée du film (partie défragmentée) en unité de temps	Número que indica la duración del video (parte no fragmentada) en unidades de tiempo.	Αριθμός που παρέχει τη διάρκεια της ταινίας (μη τεμαχισμένο τμήμα) σε μονάδες κλίμακας χρόνου	العدد الذي يوفر مدة الفيلم (الجزء غير المعقول) في وحدات النطاق الزمني
-metadata_desc_3	Number corresponding to the timescale as given in the movie header	Nombre correspondant è l'unité de temps donnée dans l'entête du film	Número correspondiente a la escala de tiempo tal y como aparece en el encabezamiento del video	Αριθμός που αντιστοιχεί στη κλίμακα χρόνου όπως αναφέρεται στην κεφαλίδα της ταινίας	الرقم المقابل على المدى الزمني على النحو الوارد في رأس الفيلم
+metadata_desc_2	Number providing the duration of the movie (unfragmented part) in timescale units	Nombre donnant la durée du film (partie défragmentée) en unité de temps	Número que indica la duración del video (parte no fragmentada) en unidades de tiempo.	Αριθμός που παρέχει τη διάρκεια της ταινίας (μη τεμαχισμένο τμήμα) σε μονάδες κλίμακας χρόνου	رقم يوفر مدة الفيلم (جزء غير مجزأ) بوحدات مقياس زمني
+metadata_desc_3	Number corresponding to the timescale as given in the movie header	Nombre correspondant è l'unité de temps donnée dans l'entête du film	Número correspondiente a la escala de tiempo tal y como aparece en el encabezamiento del video	Αριθμός που αντιστοιχεί στη κλίμακα χρόνου όπως αναφέρεται στην κεφαλίδα της ταινίας	الرقم المقابل للمقياس الزمني كما هو موضح في رأس الفيلم
 metadata_desc_4	Boolean indicating if the file is already fragmented	Booléen indiquant si le film est déjà fragmenté	Booleano que indica si el archivo ya está fragmentado	Boolean που δείχνει εάν το αρχείο είναι ήδη κατακερματισμένο	منطقية تشير إلى ما إذا كان الملف مجزأ بالفعل
-metadata_desc_5	Number giving the duration of the fragmented part of the file in timescale units	Number donnant la durée de la partie fragmentée du film en unité de temps	Número que indica la duración de la parte fragmentada del video en unidades de tiempo	Αριθμός που δίνει τη διάρκεια του κατακερματισμένου μέρους του αρχείου σε μονάδες κλίμακας χρόνου	العدد إعطاء مدة الجزء المجزأ من الملف في وحدات الزمن
+metadata_desc_5	Number giving the duration of the fragmented part of the file in timescale units	Number donnant la durée de la partie fragmentée du film en unité de temps	Número que indica la duración de la parte fragmentada del video en unidades de tiempo	Αριθμός που δίνει τη διάρκεια του κατακερματισμένου μέρους του αρχείου σε μονάδες κλίμακας χρόνου	رقم يعطي مدة الجزء المجزأ من الملف بوحدات مقياس زمني
 metadata_desc_6	Boolean indicating if the file can be played progressively	Booléen indiquant si le fichier peut être lu progressivement	Booleano que indica si el archivo puede ser leido progresivamente	Boolean που δείχνει εάν το αρχείο μπορεί να αναπαραχθεί σταδιακά	منطقية تشير إلى ما إذا كان يمكن تشغيل الملف بشكل تدريجي
-metadata_desc_7	Boolean indicating if the the file contains an MPEG-4 Initial Object Descriptor	Booléen indiquant si le fichier contient un MPEG-4 Initial Object Descriptor	Booleano que indica si el archivo contiene un descriptor de objeto MPEG-4	Boolean που δείχνει εάν το αρχείο περιέχει ένα MPEG-4 Initial Object Descriptor	منطقية تشير إلى ما إذا كان الملف يحتوي على واصف كائن أولي MPEG-4
-metadata_desc_8	Array of 4CC codes corresponding to the file brands as given in the ftyp box	Tableau de code 4CC correspondant au type de fichier comme donné dans la boite ftyp	Matriz de códigos 4CC correspondientes a las marcas de archivo tal y como aparecen en la casilla ftyp	Πίνακας απο 4CC κωδικούς που αντιστοιχούν στις μάρκες αρχείων όπως αναφέρονται στο πλαίσιο ftyp	صفيف من رموز 4CC المقابلة لماركات الملفات على النحو الوارد في مربع FTYP
-metadata_desc_9	Date object indicating the creation date of the file as given in the movie header	Date indiquant la date de création du fichier comme donné dans l'entête du film	Fecha que indica la fecha de creación del archivo tal y como aparece en la cabecera de la película.	Αντικείμενο ημερομηνίας που υποδεικνύει την ημερομηνία δημιουργίας του αρχείου όπως αναφέρεται στην κεφαλίδα της ταινίας	كائن التاريخ الذي يشير إلى تاريخ إنشاء الملف على النحو الوارد في رأس الفيلم
-metadata_desc_10	Date object indicating the last modification date of the file as given in the movie header	Date indiquant la date de dernière modification du fichier comme donnée dans l'entête du film	Fecha que indica la fecha de última modificación del archivo como dato en la cabecera del video	Αντικείμενο ημερομηνίας που δείχνει την τελευταία ημερομηνία τροποποίησης του αρχείου όπως αναφέρεται στην κεφαλίδα της ταινίας	كائن التاريخ الذي يشير إلى آخر تاريخ تعديل للملف على النحو الوارد في رأس الفيلم
+metadata_desc_7	Boolean indicating if the the file contains an MPEG-4 Initial Object Descriptor	Booléen indiquant si le fichier contient un MPEG-4 Initial Object Descriptor	Booleano que indica si el archivo contiene un descriptor de objeto MPEG-4	Boolean που δείχνει εάν το αρχείο περιέχει ένα MPEG-4 Initial Object Descriptor	منطقية تشير إلى ما إذا كان الملف يحتوي على MPEG-4 Initial Object Descriptor
+metadata_desc_8	Array of 4CC codes corresponding to the file brands as given in the ftyp box	Tableau de code 4CC correspondant au type de fichier comme donné dans la boite ftyp	Matriz de códigos 4CC correspondientes a las marcas de archivo tal y como aparecen en la casilla ftyp	Πίνακας απο 4CC κωδικούς που αντιστοιχούν στις μάρκες αρχείων όπως αναφέρονται στο πλαίσιο ftyp	مجموعة من رموز 4CC المقابلة لماركات الملفات كما هو موضح في مربع ftyp
+metadata_desc_9	Date object indicating the creation date of the file as given in the movie header	Date indiquant la date de création du fichier comme donné dans l'entête du film	Fecha que indica la fecha de creación del archivo tal y como aparece en la cabecera de la película.	Αντικείμενο ημερομηνίας που υποδεικνύει την ημερομηνία δημιουργίας του αρχείου όπως αναφέρεται στην κεφαλίδα της ταινίας	جزئية التاريخ التي تشير إلى تاريخ إنشاء الملف على النحو الوارد في رأس الفيلم
+metadata_desc_10	Date object indicating the last modification date of the file as given in the movie header	Date indiquant la date de dernière modification du fichier comme donnée dans l'entête du film	Fecha que indica la fecha de última modificación del archivo como dato en la cabecera del video	Αντικείμενο ημερομηνίας που δείχνει την τελευταία ημερομηνία τροποποίησης του αρχείου όπως αναφέρεται στην κεφαλίδα της ταινίας	جزئية التاريخ التي تشير إلى آخر تاريخ تعديل للملف على النحو الوارد في رأس الفيلم
 track_name_1	Identifier	Identifiant	Identificador	Αναγνωριστικό	المعرف
 track_name_2	References	Réferences	Referencias	Αναφορές	مراجع
-track_name_3	Created time	Date de création	Fecha de creación	Ημερομηνία δημιουργίας	خلق الوقت
-track_name_4	Modified time	Date de modification	Fecha de modificación	Ημερομηνία τροποποίσης	الوقت المعدل
+track_name_3	Created time	Date de création	Fecha de creación	Ημερομηνία δημιουργίας	وقت الإنشاء
+track_name_4	Modified time	Date de modification	Fecha de modificación	Ημερομηνία τροποποίσης	وقت التعديل
 track_name_5	Movie duration	Durée du film	Duración del video	Διάρκεια ταινίας	مدة الفيلم
-track_name_6	Layer	Couches	Capas	Επίπεδο	طبقة
+track_name_6	Layer	Couches	Capas	Επίπεδο	الطبقة
 track_name_7	Alternate group	Groupes alternatifs	Grupo alternativo	Εναλλακτική ομάδα	مجموعة بديلة
-track_name_8	Volume	Volume	Volumen	Ενταση	مقدار
-track_name_9	Width	Largeur	Largo	Πλάτος	عرض
-track_name_10	Height	Hauteur	Altura	Υψος	ارتفاع
+track_name_8	Volume	Volume	Volumen	Ενταση	الحجم
+track_name_9	Width	Largeur	Largo	Πλάτος	العرض
+track_name_10	Height	Hauteur	Altura	Υψος	الارتفاع
 track_name_11	Timescale	Unité de temps	Escala de tiempo	Κλίμακα χρόνου	النطاق الزمني
-track_name_12	Duration	Durée	Duración	Διάρκεια	مدة
+track_name_12	Duration	Durée	Duración	Διάρκεια	المدة
 track_name_13	Codec	Codec	códec	Κωδικοποιητής	برنامج الترميز
-track_name_14	Language	Langage	Idioma	Γλώσσα	لغة
-track_name_15	Samples	Echantillon	Muestras	Δείγματα	عينات
-track_name_16	Size	Taille	Tamaño	Μέγεθος	بحجم
+track_name_14	Language	Langage	Idioma	Γλώσσα	اللغة
+track_name_15	Samples	Echantillon	Muestras	Δείγματα	العينات
+track_name_16	Size	Taille	Tamaño	Μέγεθος	الحجم
 track_name_17	Bitrate	Taux de bit	Tasa de bits	Ρυθμός bit	معدل البت
-track_desc_1	Number; giving track identifier	Nombre; Identifiant de la piste	Número; identificador de la pista	Αριθμός; δίνοντας αναγνωριστικό κομματιού	رقم؛ إعطاء معرف المسار
+track_desc_1	Number; giving track identifier	Nombre; Identifiant de la piste	Número; identificador de la pista	Αριθμός; δίνοντας αναγνωριστικό κομματιού	رقم؛ يعطي معرف المسار
 track_desc_2					
-track_desc_3	Date object; indicating the creation date of the file as given in the track header	Date; indiquant la date de création du fichier comme donnée dans l'entête de la piste	Fecha; indicando la fecha de creación del fichero tal y como aparece en la cabecera de la pista	Αντικείμενο ημερομηνίας; υποδεικνύοντας την ημερομηνία δημιουργίας του αρχείου όπως αναφέρεται στην κεφαλίδα του κομματιού	كائن التاريخ ؛ تشير إلى تاريخ إنشاء الملف على النحو الوارد في رأس المسار
-track_desc_4	Date object; indicating the last modification date of the file as given in the track header	Date; indiquant la date de dernière modification du fichier comme donnée dans l'entête de la piste	Fecha; indicando la fecha de última modificación del fichero tal y como aparece en la cabecera de la pista	Αντικείμενο ημερομηνίας; υποδεικνύοντας την τελευταία ημερομηνία τροποποίησης του αρχείου όπως αναφέρεται στην κεφαλίδα του κομματιού	كائن التاريخ ؛ تشير إلى آخر تاريخ تعديل للملف على النحو الوارد في رأس المسار
+track_desc_3	Date object; indicating the creation date of the file as given in the track header	Date; indiquant la date de création du fichier comme donnée dans l'entête de la piste	Fecha; indicando la fecha de creación del fichero tal y como aparece en la cabecera de la pista	Αντικείμενο ημερομηνίας; υποδεικνύοντας την ημερομηνία δημιουργίας του αρχείου όπως αναφέρεται στην κεφαλίδα του κομματιού	التاريخ ؛ تشير إلى تاريخ إنشاء الملف على النحو الوارد في رأس المسار
+track_desc_4	Date object; indicating the last modification date of the file as given in the track header	Date; indiquant la date de dernière modification du fichier comme donnée dans l'entête de la piste	Fecha; indicando la fecha de última modificación del fichero tal y como aparece en la cabecera de la pista	Αντικείμενο ημερομηνίας; υποδεικνύοντας την τελευταία ημερομηνία τροποποίησης του αρχείου όπως αναφέρεται στην κεφαλίδα του κομματιού	 التاريخ ؛ تشير إلى آخر تاريخ تعديل للملف على النحو الوارد في رأس المسار
 track_desc_5					
 track_desc_6	Number; layer information as indicated in the track header	Nombre; information de couche indiqué dans l'entête de piste	Número; información de capa como se indica en el encabezado de la pista	Αριθμός; πληροφορίες επιπέδου όπως αναφέρεται στην κεφαλίδα του κομματιού	رقم؛ معلومات الطبقة كما هو موضح في رأس المسار
 track_desc_7	Number; identifier of the alternate group the track belongs to	Nombre; identifiant du groupe alternatif auquel la piste appartient	Número; identificador del grupo alternativo del cual pertenece la pista	Αριθμός; αναγνωριστικό της εναλλακτικής ομάδας στην οποία ανήκει το κομμάτι	رقم؛ معرف المجموعة البديلة التي ينتمي إليها المسار
@@ -153,33 +153,33 @@ track_desc_8
 track_desc_9	Number; width of the track as indicated in the track header	Nombre; largeur de la piste comme indiqué dans l'entête de piste	Número; anchura de la pista como indicado en el encabezamiento de la pista	Αριθμός; πλάτος του κομματιού όπως υποδεικνύεται στην κεφαλίδα του κομματιού	رقم؛ عرض المسار كما هو موضح في رأس المسار
 track_desc_10	Number; height of the track as indicated in the track header	Nombre; hauteur de la piste comme indiqué dans l'entête de piste	Número; altura de la pista como indicado en el encabezamiento de la pista	Αριθμός; ύψος του κομματιού όπως υποδεικνύεται στην κεφαλίδα του κομματιού	رقم؛ ارتفاع المسار كما هو موضح في رأس المسار
 track_desc_11	Number; indicating the track timescale as given in the track header	Nombre; indiquant l'unité de temps de la piste comme donné dans l'entête de la piste	Número; indicando la unidad de tiempo de la pista como indicado en el encabezamiento de la pista	Αριθμός; υποδεικνύοντας την χρονική κλίμακα του κομματιού όπως αναφέρεται στην κεφαλίδα του κομματιού	رقم؛ تشير إلى النطاق الزمني للمقطوعة على النحو الوارد في رأس المسار
-track_desc_12	Number; providing the duration of the (unfragmented part of) track in timescale units	Nombre; donnant la duréee de la (partie défragmentée de la) piste en unité de temps	Número; indicando la duración de la (parte desfragmentada de la) pista en unidad de tiempo	Αριθμός; παρέχοντας τη διάρκεια (μη τεμαχισμένου τμήματος) του κομματιού σε μονάδες της κλίμακας χρόνου	رقم؛ توفير مدة المسار (الجزء غير المعقول) في الوحدات الزمنية
-track_desc_13	String; giving the MIME codecs parameter for this track (e.g. ''avc1.42c00d'' or ''mp4a.40.2'') to be used to create SourceBuffer objects with Media Source Extensions	Chaîne de charactère; donnant les paramètres codecs MIME pour cette piste (ex. ''avc1.42c00d'' ou ''mp4a.40.2'') pour être utilisé pour créer un objet SourceBuffer avec Media Source Extensions	Cadena de carácter; indicando los parametros codecs MIME para esta pista (ej. ''avc1.42c00d'' o ''mp4a.40.2'') para utilizarla para crear un objeto SourceBuffer con Media Source Extensions	Συμβολοσειρά; δίνοντας την παράμετρο κωδικοποιητών MIME για αυτό το κομμάτι (π.χ. "avc1.42c00d" ή "mp4a.40.2") για χρήση για τη δημιουργία αντικειμένων SourceBuffer με επεκτάσεις πηγής πολυμέσων	سلسلة؛ إعطاء معلمة برامج الترميز MIME لهذا المسار (على سبيل المثال "AVC1.42C00D" أو "MP4A.40.2") لإنشاء كائنات SourceBuffer مع ملحقات مصدر الوسائط
-track_desc_14	String; giving the 3-letter language code	Chaîne de charactère; donnant le code de langage à 3 lettres	Cadena de carácter; indicando el código de idioma con 3 letras	Συμβολοσειρά; δίνοντας τον κωδικό γλώσσας 3 γραμμάτων	سلسلة؛ إعطاء رمز اللغة 3 أحرف
-track_desc_15	Number; giving the number of track samples (ie. frames)	Nombre; donnant le nombre d'échantillons de piste (c-à-d images)	Número; indicando el número de muestras de pista (es decir imágenes)	Αριθμός; δίνοντας τον αριθμό των δειγμάτων κομματιού (π.χ. καρέ)	رقم؛ إعطاء عدد عينات المسار (أي إطارات)
+track_desc_12	Number; providing the duration of the (unfragmented part of) track in timescale units	Nombre; donnant la duréee de la (partie défragmentée de la) piste en unité de temps	Número; indicando la duración de la (parte desfragmentada de la) pista en unidad de tiempo	Αριθμός; παρέχοντας τη διάρκεια (μη τεμαχισμένου τμήματος) του κομματιού σε μονάδες της κλίμακας χρόνου	رقم؛ توفر مدة المسار (الجزء غير المقطوع) في الوحدات الزمنية
+track_desc_13	String; giving the MIME codecs parameter for this track (e.g. ''avc1.42c00d'' or ''mp4a.40.2'') to be used to create SourceBuffer objects with Media Source Extensions	Chaîne de charactère; donnant les paramètres codecs MIME pour cette piste (ex. ''avc1.42c00d'' ou ''mp4a.40.2'') pour être utilisé pour créer un objet SourceBuffer avec Media Source Extensions	Cadena de carácter; indicando los parametros codecs MIME para esta pista (ej. ''avc1.42c00d'' o ''mp4a.40.2'') para utilizarla para crear un objeto SourceBuffer con Media Source Extensions	Συμβολοσειρά; δίνοντας την παράμετρο κωδικοποιητών MIME για αυτό το κομμάτι (π.χ. "avc1.42c00d" ή "mp4a.40.2") για χρήση για τη δημιουργία αντικειμένων SourceBuffer με επεκτάσεις πηγής πολυμέσων	سلسلة نصية؛ إعطاء معلمات ترميز MIME لهذا المسار (على سبيل المثال ''avc1.42c00d'' أو ''mp4a.40.2'') لاستخدامها لإنشاء ملفات SourceBuffer مع تمديدات مصدر الوسائط
+track_desc_14	String; giving the 3-letter language code	Chaîne de charactère; donnant le code de langage à 3 lettres	Cadena de carácter; indicando el código de idioma con 3 letras	Συμβολοσειρά; δίνοντας τον κωδικό γλώσσας 3 γραμμάτων	سلسلةنصية؛ تعطي رمز اللغة من 3 أحرف
+track_desc_15	Number; giving the number of track samples (ie. frames)	Nombre; donnant le nombre d'échantillons de piste (c-à-d images)	Número; indicando el número de muestras de pista (es decir imágenes)	Αριθμός; δίνοντας τον αριθμό των δειγμάτων κομματιού (π.χ. καρέ)	رقم؛ يعرض عدد عينات المسار (أي إطارات)
 track_desc_16					
-track_desc_17	Number; providing the bitrate of the track in bits per second	Nombre; taux de bits par second de la piste	Número; tasa de bits por segundo de la pista	Αριθμός; παρέχοντας το ρυθμό bit του κομματιού σε bits ανά δευτερόλεπτο	رقم؛ توفير البت في المسار في البتات في الثانية
+track_desc_17	Number; providing the bitrate of the track in bits per second	Nombre; taux de bits par second de la piste	Número; tasa de bits por segundo de la pista	Αριθμός; παρέχοντας το ρυθμό bit του κομματιού σε bits ανά δευτερόλεπτο	رقم; يعرض معدلات البت في الثانية من المسار
 audio_name_1	Identifier	Identifiant	Identificador	Αναγνωριστικό	المعرف
 audio_name_2	References	Réferences	Referencias	Αναφορές	مراجع
-audio_name_3	Created time	Date de création	Fecha de creación	Ημερομηνία δημιουργίας	خلق الوقت
-audio_name_4	Modified time	Date de modification	Fecha de modificación	Ημερομηνία τροποποίσης	الوقت المعدل
+audio_name_3	Created time	Date de création	Fecha de creación	Ημερομηνία δημιουργίας	وقت الإنشاء
+audio_name_4	Modified time	Date de modification	Fecha de modificación	Ημερομηνία τροποποίσης	وقت التعديل 
 audio_name_5	Movie duration	Durée du film	Duración del video	Διάρκεια ταινίας	مدة الفيلم
-audio_name_6	Layer	Couches	Capa	Επίπεδο	طبقة
+audio_name_6	Layer	Couches	Capa	Επίπεδο	الطبقة
 audio_name_7	Alternate group	Groupes alternatifs	Grupo alternativo	Εναλλακτική ομάδα	مجموعة بديلة
-audio_name_8	Volume	Volume	Volumen	Ενταση	مقدار
-audio_name_9	Width	Largeur	Anchura	Πλάτος	عرض
-audio_name_10	Height	Hauteur	Altura	Υψος	ارتفاع
+audio_name_8	Volume	Volume	Volumen	Ενταση	الحجم
+audio_name_9	Width	Largeur	Anchura	Πλάτος	العرض
+audio_name_10	Height	Hauteur	Altura	Υψος	الارتفاع
 audio_name_11	Timescale	Unité de temps	Unidad de tiempo	Κλίμακα χρόνου	النطاق الزمني
-audio_name_12	Duration	Durée	Duración	Διάρκεια	مدة
+audio_name_12	Duration	Durée	Duración	Διάρκεια	المدة
 audio_name_13	Codec	Codec	Códec	Κωδικοποιητής	برنامج الترميز
-audio_name_14	Language	Langage	Idioma	Γλώσσα	لغة
-audio_name_15	Samples	Echantillon	Muestras	Δείγματα	عينات
-audio_name_16	Size	Taille	Tamaño	Μέγεθος	بحجم
+audio_name_14	Language	Langage	Idioma	Γλώσσα	اللغة
+audio_name_15	Samples	Echantillon	Muestras	Δείγματα	العينات
+audio_name_16	Size	Taille	Tamaño	Μέγεθος	الحجم
 audio_name_17	Bitrate	Taux de bit	Tasa de bits	Ρυθμός bit	معدل البت
-audio_desc_1	Number; giving track identifier	Nombre; Identifiant de la piste	Número; identificador de pista	Αριθμός; δίνοντας αναγνωριστικό κομματιού	رقم؛ إعطاء معرف المسار
+audio_desc_1	Number; giving track identifier	Nombre; Identifiant de la piste	Número; identificador de pista	Αριθμός; δίνοντας αναγνωριστικό κομματιού	رقم؛ يعطي معرف المسار
 audio_desc_2					
-audio_desc_3	Date object; indicating the creation date of the file as given in the track header	Date; indiquant la date de création du fichier comme donnée dans l'entête de la piste	Fecha; indicando la fecha de creación del fichero como indicado en el encabezamiento de la pista	Αντικείμενο ημερομηνίας; υποδεικνύοντας την ημερομηνία δημιουργίας του αρχείου όπως αναφέρεται στην κεφαλίδα του κομματιού	كائن التاريخ ؛ تشير إلى تاريخ إنشاء الملف على النحو الوارد في رأس المسار
-audio_desc_4	Date object; indicating the last modification date of the file as given in the track header	Date; indiquant la date de dernière modification du fichier comme donnée dans l'entête de la piste	Fecha; indicando la fecha de la ultima modificación del fichero como indicado en el encabezamiento de la pista	Αντικείμενο ημερομηνίας; υποδεικνύοντας την τελευταία ημερομηνία τροποποίησης του αρχείου όπως αναφέρεται στην κεφαλίδα του κομματιού	كائن التاريخ ؛ تشير إلى آخر تاريخ تعديل للملف على النحو الوارد في رأس المسار
+audio_desc_3	Date object; indicating the creation date of the file as given in the track header	Date; indiquant la date de création du fichier comme donnée dans l'entête de la piste	Fecha; indicando la fecha de creación del fichero como indicado en el encabezamiento de la pista	Αντικείμενο ημερομηνίας; υποδεικνύοντας την ημερομηνία δημιουργίας του αρχείου όπως αναφέρεται στην κεφαλίδα του κομματιού	التاريخ ؛ تشير إلى تاريخ إنشاء الملف على النحو الوارد في رأس المسار
+audio_desc_4	Date object; indicating the last modification date of the file as given in the track header	Date; indiquant la date de dernière modification du fichier comme donnée dans l'entête de la piste	Fecha; indicando la fecha de la ultima modificación del fichero como indicado en el encabezamiento de la pista	Αντικείμενο ημερομηνίας; υποδεικνύοντας την τελευταία ημερομηνία τροποποίησης του αρχείου όπως αναφέρεται στην κεφαλίδα του κομματιού	 التاريخ ؛ تشير إلى آخر تاريخ تعديل للملف على النحو الوارد في رأس المسار
 audio_desc_5					
 audio_desc_6	Number; layer information as indicated in the track header	Nombre; information de couche indiqué dans l'entête de piste	Número; información de la capa indicada en el encabezamiento de la pista	Αριθμός; πληροφορίες επιπέδου όπως αναφέρεται στην κεφαλίδα του κομματιού	رقم؛ معلومات الطبقة كما هو موضح في رأس المسار
 audio_desc_7	Number; identifier of the alternate group the track belongs to	Nombre; identifiant du groupe alternatif auquel la piste appartient	Número; identificación del grupo alternativo del cual pertenece la pista	Αριθμός; αναγνωριστικό της εναλλακτικής ομάδας στην οποία ανήκει το κομμάτι	رقم؛ معرف المجموعة البديلة التي ينتمي إليها المسار
@@ -187,16 +187,16 @@ audio_desc_8
 audio_desc_9	Number; width of the track as indicated in the track header	Nombre; largeur de la piste comme indiqué dans l'entête de piste	Número; anchura de la pista como indicado en el encabezamiento de la pista	Αριθμός; πλάτος του κομματιού όπως υποδεικνύεται στην κεφαλίδα του κομματιού	رقم؛ عرض المسار كما هو موضح في رأس المسار
 audio_desc_10	Number; height of the track as indicated in the track header	Nombre; hauteur de la piste comme indiqué dans l'entête de piste	Número; altura de la pista como indicado en el encabezamiento de la pista	Αριθμός; ύψος του κομματιού όπως υποδεικνύεται στην κεφαλίδα του κομματιού	رقم؛ ارتفاع المسار كما هو موضح في رأس المسار
 audio_desc_11	Number; indicating the track timescale as given in the track header	Nombre; indiquant l'unité de temps de la piste comme donné dans l'entête de la piste	Número; indicando la unidad de tiempo de la pista como indicado en el encabezamiento de la pista	Αριθμός; υποδεικνύοντας την χρονική κλίμακα του κομματιού όπως αναφέρεται στην κεφαλίδα του κομματιού	رقم؛ تشير إلى النطاق الزمني للمقطوعة على النحو الوارد في رأس المسار
-audio_desc_12	Number; providing the duration of the (unfragmented part of) track in timescale units	Nombre; donnant la duréee de la (partie défragmentée de la) piste en unité de temps	Número; indicando la duración de la (parte desfragmentada de la) pista en unidad de tiempo	Αριθμός; παρέχοντας τη διάρκεια (μη τεμαχισμένου τμήματος) του κομματιού σε μονάδες της κλίμακας χρόνου	رقم؛ توفير مدة المسار (الجزء غير المعقول) في الوحدات الزمنية
-audio_desc_13	String; giving the MIME codecs parameter for this track (e.g. ''avc1.42c00d'' or ''mp4a.40.2'') to be used to create SourceBuffer objects with Media Source Extensions	Chaîne de charactère; donnant les paramètres codecs MIME pour cette piste (ex. ''avc1.42c00d'' ou ''mp4a.40.2'') pour être utilisé pour créer un objet SourceBuffer avec Media Source Extensions	Cadena de carácter; indicando los parametros codecs MIME para esta pista (ej. ''avc1.42c00d'' o ''mp4a.40.2''') para utilizarla para crear un objeto SourceBuffer con Media Source Extensions	Συμβολοσειρά; δίνοντας την παράμετρο κωδικοποιητών MIME για αυτό το κομμάτι (π.χ. "avc1.42c00d" ή "mp4a.40.2") για χρήση για τη δημιουργία αντικειμένων SourceBuffer με επεκτάσεις πηγής πολυμέσων	سلسلة؛ إعطاء معلمة برامج الترميز MIME لهذا المسار (على سبيل المثال "AVC1.42C00D" أو "MP4A.40.2") لإنشاء كائنات SourceBuffer مع ملحقات مصدر الوسائط
-audio_desc_14	String; giving the 3-letter language code	Chaîne de charactère; donnant le code de langage à 3 lettres	Cadena de carácter; indicando el código de idioma con 3 letras	Συμβολοσειρά; δίνοντας τον κωδικό γλώσσας 3 γραμμάτων	سلسلة؛ إعطاء رمز اللغة 3 أحرف
-audio_desc_15	Number; giving the number of track samples (ie. frames)	Nombre; donnant le nombre d'échantillons de piste (c-à-d images)	Número; indicando el número de muestras de pista (es decir imágenes)	Αριθμός; δίνοντας τον αριθμό των δειγμάτων κομματιού (π.χ. καρέ)	رقم؛ إعطاء عدد عينات المسار (أي إطارات)
+audio_desc_12	Number; providing the duration of the (unfragmented part of) track in timescale units	Nombre; donnant la duréee de la (partie défragmentée de la) piste en unité de temps	Número; indicando la duración de la (parte desfragmentada de la) pista en unidad de tiempo	Αριθμός; παρέχοντας τη διάρκεια (μη τεμαχισμένου τμήματος) του κομματιού σε μονάδες της κλίμακας χρόνου	رقم؛ توفير مدة المسار (الجزء غير المقطوع) في الوحدات الزمنية
+audio_desc_13	String; giving the MIME codecs parameter for this track (e.g. ''avc1.42c00d'' or ''mp4a.40.2'') to be used to create SourceBuffer objects with Media Source Extensions	Chaîne de charactère; donnant les paramètres codecs MIME pour cette piste (ex. ''avc1.42c00d'' ou ''mp4a.40.2'') pour être utilisé pour créer un objet SourceBuffer avec Media Source Extensions	Cadena de carácter; indicando los parametros codecs MIME para esta pista (ej. ''avc1.42c00d'' o ''mp4a.40.2''') para utilizarla para crear un objeto SourceBuffer con Media Source Extensions	Συμβολοσειρά; δίνοντας την παράμετρο κωδικοποιητών MIME για αυτό το κομμάτι (π.χ. "avc1.42c00d" ή "mp4a.40.2") για χρήση για τη δημιουργία αντικειμένων SourceBuffer με επεκτάσεις πηγής πολυμέσων	سلسلة نصية؛ إعطاء معلمات ترميز MIME لهذا المسار (على سبيل المثال ''avc1.42c00d'' أو ''mp4a.40.2'') لاستخدامها لإنشاء ملفات SourceBuffer مع تمديدات مصدر الوسائط
+audio_desc_14	String; giving the 3-letter language code	Chaîne de charactère; donnant le code de langage à 3 lettres	Cadena de carácter; indicando el código de idioma con 3 letras	Συμβολοσειρά; δίνοντας τον κωδικό γλώσσας 3 γραμμάτων	سلسلةنصية؛ تعطي رمز اللغة من 3 أحرف
+audio_desc_15	Number; giving the number of track samples (ie. frames)	Nombre; donnant le nombre d'échantillons de piste (c-à-d images)	Número; indicando el número de muestras de pista (es decir imágenes)	Αριθμός; δίνοντας τον αριθμό των δειγμάτων κομματιού (π.χ. καρέ)	رقم؛ يعرض عدد عينات المسار (أي إطارات)
 audio_desc_16					
-audio_desc_17	Number; providing the bitrate of the track in bits per second	Nombre; taux de bits par second de la piste	Número; tasa de bits por segundo de la pista	Αριθμός; παρέχοντας το ρυθμό bit του κομματιού σε bits ανά δευτερόλεπτο	رقم؛ توفير البت في المسار في البتات في الثانية
+audio_desc_17	Number; providing the bitrate of the track in bits per second	Nombre; taux de bits par second de la piste	Número; tasa de bits por segundo de la pista	Αριθμός; παρέχοντας το ρυθμό bit του κομματιού σε bits ανά δευτερόλεπτο	رقم; يعرض معدلات البت في الثانية من المسار
 metadata_content_title	Metadata	Métadonnées	Metadatos	Μεταδεδομένα	البيانات الوصفية
 metadata_title	Video Metadata	Métadonnées de la video	Metadatos del video	Μεταδεδομένα βίντεο	بيانات تعريف الفيديو
 track_title	Video Track	Piste vidéo	Pista de video	Κομμάτι βίντεο	مسار الفيديو
 audio_title	Audio track	Piste audio	Pista audio	Kομμάτι ήχου 	مقطع صوتي
-cardheader_source	Source of the media	Source des médias	Fuente de los medios	Πηγή των μέσων ενημέρωσης	مصدر وسائل الإعلام
+cardheader_source	Source of the media	Source des médias	Fuente de los medios	Πηγή των μέσων ενημέρωσης	مصدر  الوسائط
 cardheader_results	Results	Résultats	Resultados	Αποτελέσματα	نتائج
 description_limitations	The images must be in jpg/jpeg format and the videos in mp4/m4v format	Les images doivent être au format jpg/jpeg et les vidéos au format mp4/m4v	Las imágenes deben estar en formato jpg / jpeg y los videos en formato mp4 / m4v	Οι εικόνες πρέπει να είναι σε μορφή jpg / jpeg και τα βίντεο σε μορφή mp4 / m4v	يجب أن تكون الصور بتنسيق JPG/JPEG ومقاطع الفيديو بتنسيق MP4/M4V
