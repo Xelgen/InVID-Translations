@@ -4,8 +4,8 @@ twitter_sna_title	Twitter Social network analysis (beta)	Analyse des réseaux so
 twitter_sna_search	Keyword, URL or #	Mot clé, URL ou #	Palabra clave, URL o #	Λέξη-κλειδί, διεύθυνση URL ή #	Հիմնաբառ, URL կամ #
 twitter_sna_not	Words to exclude in the query	Mots à exclure de la requête	Palabras a excluir en la consulta	Λέξεις για εξαίρεση στο ερώτημα	Բառեր, հարցումում բացառելու համար
 twitter_sna_user	Tweeted by (Twitter account name)	Tweeté par (Nom de compte Twitter)	Twiteado por (Nombre de una cuenta de Twitter)	Tweet από (Όνομα λογαριασμού Twitter)	Tweeted by (Twitter հաշվի անվանումը)
-twitter_sna_from_date	Since	Depuis	Desde	Από	Ի վեր
-twitter_sna_until_date	Until	Jusqu'à	Hasta	Εως	Մինչեւ
+twitter_sna_from_date	Since	Depuis	Desde	Από	Սկսած
+twitter_sna_until_date	Until	Jusqu'à	Hasta	Εως	Մինչև
 twitter_local_time	Local time	Heure locale	Hora local	Τοπική ώρα	Տեղական ժամանակ
 twitter_sna_gmt	GMT	GMT	GMT	GMT	Գցել
 twitter_sna_media	Filters :	Filtres :	Filtros :	Φιλτρα:	Զտիչներ.
@@ -54,12 +54,12 @@ retweets_cloud_chart_title	Most retweeted users	Utilisateurs les plus retweetés
 likes_cloud_chart_title	Most liked users	Utilisateurs les plus likés	Usuarios con más likes	Χρήστες που εχουν γίνεi περισσότερο like	Առավել դուր եկած օգտվողները
 top_words_cloud_chart_title	Most used words in tweets	Mots les plus utilisés dans les tweets	Palabras más utilizadas en tweets	Λέξεις που χρησιμοποιήθηκαν πιο πολύ στα tweets	Ամենաշատ օգտագործված բառերը թվիթերում
 tweetCounter_title	Tweets number	Nombre de tweets	Número de Tweet	Αριθμος tweets	Թվիթերների համարը
-sosem_graph_title	Socio-semantic graph (hashtags and mentioned users)	Graphe socio-sémantique (hashtags et utilisateurs mentionnés)	Grafo socio-semantico (hashtags y usuarios mencionados)	Κοινωνικο-σημασιολογικό γράφημα (hashtag και αναφερόμενοι χρήστες)	Սոցիալ-իմաստաբանական գրաֆիկ (հեշթագներ եւ նշված օգտվողներ)
+sosem_graph_title	Socio-semantic graph (hashtags and mentioned users)	Graphe socio-sémantique (hashtags et utilisateurs mentionnés)	Grafo socio-semantico (hashtags y usuarios mencionados)	Κοινωνικο-σημασιολογικό γράφημα (hashtag και αναφερόμενοι χρήστες)	Սոցիալ-իմաստաբանական գրաֆիկ (հեշթագներ և նշված օգտվողներ)
 sosem_4mode_graph_title	Socio-semantic graph (hashtags, URLs, mentions, quoted RTs, unedited RTs, replies)	Graphe socio-sémantique (hashtags, URLs, mentions, RTs, RTs avec commentaire, réponses)	Grafo socio-semantico (hashtags, URLs, mencionados, RTs, RTs con comentarios, respuestas)	Κοινωνικο σημασιολογικό γράφημα (hashtag, URLs, αναφορές, RT, RT με σχόλιο, απαντήσεις)	Սոցիալ-իմաստաբանական գրաֆիկ (հեշթագներ, URLS, նշումներ, մեջբերված RTS, Unedited RTS, պատասխաններ)
 account_creation_date_chart_title	Count of account creation date chart	Graphique des créations de compte	Gráfico de fechas de creación de cuentas	Διάγραμμα των ημερομηνιών δημιουργίας λογαριασμών	Հաշվի ստեղծման ամսաթվի աղյուսակի հաշվարկ
 bubble_chart_title	Bubble chart of top 100 most active accounts	Graphique des 100 comptes les plus actifs	Gráfico de las 100 cuentas más activas	Διάγραμμα φυσαλίδων με τους 100 πιο ενεργούς λογαριασμούς	Թոփ 100 ամենաակտիվ հաշիվների պղպջակների գծապատկեր
 user_graph_title	User accounts graph	Graphe de comptes utilisateurs	Grafo de cuentas de usuarios	ράφημα λογαριασμών χρηστών	Օգտագործողի հաշիվների գրաֆիկ
-export_graph_title	Export Interaction graph (gexf format)	Exporter un graphe des interactions au format Gexf	Exportar el grafo de interacciones en formato Gexf	Εξαγωγή γραφήματος αλληλεπίδρασης (μορφή gexf)	Արտահանման փոխազդեցության գրաֆիկ (GEXF ձեւաչափ)
+export_graph_title	Export Interaction graph (gexf format)	Exporter un graphe des interactions au format Gexf	Exportar el grafo de interacciones en formato Gexf	Εξαγωγή γραφήματος αλληλεπίδρασης (μορφή gexf)	Արտահանման փոխազդեցության գրաֆիկ (GEXF ձևաչափ)
 heatmap_chart_title	Heatmap of tweets distribution	Cartographie d'activité	Mapa de actividad	Heatmap της διανομής των tweets	Թվիթերի բաշխման ջերմապաշար
 elastic_url	Url	Url	Url	Σύνδεσμος	Url
 elastic_count	Number	Nombre	Candidad	Αριθμός	Թիվ
@@ -88,20 +88,20 @@ twittersna_result_submit_twitter_sna	Submit to Twitter SNA	Envoyer à Twitter SN
 twittersna_result_view_graph	View graph	Voir le graphe	Ver el grafo	Προβολή γραφήματος	Դիտեք գրաֆիկը
 twittersna_no_community	No community detected	Pas de communauté détectée	No se encontro comunidad	Δεν εντοπίστηκε κοινότητα	Ոչ մի համայնք չի հայտնաբերվել
 twittersna_acd	Account Creation Date	Date de création du compte	Fecha de creación de la cuenta	Ημερομηνία δημιουργίας λογαριασμού	Հաշվի ստեղծման ամսաթիվը
-twittersna_nb_followers	Number of followers	Nombre d'abonnés	Número de abonados	Αριθμός ακολούθων	Հետեւորդների քանակը
+twittersna_nb_followers	Number of followers	Nombre d'abonnés	Número de abonados	Αριθμός ακολούθων	Հետևորդների քանակը
 disable_cache	Disable cache	Désactiver le cache	Desactivar el caché	απενεργοποίηση προσωρινής μνήμης	Անջատեք քեշը
 twittersna_invalid_credentials	Invalid authentication information	Les informations d'authentification ne sont pas valables	La información de autenticación no es válida	Μη έγκυρη πληροφόρηση αυθεντικοποίησης	Անվավեր վավերացման տեղեկատվություն
 twittersna_start	Loading	Chargement	Cargando	Φόρτωση	Բեռնում
 cardheader_parameters	Parameters	Paramètres	Parámetros	Παράμετροι	Պարամետրեր
 explanation_keyword	Element to search, it can be a keyword, a URL or a Hastag	Élément à rechercher, il peut s'agir d'un mot-clé, d'une URL ou d'un hastag	Elemento para buscar, puede ser una palabra clave, una URL o una agonía	Στοιχείο για αναζήτηση, μπορεί να είναι μια λέξη-κλειδί, μια διεύθυνση URL ή ένα hastag	Որոնման տարրը կարող է լինել հիմնաբառ, URL կամ HASTAG
-explanation_dates	Dates between the tweets were analyzed for the search term indicated	Les dates entre les tweets ont été analysées pour le terme de recherche indiqué	Las fechas entre los tweets fueron analizadas para el término de búsqueda indicado	Οι ημερομηνίες μεταξύ των Tweets αναλύθηκαν για τον όρο αναζήτησης που υποδεικνύεται	Թվիթերի միջեւ ամսաթվերը վերլուծվել են նշված որոնման տերմինի համար
+explanation_dates	Dates between the tweets were analyzed for the search term indicated	Les dates entre les tweets ont été analysées pour le terme de recherche indiqué	Las fechas entre los tweets fueron analizadas para el término de búsqueda indicado	Οι ημερομηνίες μεταξύ των Tweets αναλύθηκαν για τον όρο αναζήτησης που υποδεικνύεται	Թվիթերի միջև ամսաթվերը վերլուծվել են նշված որոնման տերմինի համար
 explanation_timezone	Specify the time zone of the dates introduced before	Spécifiez le fuseau horaire des dates introduites avant	Especifique la zona horaria de las fechas introducidas antes.	Καθορίστε τη ζώνη ώρας των ημερομηνιών που εισάγονται πριν	Նշեք նախկինում ներկայացված ամսաթվերի ժամային գոտին
 explanation_exclude	Specify words that you don’t want to analyze in the search results	Spécifiez des mots que vous ne voulez pas analyser dans les résultats de la recherche	Especifique palabras que no desea analizar en los resultados de búsqueda	Καθορίστε λέξεις που δεν θέλετε να αναλύσετε στα αποτελέσματα αναζήτησης	Նշեք բառերը, որոնք դուք չեք ցանկանում վերլուծել որոնման արդյունքներում
 explanation_language	Specify the language in which the tweets are going to be analyzed	Spécifiez la langue dans laquelle les tweets vont être analysés	Especifique el idioma en el que se analizarán los tweets.	Καθορίστε τη γλώσσα στην οποία θα αναλυθούν τα tweets	Նշեք այն լեզուն, որում կվերլուծվեն թվիթերը
 explanation_account	Specify the twitter account whose tweets are going to be analyzed	Spécifiez le compte Twitter dont les tweets vont être analysés	Especifique la cuenta de Twitter cuyos tweets se analizarán	Καθορίστε τον λογαριασμό Twitter του οποίου θα αναλυθούν τα tweets	Նշեք Twitter- ի հաշիվը, որի թվիթերը կվերլուծվեն
 explanation_verified	Specify if you only want to analyze tweets of verified accounts	Spécifiez si vous voulez seulement analyser les tweets des comptes vérifiés	Especifique si solo desea analizar tweets de cuentas verificadas	Καθορίστε εάν θέλετε μόνο να αναλύσετε τα tweets των επαληθευμένων λογαριασμών	Նշեք, արդյոք դուք միայն ցանկանում եք վերլուծել ստուգված հաշիվների թվիթեր
 explanation_media	Specify the media elements that you want to analyze	Spécifiez les éléments de support que vous souhaitez analyser	Especifique los elementos de medios que desea analizar.	Καθορίστε τα στοιχεία πολυμέσων που θέλετε να αναλύσετε	Նշեք լրատվամիջոցների տարրերը, որոնք ցանկանում եք վերլուծել
-explanation_cache	Specify if you want to ignore the caché of the server and process the search as a new one	Spécifiez si vous souhaitez ignorer le caché du serveur et traiter la recherche en tant que nouvelle	Especifique si desea ignorar el Caché del servidor y procese la búsqueda como una nueva	Καθορίστε εάν θέλετε να αγνοήσετε την Caché του διακομιστή και να επεξεργαστείτε την αναζήτηση ως ένα νέο	Նշեք, արդյոք ցանկանում եք անտեսել սերվերի Caché- ը եւ որոնել որոնումը որպես նոր
+explanation_cache	Specify if you want to ignore the caché of the server and process the search as a new one	Spécifiez si vous souhaitez ignorer le caché du serveur et traiter la recherche en tant que nouvelle	Especifique si desea ignorar el Caché del servidor y procese la búsqueda como una nueva	Καθορίστε εάν θέλετε να αγνοήσετε την Caché του διακομιστή και να επεξεργαστείτε την αναζήτηση ως ένα νέο	Նշեք, արդյոք ցանկանում եք անտեսել սերվերի Caché- ը և որոնել որոնումը որպես նոր
 twittersna_searchparameters	Search parameters	Paramètres de recherche	Parámetros de búsqueda	Παράμετροι αναζήτησης	Որոնման պարամետրեր
 twittersna_title_timezone	Time zone of the dates	Fuseau horaire des dates	Zona horaria de las fechas	Ζώνη ώρας των ημερομηνιών	Ամսաթվերի ժամային գոտի
 twittersna_title_optional	Optional parameters	Paramètres facultatifs	Parámetros opcionales	Προαιρετικές παράμετροι	Ընտրովի պարամետրեր
