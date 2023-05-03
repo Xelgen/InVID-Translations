@@ -175,7 +175,7 @@ audio_name_13	Codec	Codec	Códec	Κωδικοποιητής	Կոդեկ
 audio_name_14	Language	Langage	Idioma	Γλώσσα	Լեզու
 audio_name_15	Samples	Echantillon	Muestras	Δείγματα	Նմուշներ
 audio_name_16	Size	Taille	Tamaño	Μέγεθος	Չափ
-audio_name_17	Bitrate	Taux de bit	Tasa de bits	Ρυθμός bit	Բիտրացնել
+audio_name_17	Bitrate	Taux de bit	Tasa de bits	Ρυθμός bit	Բիթրեյթ
 audio_desc_1	Number; giving track identifier	Nombre; Identifiant de la piste	Número; identificador de pista	Αριθμός; δίνοντας αναγνωριστικό κομματιού	Թիվ; Ուղեկցող նույնացուցիչ
 audio_desc_2					
 audio_desc_3	Date object; indicating the creation date of the file as given in the track header	Date; indiquant la date de création du fichier comme donnée dans l'entête de la piste	Fecha; indicando la fecha de creación del fichero como indicado en el encabezamiento de la pista	Αντικείμενο ημερομηνίας; υποδεικνύοντας την ημερομηνία δημιουργίας του αρχείου όπως αναφέρεται στην κεφαλίδα του κομματιού	Ամսաթիվ օբյեկտ; նշելով ֆայլի ստեղծման ամսաթիվը, ինչպես տրված է հետքի վերնագրում
@@ -192,11 +192,11 @@ audio_desc_13	String; giving the MIME codecs parameter for this track (e.g. ''av
 audio_desc_14	String; giving the 3-letter language code	Chaîne de charactère; donnant le code de langage à 3 lettres	Cadena de carácter; indicando el código de idioma con 3 letras	Συμβολοσειρά; δίνοντας τον κωδικό γλώσσας 3 γραμμάτων	Լարային; տալով 3-տառի լեզվով ծածկագիրը
 audio_desc_15	Number; giving the number of track samples (ie. frames)	Nombre; donnant le nombre d'échantillons de piste (c-à-d images)	Número; indicando el número de muestras de pista (es decir imágenes)	Αριθμός; δίνοντας τον αριθμό των δειγμάτων κομματιού (π.χ. καρέ)	Թիվ; Track նմուշների քանակը տալով (այսինքն `շրջանակներ)
 audio_desc_16					
-audio_desc_17	Number; providing the bitrate of the track in bits per second	Nombre; taux de bits par second de la piste	Número; tasa de bits por segundo de la pista	Αριθμός; παρέχοντας το ρυθμό bit του κομματιού σε bits ανά δευτερόλεπτο	Թիվ; Ուղու բիտրատը ապահովելով երկու վայրկյանով
+audio_desc_17	Number; providing the bitrate of the track in bits per second	Nombre; taux de bits par second de la piste	Número; tasa de bits por segundo de la pista	Αριθμός; παρέχοντας το ρυθμό bit του κομματιού σε bits ανά δευτερόλεπτο	Թիվ; Ցույց է տալիս ուղու բիթրեյթը՝ բիթ վարկյանում միավորով
 metadata_content_title	Metadata	Métadonnées	Metadatos	Μεταδεδομένα	Մետատվյալներ
-metadata_title	Video Metadata	Métadonnées de la video	Metadatos del video	Μεταδεδομένα βίντεο	Տեսանյութ մետատվյալներ
-track_title	Video Track	Piste vidéo	Pista de video	Κομμάτι βίντεο	Վիդեո ուղին
-audio_title	Audio track	Piste audio	Pista audio	Kομμάτι ήχου 	Աուդիո ուղու
-cardheader_source	Source of the media	Source des médias	Fuente de los medios	Πηγή των μέσων ενημέρωσης	Լրատվամիջոցների աղբյուրը
+metadata_title	Video Metadata	Métadonnées de la video	Metadatos del video	Μεταδεδομένα βίντεο	Տեսանյութի մետատվյալներ
+track_title	Video Track	Piste vidéo	Pista de video	Κομμάτι βίντεο	Վիդեո ուղի
+audio_title	Audio track	Piste audio	Pista audio	Kομμάτι ήχου 	Աուդիո ուղի
+cardheader_source	Source of the media	Source des médias	Fuente de los medios	Πηγή των μέσων ενημέρωσης	Պատկերի աղբյուրը
 cardheader_results	Results	Résultats	Resultados	Αποτελέσματα	Արդյունքները
-description_limitations	The images must be in jpg/jpeg format and the videos in mp4/m4v format	Les images doivent être au format jpg/jpeg et les vidéos au format mp4/m4v	Las imágenes deben estar en formato jpg / jpeg y los videos en formato mp4 / m4v	Οι εικόνες πρέπει να είναι σε μορφή jpg / jpeg και τα βίντεο σε μορφή mp4 / m4v	Պատկերները պետք է լինեն JPG / JPEG ձեւաչափով եւ տեսանյութերը MP4 / M4V ձեւաչափով
+description_limitations	The images must be in jpg/jpeg format and the videos in mp4/m4v format	Les images doivent être au format jpg/jpeg et les vidéos au format mp4/m4v	Las imágenes deben estar en formato jpg / jpeg y los videos en formato mp4 / m4v	Οι εικόνες πρέπει να είναι σε μορφή jpg / jpeg και τα βίντεο σε μορφή mp4 / m4v	Պատկերները պետք է լինեն JPG / JPEG ձևաչափթվ, իսկ տեսանյութերը MP4 / M4V ձևաչափով
