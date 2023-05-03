@@ -5,7 +5,7 @@ metadata_content_input_placeholder	Paste the video or image link here	Collez le 
 button_localfile	Local file	Fichier local	Fichero local	Τοπικό αρχείο	Ֆայլ համակարգչից
 metadata_radio_image	Image	Image	Imagen	Εικόνα	Պատկեր
 metadata_radio_video	Video	Vidéo	Video	Βίντεο	Տեսանյութ
-button_submit	Submit	Envoyer	Enviar	Υποβολή	Ուղարկել
+button_submit	Submit	Envoyer	Enviar	Υποβολή	Վերլուծել
 please_give_a_correct_link	Please give a correct link	Donner un lien valide s'il vous plaît	Por favor, dé un enlace válido	Παρακαλώ δώστε έναν σωστό σύνδεσμο	Խնդրում ենք տրամադրել ճիշտ հղում
 metadata_img_error_exif	No EXIF Metadata was found. Note: The EXIF standard applies only to .jpg and .tiff images	Aucune métadonnée EXIF n'a été trouvée. Note: Le Format EXIF s'applique uniquement aux images .jpg et .tiff	No se encontraron metadatos EXIF. Note: El estándar EXIF se aplica sólo a imágenes.jpg y.tiff	Δεν βρέθηκαν EXIF μεταδεδομένα. Σημείωση: Το πρότυπο EXIF ​​ισχύει μόνο για εικόνες .jpg και .tiff	Ոչ մի EXIF մետատվյալ չի գտնվել: Նշում. EXIF ստանդարտը կիրառվում է միայն .jpg և .tiff պատկերներում
 metadata_table_error	Video failed loading. Check the URL and try again	Vidéo impossible à charger. Veuillez verifier l'URL et réessayer	Fue imposible descargar el video. Verifica el URL y vuelve a intentarlo	Η φόρτωση του βίντεο απέτυχε. Ελέγξτε τη διεύθυνση URL και δοκιμάστε ξανά	Տեսանյութի բեռնում ձախողվեց: Ստուգեք URL-ը և կրկին փորձեք
