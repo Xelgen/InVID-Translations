@@ -1,4 +1,5 @@
 .DS_Store
 .gsheet
 ~lock.*
+*lock.*
 components/NavItems/.~lock.Interactive.tsv\#
